@@ -15,7 +15,7 @@ from sklearn.metrics.pairwise import euclidean_distances
 # 1. PAGE CONFIGURATION & LIQUID GLASS THEME
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="AI Tourism Recommender | Liquid Glass Dashboard",
+    page_title="Local Tourism Recommender | Dashboard",
     page_icon="🧭",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -226,12 +226,11 @@ df, metrics_df, profiles_df, df_assigned = load_all_data()
 with st.sidebar:
     st.markdown("""
     <div style="padding: 10px 0 20px 0;">
-        <div class="liquid-badge">🧭 AI Tourism Intel</div>
         <div style="font-family: 'Outfit'; font-size: 1.4rem; font-weight: 700; color: #fff;">
             Tourism Discovery
         </div>
         <div style="font-size: 0.82rem; color: #94a3b8;">
-            Liquid Glass Unsupervised Suite
+            Unsupervised Suite
         </div>
     </div>
     """, unsafe_allow_html=True)
@@ -246,7 +245,7 @@ with st.sidebar:
             "🌌 2D & 3D PCA Space",
             "📈 Benchmark & Distance Comparison",
             "👤 Personas & Cluster Profiles",
-            "🎯 Smart Destination Recommender",
+            "🎯 Destination Recommender",
             "💾 Data Catalog & Export"
         ],
         index=0
@@ -257,8 +256,7 @@ with st.sidebar:
     <div style="font-size: 0.75rem; color: #64748b; line-height: 1.5;">
         <b>Engine:</b> K-Means & Hierarchical<br>
         <b>Data:</b> India Guide + UCSD Google Local<br>
-        <b>NLP:</b> VADER Polarity Scoring<br>
-        <b>Aesthetic:</b> Liquid Glass Frosted UI
+        <b>NLP:</b> VADER Polarity Scoring
     </div>
     """, unsafe_allow_html=True)
 
@@ -280,7 +278,7 @@ if menu == "🌟 Executive Overview":
     st.markdown("""
     <div class="liquid-card">
         <div class="liquid-badge">INTEGRATED TOURISM INTELLIGENCE</div>
-        <div class="glow-title">AI-Powered Local Tourism Recommender</div>
+        <div class="glow-title">Local Tourism Recommender</div>
         <p style="color: #94a3b8; font-size: 1.05rem; max-width: 900px; margin-bottom: 24px;">
             A multi-dimensional unsupervised learning system harmonizing India's premier tourist destinations 
             with <b>11.45 million reviews</b> from the UCSD Google Local dataset, precision GPS bounds, 
@@ -739,13 +737,13 @@ elif menu == "👤 Personas & Cluster Profiles":
         st.markdown("</div>", unsafe_allow_html=True)
 
 # -----------------------------------------------------------------------------
-# PAGE 8: SMART DESTINATION RECOMMENDER
+# PAGE 8: DESTINATION RECOMMENDER
 # -----------------------------------------------------------------------------
-elif menu == "🎯 Smart Destination Recommender":
+elif menu == "🎯 Destination Recommender":
     st.markdown("""
     <div class="liquid-card">
-        <div class="liquid-badge">AI RECOMMENDATION ENGINE</div>
-        <div class="glow-title">Smart Destination Recommender</div>
+        <div class="liquid-badge">RECOMMENDATION ENGINE</div>
+        <div class="glow-title">Destination Recommender</div>
         <p style="color: #94a3b8;">Discover personalized travel recommendations using cluster neighborhoods and multi-attribute similarity.</p>
     </div>
     """, unsafe_allow_html=True)

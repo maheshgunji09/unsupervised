@@ -49,7 +49,7 @@ def generate_all_notebooks():
     # 01_data_exploration.ipynb
     nb1_cells = [
         md_cell("""# 01 - Exploratory Data Analysis (EDA)
-## AI-Powered Local Tourism Recommender
+## Local Tourism Recommender
 This notebook explores the original Indian tourism dataset (`data.csv`) and analyzes key patterns in tourist destinations, geographical distribution, visitor fees, durations, and original ratings."""),
         code_cell("""import pandas as pd
 import numpy as np
