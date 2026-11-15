@@ -14,20 +14,18 @@ from sklearn.metrics.pairwise import euclidean_distances
 # Import Liquid Glass Design System
 import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
-from liquid_glass_theme import get_liquid_glass_svg_filters, get_liquid_glass_css, get_apple_plotly_layout
+from liquid_glass_theme import get_liquid_glass_css, get_apple_plotly_layout, get_lucide_icon
 
 # -----------------------------------------------------------------------------
-# 1. PAGE CONFIGURATION & APPLE LIQUID GLASS INJECTION
+# 1. PAGE CONFIGURATION & APPLE TAHOE LIQUID GLASS INJECTION
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="AI-Powered Local Tourism Recommender | Liquid Glass",
-    page_icon="🧭",
+    page_title="Local Tourism Recommender | Dashboard",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
-# Inject SVG optical refraction filters and Liquid Glass CSS
-st.markdown(get_liquid_glass_svg_filters(), unsafe_allow_html=True)
+# Inject Central CSS Design Tokens & Lucide Icon System
 st.markdown(get_liquid_glass_css(), unsafe_allow_html=True)
 
 # -----------------------------------------------------------------------------
@@ -62,155 +60,143 @@ def load_all_data():
 df, metrics_df, profiles_df, df_assigned = load_all_data()
 APPLE_PLOTLY_THEME = get_apple_plotly_layout()
 
+# Functional Palette for Analytics & Clusters
+PALETTE_FUNCTIONAL = ['#0A84FF', '#30D158', '#FF9F0A', '#BF5AF2', '#64D2FF', '#FF375F']
+
 # -----------------------------------------------------------------------------
-# 3. APPLE TRANSLUCENT FLOATING SIDEBAR
+# 3. APPLE TRANSLUCENT FLOATING SIDEBAR (NO EMOJIS, MONOCHROME LUCIDE ICONS)
 # -----------------------------------------------------------------------------
 with st.sidebar:
-    # macOS Window Controls & Branding
-    st.markdown("""
+    # macOS Window Controls & Subtle Branding
+    st.markdown(f"""
     <div class="macos-header">
         <div class="macos-traffic-lights">
             <span class="traffic-light light-red"></span>
             <span class="traffic-light light-yellow"></span>
             <span class="traffic-light light-green"></span>
         </div>
-        <div style="font-size: 0.72rem; color: rgba(255,255,255,0.4); font-weight: 600; letter-spacing: 0.5px;">
-            MACOS 15 • LIQUID GLASS
+        <div style="font-size: 0.70rem; color: var(--text-tertiary); font-weight: 600; letter-spacing: 0.6px;">
+            MACOS TAHOE &bull; LIQUID GLASS
         </div>
     </div>
-    <div style="padding: 0 0 18px 4px;">
-        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 4px;">
-            <div style="width: 28px; height: 28px; border-radius: 8px; background: linear-gradient(135deg, #0a84ff 0%, #5e5ce6 100%); display: flex; align-items: center; justify-content: center; font-size: 14px; box-shadow: 0 4px 10px rgba(10, 132, 255, 0.4);">
-                🧭
+    <div style="padding: 0 0 16px 2px;">
+        <div style="display: flex; align-items: center; gap: 9px; margin-bottom: 3px;">
+            <div style="width: 24px; height: 24px; border-radius: 6px; background: rgba(255,255,255,0.08); display: flex; align-items: center; justify-content: center;">
+                {get_lucide_icon('compass', size=14, color='var(--text-primary)')}
             </div>
-            <div style="font-size: 1.15rem; font-weight: 700; color: #ffffff; letter-spacing: -0.3px;">
+            <div style="font-size: 1.05rem; font-weight: 600; color: var(--text-primary); letter-spacing: -0.2px;">
                 Tourism Discovery
             </div>
         </div>
-        <div style="font-size: 0.8rem; color: rgba(255, 255, 255, 0.5); padding-left: 38px;">
-            Unsupervised Suite
+        <div style="font-size: 0.76rem; color: var(--text-tertiary); padding-left: 33px;">
+            Unsupervised Analytics Suite
         </div>
     </div>
     """, unsafe_allow_html=True)
     
-    # Apple Navigation Menu
+    # Clean Navigation Menu (Strictly No Emojis - SVGs are injected via CSS)
+    NAV_ITEMS = [
+        "Executive Overview",
+        "Exploratory Data Analysis",
+        "Interactive Clustering Studio",
+        "Geospatial Tourism Map",
+        "2D & 3D PCA Space",
+        "Benchmark & Distance Comparison",
+        "Personas & Cluster Profiles",
+        "Smart Destination Recommender",
+        "Data Catalog & Export"
+    ]
+    
     menu = st.radio(
         "Navigation",
-        [
-            "🌟 Executive Overview",
-            "📊 Exploratory Data Analysis",
-            "🔬 Interactive Clustering Studio",
-            "🗺️ Geospatial Tourism Map",
-            "🌌 2D & 3D PCA Space",
-            "📈 Benchmark & Distance Comparison",
-            "👤 Personas & Cluster Profiles",
-            "🎯 Smart Destination Recommender",
-            "💾 Data Catalog & Export"
-        ],
+        NAV_ITEMS,
         index=0,
         label_visibility="collapsed"
     )
     
     st.markdown("---")
     
-    # macOS Status Pill & Architecture Badges
+    # Clean Status Footer
     st.markdown("""
-    <div class="glass-card" style="padding: 14px 16px; margin-top: 12px; border-radius: 16px;">
-        <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
-            <span style="width: 8px; height: 8px; border-radius: 50%; background: #30d158; box-shadow: 0 0 8px #30d158; display: inline-block;"></span>
-            <span style="font-size: 0.78rem; font-weight: 600; color: #ffffff;">System Status: Online</span>
+    <div class="glass-card" style="padding: 12px 14px; margin-top: 8px; border-radius: 14px;">
+        <div style="display: flex; align-items: center; gap: 7px; margin-bottom: 6px;">
+            <span style="width: 7px; height: 7px; border-radius: 50%; background: var(--system-green); display: inline-block;"></span>
+            <span style="font-size: 0.75rem; font-weight: 600; color: var(--text-primary);">System Online</span>
         </div>
-        <div style="font-size: 0.72rem; color: rgba(255, 255, 255, 0.55); line-height: 1.6;">
-            • <b>Dataset:</b> 325 Indian Destinations<br>
-            • <b>Reviews:</b> 645K+ UCSD Google Corpus<br>
-            • <b>NLP Model:</b> VADER Polarity Scoring<br>
-            • <b>Clustering:</b> K-Means & Agglomerative
+        <div style="font-size: 0.70rem; color: var(--text-tertiary); line-height: 1.55;">
+            &bull; 325 Verified Places<br>
+            &bull; 645K Google Local Reviews<br>
+            &bull; VADER NLP Sentiment<br>
+            &bull; K-Means &amp; Hierarchical
         </div>
     </div>
     """, unsafe_allow_html=True)
 
 # -----------------------------------------------------------------------------
-# PAGE 1: EXECUTIVE OVERVIEW (APPLE LIQUID GLASS HERO & KPIS)
+# PAGE 1: EXECUTIVE OVERVIEW
 # -----------------------------------------------------------------------------
-if menu == "🌟 Executive Overview":
+if menu == "Executive Overview":
     # 1. Floating Hero Glass Slab
     st.markdown("""
-    <div class="glass-panel" style="padding: 40px 44px; margin-bottom: 28px;">
-        <div class="glass-pill" style="margin-bottom: 16px;">
-            <span style="width: 6px; height: 6px; border-radius: 50%; background: #64d2ff; display: inline-block;"></span>
+    <div class="glass-panel" style="padding: 38px 40px; margin-bottom: 24px;">
+        <div class="glass-pill" style="margin-bottom: 14px;">
             INTELLIGENT TOURISM DISCOVERY PLATFORM
         </div>
-        <div style="font-size: 2.75rem; font-weight: 800; letter-spacing: -1px; color: #ffffff; line-height: 1.15; margin-bottom: 14px;">
+        <div style="font-size: 2.5rem; font-weight: 700; letter-spacing: -0.8px; color: var(--text-primary); line-height: 1.15; margin-bottom: 12px;">
             AI-Powered Local Tourism Recommender
         </div>
-        <div style="font-size: 1.1rem; color: rgba(255, 255, 255, 0.72); line-height: 1.65; max-width: 980px; font-weight: 400;">
+        <div style="font-size: 1.05rem; color: var(--text-secondary); line-height: 1.6; max-width: 960px;">
             An intelligent tourism discovery platform combining Indian destination information, Google Local reviews, 
-            sentiment analysis and unsupervised machine learning to uncover geographic hotspots, behavioral spending patterns, 
-            and traveler satisfaction.
+            sentiment analysis and unsupervised machine learning.
         </div>
     </div>
     """, unsafe_allow_html=True)
 
-    # 2. Apple Liquid Glass KPI Cards
+    # 2. Restrained Neutral Liquid Glass KPI Cards
     col1, col2, col3, col4, col5 = st.columns(5)
     
     with col1:
         st.markdown(f"""
         <div class="apple-metric-card">
-            <div class="metric-accent-line" style="background: linear-gradient(90deg, #0a84ff, transparent);"></div>
-            <div class="metric-title">Destinations</div>
+            <div class="metric-title">{get_lucide_icon('map-pin', size=13)} Destinations</div>
             <div class="metric-value">{len(df):,}</div>
-            <div class="metric-subtitle">
-                <span style="color: #64d2ff;">33 States Covered</span>
-            </div>
+            <div class="metric-subtitle">Across 33 States</div>
         </div>
         """, unsafe_allow_html=True)
         
     with col2:
-        st.markdown("""
+        st.markdown(f"""
         <div class="apple-metric-card">
-            <div class="metric-accent-line" style="background: linear-gradient(90deg, #64d2ff, transparent);"></div>
-            <div class="metric-title">Google Reviews</div>
+            <div class="metric-title">{get_lucide_icon('message-square', size=13)} Google Reviews</div>
             <div class="metric-value">645K+</div>
-            <div class="metric-subtitle">
-                <span style="color: #30d158;">Verified Indian Corpus</span>
-            </div>
+            <div class="metric-subtitle">Verified Indian Corpus</div>
         </div>
         """, unsafe_allow_html=True)
         
     with col3:
         st.markdown(f"""
-        <div class="apple-metric-card">
-            <div class="metric-accent-line" style="background: linear-gradient(90deg, #ffd60a, transparent);"></div>
-            <div class="metric-title">Mean Rating</div>
-            <div class="metric-value">{df['avg_rating'].mean():.2f} ★</div>
-            <div class="metric-subtitle">
-                <span style="color: #ffd60a;">Scale: 1.0 – 5.0</span>
-            </div>
+        <div class="apple-metric-card" style="border-top-color: rgba(10, 132, 255, 0.40);">
+            <div class="metric-title" style="color: var(--system-blue);">{get_lucide_icon('star', size=13, color='var(--system-blue)')} Mean Rating</div>
+            <div class="metric-value" style="color: var(--text-primary);">{df['avg_rating'].mean():.2f}</div>
+            <div class="metric-subtitle">Scale 1.0 - 5.0</div>
         </div>
         """, unsafe_allow_html=True)
         
     with col4:
         st.markdown(f"""
         <div class="apple-metric-card">
-            <div class="metric-accent-line" style="background: linear-gradient(90deg, #30d158, transparent);"></div>
-            <div class="metric-title">Positive Feedback</div>
+            <div class="metric-title">{get_lucide_icon('thumbs-up', size=13)} Positive Feedback</div>
             <div class="metric-value">{df['positive_review_pct'].mean():.1f}%</div>
-            <div class="metric-subtitle">
-                <span style="color: #30d158;">4.0+ Star Ratings</span>
-            </div>
+            <div class="metric-subtitle">Rating 4.0+ Proportion</div>
         </div>
         """, unsafe_allow_html=True)
         
     with col5:
         st.markdown(f"""
         <div class="apple-metric-card">
-            <div class="metric-accent-line" style="background: linear-gradient(90deg, #bf5af2, transparent);"></div>
-            <div class="metric-title">Mean Sentiment</div>
+            <div class="metric-title">{get_lucide_icon('trending-up', size=13)} Mean Sentiment</div>
             <div class="metric-value">+{df['sentiment_score'].mean():.3f}</div>
-            <div class="metric-subtitle">
-                <span style="color: #bf5af2;">VADER Polarity [-1, +1]</span>
-            </div>
+            <div class="metric-subtitle">VADER Polarity [-1, +1]</div>
         </div>
         """, unsafe_allow_html=True)
 
@@ -220,57 +206,59 @@ if menu == "🌟 Executive Overview":
     col_left, col_right = st.columns([1.15, 0.85])
     
     with col_left:
-        st.markdown("""
-        <div class="glass-panel" style="padding: 28px 30px;">
-            <div class="macos-header" style="margin-bottom: 18px; padding-bottom: 12px;">
-                <div style="font-size: 1.15rem; font-weight: 700; color: #ffffff;">
+        st.markdown(f"""
+        <div class="glass-panel" style="padding: 26px 28px;">
+            <div class="macos-header" style="margin-bottom: 16px; padding-bottom: 10px;">
+                <div style="font-size: 1.1rem; font-weight: 600; color: var(--text-primary); display: flex; align-items: center; gap: 8px;">
+                    {get_lucide_icon('workflow', size=16, color='var(--text-secondary)')}
                     Dataset Integration Architecture
                 </div>
-                <div class="glass-pill" style="font-size: 0.72rem; padding: 4px 10px;">
+                <div class="glass-pill" style="font-size: 0.70rem; padding: 3px 9px;">
                     180,686 Verified Places
                 </div>
             </div>
-            <p style="color: rgba(255, 255, 255, 0.68); font-size: 0.88rem; line-height: 1.6; margin-bottom: 20px;">
-                End-to-end data pipeline harmonizing Indian destinations with Google Local reviews:
+            <p style="color: var(--text-secondary); font-size: 0.86rem; line-height: 1.55; margin-bottom: 18px;">
+                Data pipeline integrating Indian destinations with Google Local reviews:
             </p>
-            <div style="display: grid; gap: 10px;">
-                <div class="glass-card" style="padding: 12px 18px; display: flex; align-items: center; justify-content: space-between;">
-                    <span style="font-size: 0.85rem; color: #ffffff; font-weight: 600;">1. Primary Tourism Dataset</span>
-                    <span class="glass-pill" style="font-size: 0.72rem;">data.csv (325 Destinations)</span>
+            <div style="display: grid; gap: 8px;">
+                <div class="glass-card" style="padding: 10px 16px; display: flex; align-items: center; justify-content: space-between;">
+                    <span style="font-size: 0.82rem; color: var(--text-primary); font-weight: 500;">1. Primary Tourism Dataset</span>
+                    <span class="glass-pill" style="font-size: 0.70rem;">data.csv (325 Destinations)</span>
                 </div>
-                <div class="glass-card" style="padding: 12px 18px; display: flex; align-items: center; justify-content: space-between;">
-                    <span style="font-size: 0.85rem; color: #ffffff; font-weight: 600;">2. UCSD Google Places Corpus</span>
-                    <span class="glass-pill" style="font-size: 0.72rem;">3.11M Total → 180,686 In-Bounds</span>
+                <div class="glass-card" style="padding: 10px 16px; display: flex; align-items: center; justify-content: space-between;">
+                    <span style="font-size: 0.82rem; color: var(--text-primary); font-weight: 500;">2. UCSD Google Places Corpus</span>
+                    <span class="glass-pill" style="font-size: 0.70rem;">3.11M Total &bull; 180,686 In-Bounds</span>
                 </div>
-                <div class="glass-card" style="padding: 12px 18px; display: flex; align-items: center; justify-content: space-between;">
-                    <span style="font-size: 0.85rem; color: #ffffff; font-weight: 600;">3. Entity Matching & Resolution</span>
-                    <span class="glass-pill" style="font-size: 0.72rem;">281 Matched (86.5%) • 44 Preserved</span>
+                <div class="glass-card" style="padding: 10px 16px; display: flex; align-items: center; justify-content: space-between;">
+                    <span style="font-size: 0.82rem; color: var(--text-primary); font-weight: 500;">3. Entity Matching &amp; Resolution</span>
+                    <span class="glass-pill" style="font-size: 0.70rem;">281 Matched (86.5%) &bull; 44 Preserved</span>
                 </div>
-                <div class="glass-card" style="padding: 12px 18px; display: flex; align-items: center; justify-content: space-between;">
-                    <span style="font-size: 0.85rem; color: #ffffff; font-weight: 600;">4. Review Sentiment Extraction</span>
-                    <span class="glass-pill" style="font-size: 0.72rem;">645K Indian Reviews • VADER Polarity</span>
+                <div class="glass-card" style="padding: 10px 16px; display: flex; align-items: center; justify-content: space-between;">
+                    <span style="font-size: 0.82rem; color: var(--text-primary); font-weight: 500;">4. Review Sentiment Extraction</span>
+                    <span class="glass-pill" style="font-size: 0.70rem;">645K Indian Reviews &bull; VADER Polarity</span>
                 </div>
-                <div class="glass-card" style="padding: 12px 18px; display: flex; align-items: center; justify-content: space-between; border-color: rgba(10, 132, 255, 0.35); background: rgba(10, 132, 255, 0.08);">
-                    <span style="font-size: 0.85rem; color: #64d2ff; font-weight: 600;">5. Integrated ML Master Table</span>
-                    <span class="glass-pill" style="font-size: 0.72rem; border-color: #64d2ff; color: #64d2ff;">india_tourism_reviews.csv</span>
+                <div class="glass-card" style="padding: 10px 16px; display: flex; align-items: center; justify-content: space-between; border-color: rgba(10, 132, 255, 0.28); background: rgba(10, 132, 255, 0.05);">
+                    <span style="font-size: 0.82rem; color: var(--text-primary); font-weight: 600;">5. Integrated ML Master Table</span>
+                    <span class="glass-pill" style="font-size: 0.70rem; color: var(--system-blue); border-color: rgba(10, 132, 255, 0.35);">india_tourism_reviews.csv</span>
                 </div>
             </div>
         </div>
         """, unsafe_allow_html=True)
 
     with col_right:
-        st.markdown("""
-        <div class="glass-panel" style="padding: 28px 30px;">
-            <div class="macos-header" style="margin-bottom: 18px; padding-bottom: 12px;">
-                <div style="font-size: 1.15rem; font-weight: 700; color: #ffffff;">
+        st.markdown(f"""
+        <div class="glass-panel" style="padding: 26px 28px;">
+            <div class="macos-header" style="margin-bottom: 16px; padding-bottom: 10px;">
+                <div style="font-size: 1.1rem; font-weight: 600; color: var(--text-primary); display: flex; align-items: center; gap: 8px;">
+                    {get_lucide_icon('database', size=16, color='var(--text-secondary)')}
                     Quick Destination Lookahead
                 </div>
-                <div class="glass-pill" style="font-size: 0.72rem; padding: 4px 10px;">
+                <div class="glass-pill" style="font-size: 0.70rem; padding: 3px 9px;">
                     Preview Sample
                 </div>
             </div>
-            <p style="color: rgba(255, 255, 255, 0.68); font-size: 0.88rem; line-height: 1.6; margin-bottom: 16px;">
-                Verified destinations with enriched reviews and sentiment scores:
+            <p style="color: var(--text-secondary); font-size: 0.86rem; line-height: 1.55; margin-bottom: 14px;">
+                Verified destinations with review counts and sentiment scores:
             </p>
         </div>
         """, unsafe_allow_html=True)
@@ -282,15 +270,15 @@ if menu == "🌟 Executive Overview":
 # -----------------------------------------------------------------------------
 # PAGE 2: EXPLORATORY DATA ANALYSIS (EDA)
 # -----------------------------------------------------------------------------
-elif menu == "📊 Exploratory Data Analysis":
-    st.markdown("""
-    <div class="glass-panel" style="padding: 32px 36px; margin-bottom: 24px;">
-        <div class="glass-pill" style="margin-bottom: 12px;">DATASET INSIGHTS</div>
-        <div style="font-size: 2.2rem; font-weight: 800; color: #ffffff; letter-spacing: -0.8px; margin-bottom: 8px;">
+elif menu == "Exploratory Data Analysis":
+    st.markdown(f"""
+    <div class="glass-panel" style="padding: 28px 32px; margin-bottom: 22px;">
+        <div class="glass-pill" style="margin-bottom: 10px;">DATASET INSIGHTS</div>
+        <div style="font-size: 2rem; font-weight: 700; color: var(--text-primary); letter-spacing: -0.6px; margin-bottom: 6px;">
             Exploratory Data Analysis
         </div>
-        <div style="font-size: 1rem; color: rgba(255, 255, 255, 0.7);">
-            Inspect spatial coverage across 33 states, economic distributions, and multi-attribute correlation patterns.
+        <div style="font-size: 0.95rem; color: var(--text-secondary);">
+            Inspect geographic coverage across 33 states, economic distributions, and multi-attribute correlations.
         </div>
     </div>
     """, unsafe_allow_html=True)
@@ -305,7 +293,7 @@ elif menu == "📊 Exploratory Data Analysis":
             fig_states = px.bar(
                 top_states, x='Destinations', y='State', orientation='h',
                 title="Top 12 Indian States by Featured Destinations",
-                color='Destinations', color_continuous_scale=['#0a84ff', '#5e5ce6', '#bf5af2']
+                color_discrete_sequence=['#0A84FF']
             )
             fig_states.update_layout(**APPLE_PLOTLY_THEME)
             fig_states.update_layout(yaxis=dict(autorange="reversed"))
@@ -317,8 +305,8 @@ elif menu == "📊 Exploratory Data Analysis":
             fig_cats = px.pie(
                 top_cats, names='Category', values='Count',
                 title="Top Destination Categories",
-                hole=0.55,
-                color_discrete_sequence=['#0a84ff', '#30d158', '#ffd60a', '#ff9f0a', '#bf5af2', '#ff375f', '#64d2ff', '#5e5ce6']
+                hole=0.60,
+                color_discrete_sequence=PALETTE_FUNCTIONAL
             )
             fig_cats.update_layout(**APPLE_PLOTLY_THEME)
             st.plotly_chart(fig_cats, use_container_width=True)
@@ -328,8 +316,8 @@ elif menu == "📊 Exploratory Data Analysis":
         with col_c:
             fig_fee = px.histogram(
                 df, x='entry_fee', nbins=30,
-                title="Raw Entrance Fee (INR) — High Positive Skewness",
-                color_discrete_sequence=['#64d2ff']
+                title="Raw Entrance Fee (INR) — Positive Skewness",
+                color_discrete_sequence=['#64D2FF']
             )
             fig_fee.update_layout(**APPLE_PLOTLY_THEME)
             st.plotly_chart(fig_fee, use_container_width=True)
@@ -338,8 +326,8 @@ elif menu == "📊 Exploratory Data Analysis":
             df['log_fee'] = np.log1p(df['entry_fee'])
             fig_log_fee = px.histogram(
                 df, x='log_fee', nbins=30,
-                title="Log1p Transformed Entrance Fee (Normal Distribution for ML)",
-                color_discrete_sequence=['#30d158']
+                title="Log1p Transformed Entrance Fee (Normalized for ML)",
+                color_discrete_sequence=['#30D158']
             )
             fig_log_fee.update_layout(**APPLE_PLOTLY_THEME)
             st.plotly_chart(fig_log_fee, use_container_width=True)
@@ -358,14 +346,14 @@ elif menu == "📊 Exploratory Data Analysis":
 # -----------------------------------------------------------------------------
 # PAGE 3: INTERACTIVE CLUSTERING STUDIO
 # -----------------------------------------------------------------------------
-elif menu == "🔬 Interactive Clustering Studio":
-    st.markdown("""
-    <div class="glass-panel" style="padding: 32px 36px; margin-bottom: 24px;">
-        <div class="glass-pill" style="margin-bottom: 12px;">MACHINE LEARNING LAB</div>
-        <div style="font-size: 2.2rem; font-weight: 800; color: #ffffff; letter-spacing: -0.8px; margin-bottom: 8px;">
+elif menu == "Interactive Clustering Studio":
+    st.markdown(f"""
+    <div class="glass-panel" style="padding: 28px 32px; margin-bottom: 22px;">
+        <div class="glass-pill" style="margin-bottom: 10px;">MACHINE LEARNING LAB</div>
+        <div style="font-size: 2rem; font-weight: 700; color: var(--text-primary); letter-spacing: -0.6px; margin-bottom: 6px;">
             Interactive Clustering Studio
         </div>
-        <div style="font-size: 1rem; color: rgba(255, 255, 255, 0.7);">
+        <div style="font-size: 0.95rem; color: var(--text-secondary);">
             Live parameter tuning for K-Means and Hierarchical Clustering with real-time validation feedback.
         </div>
     </div>
@@ -374,9 +362,10 @@ elif menu == "🔬 Interactive Clustering Studio":
     col_ctrl, col_view = st.columns([1, 2.3])
 
     with col_ctrl:
-        st.markdown("""
-        <div class="glass-panel" style="padding: 24px 26px;">
-            <div style="font-size: 1rem; font-weight: 700; color: #ffffff; margin-bottom: 14px;">
+        st.markdown(f"""
+        <div class="glass-panel" style="padding: 22px 24px;">
+            <div style="font-size: 0.95rem; font-weight: 600; color: var(--text-primary); margin-bottom: 12px; display: flex; align-items: center; gap: 7px;">
+                {get_lucide_icon('sliders', size=15, color='var(--text-secondary)')}
                 Hyperparameter Tuning
             </div>
         """, unsafe_allow_html=True)
@@ -471,7 +460,7 @@ elif menu == "🔬 Interactive Clustering Studio":
             <div class="apple-metric-card">
                 <div class="metric-title">WCSS Inertia</div>
                 <div class="metric-value">{inertia_val}</div>
-                <div class="metric-subtitle">Compactness</div>
+                <div class="metric-subtitle">Cluster Compactness</div>
             </div>
             """, unsafe_allow_html=True)
 
@@ -488,24 +477,24 @@ elif menu == "🔬 Interactive Clustering Studio":
             hover_name='place_name',
             hover_data=['state', 'category', 'entry_fee', 'avg_rating', 'sentiment_score'],
             title=f"2D PCA Projection: {algorithm} (K={k_val}, Metric={metric_choice})",
-            color_discrete_sequence=['#0a84ff', '#30d158', '#ff9f0a', '#bf5af2', '#ff375f', '#64d2ff', '#ffd60a', '#5e5ce6']
+            color_discrete_sequence=PALETTE_FUNCTIONAL
         )
         fig_cluster.update_layout(**APPLE_PLOTLY_THEME)
-        fig_cluster.update_traces(marker=dict(size=9, opacity=0.88, line=dict(width=0.8, color='rgba(255,255,255,0.7)')))
+        fig_cluster.update_traces(marker=dict(size=8, opacity=0.88, line=dict(width=0.8, color='rgba(255,255,255,0.6)')))
         st.plotly_chart(fig_cluster, use_container_width=True)
 
 # -----------------------------------------------------------------------------
 # PAGE 4: GEOSPATIAL MAP
 # -----------------------------------------------------------------------------
-elif menu == "🗺️ Geospatial Tourism Map":
-    st.markdown("""
-    <div class="glass-panel" style="padding: 32px 36px; margin-bottom: 24px;">
-        <div class="glass-pill" style="margin-bottom: 12px;">GEOGRAPHIC VISUALIZATION</div>
-        <div style="font-size: 2.2rem; font-weight: 800; color: #ffffff; letter-spacing: -0.8px; margin-bottom: 8px;">
-            Interactive Geospatial Tourism Map
+elif menu == "Geospatial Tourism Map":
+    st.markdown(f"""
+    <div class="glass-panel" style="padding: 28px 32px; margin-bottom: 22px;">
+        <div class="glass-pill" style="margin-bottom: 10px;">GEOGRAPHIC VISUALIZATION</div>
+        <div style="font-size: 2rem; font-weight: 700; color: var(--text-primary); letter-spacing: -0.6px; margin-bottom: 6px;">
+            Geospatial Tourism Map
         </div>
-        <div style="font-size: 1rem; color: rgba(255, 255, 255, 0.7);">
-            Explore tourist hotspots across India bounded by sovereign coordinates and cluster personas.
+        <div style="font-size: 0.95rem; color: var(--text-secondary);">
+            Destination distribution across India bounded by sovereign coordinates and cluster personas.
         </div>
     </div>
     """, unsafe_allow_html=True)
@@ -520,17 +509,17 @@ elif menu == "🗺️ Geospatial Tourism Map":
         size='avg_rating',
         projection="natural earth",
         title="Destination Hotspots across India",
-        color_continuous_scale="Viridis"
+        color_continuous_scale="Blues"
     )
     fig_map.update_geos(
         fitbounds="locations",
         visible=False,
         showcountries=True,
-        countrycolor="rgba(255,255,255,0.2)",
+        countrycolor="rgba(255,255,255,0.18)",
         showland=True,
-        landcolor="#070d1a",
+        landcolor="#101014",
         showsubunits=True,
-        subunitcolor="rgba(255,255,255,0.12)"
+        subunitcolor="rgba(255,255,255,0.10)"
     )
     fig_map.update_layout(**APPLE_PLOTLY_THEME)
     fig_map.update_layout(height=650)
@@ -539,14 +528,14 @@ elif menu == "🗺️ Geospatial Tourism Map":
 # -----------------------------------------------------------------------------
 # PAGE 5: 2D & 3D PCA SPACE
 # -----------------------------------------------------------------------------
-elif menu == "🌌 2D & 3D PCA Space":
-    st.markdown("""
-    <div class="glass-panel" style="padding: 32px 36px; margin-bottom: 24px;">
-        <div class="glass-pill" style="margin-bottom: 12px;">LATENT MANIFOLD</div>
-        <div style="font-size: 2.2rem; font-weight: 800; color: #ffffff; letter-spacing: -0.8px; margin-bottom: 8px;">
+elif menu == "2D & 3D PCA Space":
+    st.markdown(f"""
+    <div class="glass-panel" style="padding: 28px 32px; margin-bottom: 22px;">
+        <div class="glass-pill" style="margin-bottom: 10px;">DIMENSIONALITY REDUCTION</div>
+        <div style="font-size: 2rem; font-weight: 700; color: var(--text-primary); letter-spacing: -0.6px; margin-bottom: 6px;">
             Principal Component Analysis (PCA)
         </div>
-        <div style="font-size: 1rem; color: rgba(255, 255, 255, 0.7);">
+        <div style="font-size: 0.95rem; color: var(--text-secondary);">
             Rotatable 3D coordinate projection and component eigenvector loadings matrix.
         </div>
     </div>
@@ -569,17 +558,17 @@ elif menu == "🌌 2D & 3D PCA Space":
             df_assigned, x='PC1', y='PC2', z='PC3',
             color='Cluster', hover_name='place_name',
             title=f"3D PCA Projection ({pca_3d.explained_variance_ratio_.sum()*100:.1f}% Variance Explained)",
-            color_discrete_sequence=['#0a84ff', '#30d158', '#ff9f0a']
+            color_discrete_sequence=['#0A84FF', '#30D158', '#FF9F0A']
         )
         fig_3d.update_layout(
             paper_bgcolor='rgba(0,0,0,0)',
-            font=dict(family='-apple-system, BlinkMacSystemFont, sans-serif', color='rgba(255,255,255,0.85)'),
+            font=dict(family='-apple-system, BlinkMacSystemFont, sans-serif', color='rgba(235,235,245,0.85)'),
             scene=dict(
-                xaxis=dict(backgroundcolor="rgba(0,0,0,0)", gridcolor="rgba(255,255,255,0.08)"),
-                yaxis=dict(backgroundcolor="rgba(0,0,0,0)", gridcolor="rgba(255,255,255,0.08)"),
-                zaxis=dict(backgroundcolor="rgba(0,0,0,0)", gridcolor="rgba(255,255,255,0.08)")
+                xaxis=dict(backgroundcolor="rgba(0,0,0,0)", gridcolor="rgba(255,255,255,0.06)"),
+                yaxis=dict(backgroundcolor="rgba(0,0,0,0)", gridcolor="rgba(255,255,255,0.06)"),
+                zaxis=dict(backgroundcolor="rgba(0,0,0,0)", gridcolor="rgba(255,255,255,0.06)")
             ),
-            height=620
+            height=600
         )
         st.plotly_chart(fig_3d, use_container_width=True)
 
@@ -592,30 +581,30 @@ elif menu == "🌌 2D & 3D PCA Space":
         fig_loadings = px.imshow(
             loadings, text_auto=".2f", aspect="auto",
             title="Eigenvector Feature Loadings",
-            color_continuous_scale="Purples"
+            color_continuous_scale="Blues"
         )
         fig_loadings.update_layout(**APPLE_PLOTLY_THEME)
-        fig_loadings.update_layout(height=620)
+        fig_loadings.update_layout(height=600)
         st.plotly_chart(fig_loadings, use_container_width=True)
 
 # -----------------------------------------------------------------------------
 # PAGE 6: BENCHMARK & DISTANCE COMPARISON
 # -----------------------------------------------------------------------------
-elif menu == "📈 Benchmark & Distance Comparison":
-    st.markdown("""
-    <div class="glass-panel" style="padding: 32px 36px; margin-bottom: 24px;">
-        <div class="glass-pill" style="margin-bottom: 12px;">QUANTITATIVE BENCHMARKS</div>
-        <div style="font-size: 2.2rem; font-weight: 800; color: #ffffff; letter-spacing: -0.8px; margin-bottom: 8px;">
+elif menu == "Benchmark & Distance Comparison":
+    st.markdown(f"""
+    <div class="glass-panel" style="padding: 28px 32px; margin-bottom: 22px;">
+        <div class="glass-pill" style="margin-bottom: 10px;">QUANTITATIVE BENCHMARKS</div>
+        <div style="font-size: 2rem; font-weight: 700; color: var(--text-primary); letter-spacing: -0.6px; margin-bottom: 6px;">
             Model Benchmarks & Distance Comparison
         </div>
-        <div style="font-size: 1rem; color: rgba(255, 255, 255, 0.7);">
+        <div style="font-size: 0.95rem; color: var(--text-secondary);">
             Empirical comparison across WCSS, Silhouette, Davies-Bouldin, and Euclidean vs. Manhattan distance.
         </div>
     </div>
     """, unsafe_allow_html=True)
 
     if not metrics_df.empty:
-        st.markdown("<div class='glass-panel' style='padding: 24px 28px;'><h4 style='color:#fff; margin-top:0;'>Clustering Validation Scoreboard</h4>", unsafe_allow_html=True)
+        st.markdown("<div class='glass-panel' style='padding: 22px 26px;'><div style='font-size: 1.05rem; font-weight: 600; color: var(--text-primary); margin-bottom: 12px;'>Clustering Validation Scoreboard</div>", unsafe_allow_html=True)
         st.dataframe(metrics_df, use_container_width=True)
         st.markdown("</div>", unsafe_allow_html=True)
 
@@ -637,14 +626,14 @@ elif menu == "📈 Benchmark & Distance Comparison":
 # -----------------------------------------------------------------------------
 # PAGE 7: CLUSTER PERSONAS & PROFILES
 # -----------------------------------------------------------------------------
-elif menu == "👤 Personas & Cluster Profiles":
-    st.markdown("""
-    <div class="glass-panel" style="padding: 32px 36px; margin-bottom: 24px;">
-        <div class="glass-pill" style="margin-bottom: 12px;">BEHAVIORAL SEGMENTATION</div>
-        <div style="font-size: 2.2rem; font-weight: 800; color: #ffffff; letter-spacing: -0.8px; margin-bottom: 8px;">
+elif menu == "Personas & Cluster Profiles":
+    st.markdown(f"""
+    <div class="glass-panel" style="padding: 28px 32px; margin-bottom: 22px;">
+        <div class="glass-pill" style="margin-bottom: 10px;">BEHAVIORAL SEGMENTATION</div>
+        <div style="font-size: 2rem; font-weight: 700; color: var(--text-primary); letter-spacing: -0.6px; margin-bottom: 6px;">
             Tourist Personas & Behavioral Profiles
         </div>
-        <div style="font-size: 1rem; color: rgba(255, 255, 255, 0.7);">
+        <div style="font-size: 0.95rem; color: var(--text-secondary);">
             Interpreted destination archetypes derived from K-Means (K=3) profiling.
         </div>
     </div>
@@ -653,84 +642,93 @@ elif menu == "👤 Personas & Cluster Profiles":
     p1, p2, p3 = st.columns(3)
 
     with p1:
-        st.markdown("""
-        <div class="glass-panel" style="border-top: 2px solid #64d2ff; padding: 26px 24px;">
-            <div style="font-size:0.75rem; color:#64d2ff; font-weight:700; text-transform:uppercase; letter-spacing:0.6px;">CLUSTER 0 (61.5%)</div>
-            <div style="font-size:1.35rem; font-weight:700; color:#fff; margin:6px 0 10px 0;">Budget Sacred & Scenic</div>
-            <p style="color:rgba(255,255,255,0.65); font-size:0.85rem; line-height:1.5; margin-bottom:16px;">
+        st.markdown(f"""
+        <div class="glass-panel" style="border-top: 1.5px solid var(--system-cyan); padding: 24px 22px;">
+            <div style="font-size:0.74rem; color:var(--system-cyan); font-weight:600; text-transform:uppercase; letter-spacing:0.6px; display:flex; align-items:center; gap:6px;">
+                {get_lucide_icon('landmark', size=13, color='var(--system-cyan)')}
+                Cluster 0 (61.5%)
+            </div>
+            <div style="font-size:1.25rem; font-weight:700; color:var(--text-primary); margin:6px 0 8px 0;">Budget Sacred &amp; Scenic</div>
+            <p style="color:var(--text-secondary); font-size:0.84rem; line-height:1.5; margin-bottom:14px;">
                 High satisfaction, negligible entry fees, cultural and spiritual pilgrimage sites.
             </p>
-            <div style="font-size:0.82rem; color:rgba(255,255,255,0.85); line-height:1.8;">
-                • <b>Avg Entry Fee:</b> ₹5.9 (Median ₹0.0)<br>
-                • <b>Avg Duration:</b> 1.43 Hours<br>
-                • <b>Avg Rating:</b> 4.49 ★ (87.7% Positive)<br>
-                • <b>Sentiment:</b> +0.573<br>
-                • <b>Sites:</b> Temples, Beaches, Lakes<br>
-                • <b>Target:</b> Pilgrims & Backpackers
+            <div style="font-size:0.80rem; color:var(--text-secondary); line-height:1.75;">
+                &bull; <b>Avg Entry Fee:</b> INR 5.9 (Median INR 0.0)<br>
+                &bull; <b>Avg Duration:</b> 1.43 Hours<br>
+                &bull; <b>Avg Rating:</b> 4.49 (87.7% Positive)<br>
+                &bull; <b>Sentiment:</b> +0.573<br>
+                &bull; <b>Sites:</b> Temples, Beaches, Lakes<br>
+                &bull; <b>Target:</b> Pilgrims &amp; Backpackers
             </div>
         </div>
         """, unsafe_allow_html=True)
 
     with p2:
-        st.markdown("""
-        <div class="glass-panel" style="border-top: 2px solid #ff375f; padding: 26px 24px;">
-            <div style="font-size:0.75rem; color:#ff375f; font-weight:700; text-transform:uppercase; letter-spacing:0.6px;">CLUSTER 1 (9.8%)</div>
-            <div style="font-size:1.35rem; font-weight:700; color:#fff; margin:6px 0 10px 0;">Critical Feedback Sites</div>
-            <p style="color:rgba(255,255,255,0.65); font-size:0.85rem; line-height:1.5; margin-bottom:16px;">
+        st.markdown(f"""
+        <div class="glass-panel" style="border-top: 1.5px solid var(--system-pink); padding: 24px 22px;">
+            <div style="font-size:0.74rem; color:var(--system-pink); font-weight:600; text-transform:uppercase; letter-spacing:0.6px; display:flex; align-items:center; gap:6px;">
+                {get_lucide_icon('alert-circle', size=13, color='var(--system-pink)')}
+                Cluster 1 (9.8%)
+            </div>
+            <div style="font-size:1.25rem; font-weight:700; color:var(--text-primary); margin:6px 0 8px 0;">Critical Feedback Sites</div>
+            <p style="color:var(--text-secondary); font-size:0.84rem; line-height:1.5; margin-bottom:14px;">
                 Destinations receiving polarizing reviews requiring maintenance and crowd intervention.
             </p>
-            <div style="font-size:0.82rem; color:rgba(255,255,255,0.85); line-height:1.8;">
-                • <b>Avg Entry Fee:</b> ₹91.2<br>
-                • <b>Avg Duration:</b> 1.70 Hours<br>
-                • <b>Avg Rating:</b> 2.91 ★ (34.6% Negative)<br>
-                • <b>Sentiment:</b> +0.006 (Neutral/Low)<br>
-                • <b>Sites:</b> Crowded beaches, shrines<br>
-                • <b>Target:</b> Infrastructure Improvement
+            <div style="font-size:0.80rem; color:var(--text-secondary); line-height:1.75;">
+                &bull; <b>Avg Entry Fee:</b> INR 91.2<br>
+                &bull; <b>Avg Duration:</b> 1.70 Hours<br>
+                &bull; <b>Avg Rating:</b> 2.91 (34.6% Negative)<br>
+                &bull; <b>Sentiment:</b> +0.006 (Neutral/Low)<br>
+                &bull; <b>Sites:</b> Crowded beaches, shrines<br>
+                &bull; <b>Target:</b> Infrastructure Improvement
             </div>
         </div>
         """, unsafe_allow_html=True)
 
     with p3:
-        st.markdown("""
-        <div class="glass-panel" style="border-top: 2px solid #30d158; padding: 26px 24px;">
-            <div style="font-size:0.75rem; color:#30d158; font-weight:700; text-transform:uppercase; letter-spacing:0.6px;">CLUSTER 2 (28.6%)</div>
-            <div style="font-size:1.35rem; font-weight:700; color:#fff; margin:6px 0 10px 0;">Premium Eco & Heritage</div>
-            <p style="color:rgba(255,255,255,0.65); font-size:0.85rem; line-height:1.5; margin-bottom:16px;">
-                Higher ticket prices, extended visits, premier national monuments & safari parks.
+        st.markdown(f"""
+        <div class="glass-panel" style="border-top: 1.5px solid var(--system-green); padding: 24px 22px;">
+            <div style="font-size:0.74rem; color:var(--system-green); font-weight:600; text-transform:uppercase; letter-spacing:0.6px; display:flex; align-items:center; gap:6px;">
+                {get_lucide_icon('trees', size=13, color='var(--system-green)')}
+                Cluster 2 (28.6%)
+            </div>
+            <div style="font-size:1.25rem; font-weight:700; color:var(--text-primary); margin:6px 0 8px 0;">Premium Eco &amp; Heritage</div>
+            <p style="color:var(--text-secondary); font-size:0.84rem; line-height:1.5; margin-bottom:14px;">
+                Higher ticket prices, extended visits, premier national monuments &amp; safari parks.
             </p>
-            <div style="font-size:0.82rem; color:rgba(255,255,255,0.85); line-height:1.8;">
-                • <b>Avg Entry Fee:</b> ₹360.6 (Median ₹60)<br>
-                • <b>Avg Duration:</b> 2.65 Hours<br>
-                • <b>Avg Rating:</b> 4.27 ★ (80.5% Positive)<br>
-                • <b>Sentiment:</b> +0.522<br>
-                • <b>Sites:</b> National Parks, Forts, Palaces<br>
-                • <b>Target:</b> Heritage Tourists & Guided Tours
+            <div style="font-size:0.80rem; color:var(--text-secondary); line-height:1.75;">
+                &bull; <b>Avg Entry Fee:</b> INR 360.6 (Median INR 60)<br>
+                &bull; <b>Avg Duration:</b> 2.65 Hours<br>
+                &bull; <b>Avg Rating:</b> 4.27 (80.5% Positive)<br>
+                &bull; <b>Sentiment:</b> +0.522<br>
+                &bull; <b>Sites:</b> National Parks, Forts, Palaces<br>
+                &bull; <b>Target:</b> Heritage Tourists &amp; Guided Tours
             </div>
         </div>
         """, unsafe_allow_html=True)
 
     if not profiles_df.empty:
-        st.markdown("<div class='glass-panel' style='padding: 24px 28px;'><h4 style='color:#fff; margin-top:0;'>Statistical Cluster Profile Summary</h4>", unsafe_allow_html=True)
+        st.markdown("<div class='glass-panel' style='padding: 22px 26px;'><div style='font-size: 1.05rem; font-weight: 600; color: var(--text-primary); margin-bottom: 12px;'>Statistical Cluster Profile Summary</div>", unsafe_allow_html=True)
         st.dataframe(profiles_df, use_container_width=True)
         st.markdown("</div>", unsafe_allow_html=True)
 
 # -----------------------------------------------------------------------------
 # PAGE 8: SMART DESTINATION RECOMMENDER
 # -----------------------------------------------------------------------------
-elif menu == "🎯 Smart Destination Recommender":
-    st.markdown("""
-    <div class="glass-panel" style="padding: 32px 36px; margin-bottom: 24px;">
-        <div class="glass-pill" style="margin-bottom: 12px;">AI RECOMMENDATION ENGINE</div>
-        <div style="font-size: 2.2rem; font-weight: 800; color: #ffffff; letter-spacing: -0.8px; margin-bottom: 8px;">
+elif menu == "Smart Destination Recommender":
+    st.markdown(f"""
+    <div class="glass-panel" style="padding: 28px 32px; margin-bottom: 22px;">
+        <div class="glass-pill" style="margin-bottom: 10px;">RECOMMENDATION ENGINE</div>
+        <div style="font-size: 2rem; font-weight: 700; color: var(--text-primary); letter-spacing: -0.6px; margin-bottom: 6px;">
             Smart Destination Recommender
         </div>
-        <div style="font-size: 1rem; color: rgba(255, 255, 255, 0.7);">
+        <div style="font-size: 0.95rem; color: var(--text-secondary);">
             Discover personalized travel recommendations using cluster neighborhoods and multi-attribute similarity.
         </div>
     </div>
     """, unsafe_allow_html=True)
 
-    rec_tab1, rec_tab2 = st.tabs(["Find Similar to a Destination", "Preference-Based Search"])
+    rec_tab1, rec_tab2 = st.tabs(["Find Similar Destinations", "Preference-Based Search"])
 
     # Normalized feature matrix for similarity calculations
     num_features = ['latitude', 'longitude', 'entry_fee', 'visit_duration', 'avg_rating', 'review_count', 'sentiment_score']
@@ -738,8 +736,8 @@ elif menu == "🎯 Smart Destination Recommender":
     X_norm = scaler.fit_transform(df[num_features].values)
 
     with rec_tab1:
-        st.write("Pick a place you enjoyed, and the system finds the closest destinations in learned latent space:")
-        dest_choice = st.selectbox("Select Benchmark Destination", options=sorted(df['place_name'].unique()))
+        st.write("Pick a benchmark destination to discover closest neighbors in learned multi-attribute space:")
+        dest_choice = st.selectbox("Benchmark Destination", options=sorted(df['place_name'].unique()))
         
         idx = df[df['place_name'] == dest_choice].index[0]
         target_vec = X_norm[idx:idx+1]
@@ -755,15 +753,15 @@ elif menu == "🎯 Smart Destination Recommender":
             sim_score = max(0, 100 - (distances[match_idx] * 12))
             with cols_rec[i]:
                 st.markdown(f"""
-                <div class="glass-card" style="padding: 18px 16px;">
-                    <div style="font-size:0.75rem; color:#64d2ff; font-weight:700;">{sim_score:.0f}% SIMILAR</div>
-                    <div style="font-size:1.05rem; font-weight:700; color:#fff; margin:6px 0 4px 0;">{row['place_name']}</div>
-                    <div style="color:rgba(255,255,255,0.55); font-size:0.78rem; margin-bottom:8px;">{row['state']} • {row['category']}</div>
-                    <div style="font-size:0.8rem; color:rgba(255,255,255,0.85); line-height:1.6;">
-                        ⭐ {row['avg_rating']} / 5.0<br>
-                        🎟️ ₹{row['entry_fee']:.0f}<br>
-                        ⏱️ {row['visit_duration']} hrs<br>
-                        💬 Sentiment: +{row['sentiment_score']:.2f}
+                <div class="glass-card" style="padding: 16px 14px;">
+                    <div style="font-size:0.72rem; color:var(--system-blue); font-weight:600; text-transform:uppercase;">{sim_score:.0f}% Similarity</div>
+                    <div style="font-size:1rem; font-weight:600; color:var(--text-primary); margin:5px 0 3px 0;">{row['place_name']}</div>
+                    <div style="color:var(--text-tertiary); font-size:0.76rem; margin-bottom:8px;">{row['state']} &bull; {row['category']}</div>
+                    <div style="font-size:0.78rem; color:var(--text-secondary); line-height:1.6;">
+                        Rating: {row['avg_rating']} / 5.0<br>
+                        Fee: INR {row['entry_fee']:.0f}<br>
+                        Duration: {row['visit_duration']} hrs<br>
+                        Sentiment: +{row['sentiment_score']:.2f}
                     </div>
                 </div>
                 """, unsafe_allow_html=True)
@@ -792,14 +790,14 @@ elif menu == "🎯 Smart Destination Recommender":
 # -----------------------------------------------------------------------------
 # PAGE 9: DATA CATALOG & EXPORT
 # -----------------------------------------------------------------------------
-elif menu == "💾 Data Catalog & Export":
-    st.markdown("""
-    <div class="glass-panel" style="padding: 32px 36px; margin-bottom: 24px;">
-        <div class="glass-pill" style="margin-bottom: 12px;">CATALOG & EXPORT</div>
-        <div style="font-size: 2.2rem; font-weight: 800; color: #ffffff; letter-spacing: -0.8px; margin-bottom: 8px;">
+elif menu == "Data Catalog & Export":
+    st.markdown(f"""
+    <div class="glass-panel" style="padding: 28px 32px; margin-bottom: 22px;">
+        <div class="glass-pill" style="margin-bottom: 10px;">CATALOG &amp; EXPORT</div>
+        <div style="font-size: 2rem; font-weight: 700; color: var(--text-primary); letter-spacing: -0.6px; margin-bottom: 6px;">
             Integrated Master Data Catalog
         </div>
-        <div style="font-size: 1rem; color: rgba(255, 255, 255, 0.7);">
+        <div style="font-size: 0.95rem; color: var(--text-secondary);">
             Filter, inspect, and export the enriched Indian tourism dataset with verified reviews and coordinates.
         </div>
     </div>
@@ -821,7 +819,7 @@ elif menu == "💾 Data Catalog & Export":
 
     csv_data = df_filtered.to_csv(index=False).encode('utf-8')
     st.download_button(
-        label="📥 Download Filtered Dataset (CSV)",
+        label="Download Filtered Dataset (CSV)",
         data=csv_data,
         file_name="india_tourism_reviews_filtered.csv",
         mime="text/csv"

@@ -306,6 +306,17 @@ Launch Jupyter Notebook to inspect individual analytical phases:
 jupyter notebook notebooks/
 ```
 
+
+### 5. Interactive Liquid Glass Dashboard (macOS Tahoe Dark Tint)
+Launch the Apple Liquid Glass interactive discovery dashboard:
+```bash
+streamlit run app.py
+```
+The application features:
+* **macOS Tahoe Dark Tint Material Palette**: Neutral graphite canvas (`#141418`), dual ambient illumination, frosted glass layers, and soft specular edge reflections.
+* **Pure Monochrome Lucide SVG System**: Complete elimination of decorative emojis across all 9 operational sections.
+* **Full Machine Learning Suite**: Live K-Means clustering, interactive geospatial mapping, 2D/3D PCA projection, hierarchical distance benchmarks, persona profiling, cosine-similarity destination recommendations, and raw data export.
+
 ---
 
 ## Authors & Acknowledgments
