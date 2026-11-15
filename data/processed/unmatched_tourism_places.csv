@@ -1,0 +1,45 @@
+place_name,state,city,category,entry_fee,visit_duration,orig_rating,orig_reviews_lakhs
+Waste to Wonder Park,Delhi,Delhi,Theme Park,50.0,2.0,4.1,0.27
+Sunder Nursery,Delhi,Delhi,Park,0.0,2.0,4.6,0.16
+Imagicaa,Maharashtra,Lonavala,Amusement Park,1149.0,5.0,1.4,0.95
+Alipore Zoological Gardens,West Bengal,Kolkata,Zoo,25.0,2.0,4.3,0.66
+Dudhsagar Falls,Goa,Goa,Waterfall,500.0,3.0,4.6,0.3
+Statue of Unity,Gujarat,Kevadia,Monument,350.0,3.0,4.6,0.67
+Ajmer Sharif Dargah,Rajasthan,Ajmer,Shrine,0.0,1.0,4.6,0.35
+Hampi Archaeological Ruins,Karnataka,Hampi,Site,0.0,3.0,4.7,0.05
+Om Beach,Karnataka,Gokarna,Beach,0.0,2.0,4.5,0.09
+Halebidu Hoysaleswara Temple,Karnataka,Halebidu,Temple,15.0,1.0,4.7,0.11
+Deekshabhoomi,Maharashtra,Nagpur,Monument,0.0,1.0,4.5,0.11
+Khajuraho Group of Monuments,Madhya Pradesh,Khajuraho,Temples,40.0,2.0,4.7,0.09
+Chamera Lake,Himachal Pradesh,Chamba,Lake,0.0,2.0,4.4,0.01
+Paragliding Site,Himachal Pradesh,Bir Billing,Adventure Sport,2500.0,2.0,4.8,0.01
+Serolsar Lake,Himachal Pradesh,Shoja,Lake,0.0,2.5,4.4,0.9
+Binsar Wildlife Sanctuary,Uttarakhand,Almora,Wildlife Sanctuary,150.0,2.0,4.3,0.01
+Chaubatia Gardens,Uttarakhand,Ranikhet,Orchard,50.0,1.0,4.0,0.025
+Augarnath Temple,Uttar Pradesh,Meerut,Temple,0.0,1.0,4.8,0.045
+Pangong Tso,Ladakh,Leh,Lake,20.0,2.0,4.9,0.15
+Magnetic Hill,Ladakh,Leh,Gravity Hill,0.0,0.5,3.7,0.1
+Khardung La Pass,Ladakh,Leh,Hill,0.0,1.0,4.5,0.05
+Hazarduari Palace,West Bengal,Murshidabad,Palace,10.0,1.5,4.5,0.18
+Kankalitala Temple,West Bengal,Bolpur,Temple,0.0,0.5,4.7,0.045
+Hangseswari Temple,West Bengal,Hooghly,Temple,0.0,0.5,4.6,0.07
+Hirakud Dam,Odisha,Sambalpur,Dam,0.0,1.0,4.5,0.01
+Chilika Lake,Odisha,Chilika,Lake,0.0,2.0,3.9,0.1
+Tara Tarini Temple,Odisha,Berhampur,Temple,0.0,1.0,4.6,0.01
+Badaghagara Waterfall,Odisha,Keonjhar,Waterfall,0.0,1.0,4.3,0.018
+Sanaghagara Waterfall,Odisha,Kendujhar,Waterfall,0.0,1.0,4.4,0.055
+Marudamalai Temple,Tamil Nadu,Coimbatore,Temple,0.0,1.0,4.7,0.3
+Brihadeeswarar Temple,Tamil Nadu,Thanjavur,Temple,0.0,1.5,4.8,0.35
+Submarine Museum,Andhra Pradesh,Visakhapatnam,Museum,40.0,1.0,4.6,0.49
+Nathula Pass,Sikkim,Gangtok,Hill,20.0,2.0,4.3,0.15
+Tsomgo Lake,Sikkim,Gangtok,Lake,0.0,2.0,4.5,0.15
+Majuli Island,Assam,Majuli,River Island,0.0,2.0,4.7,0.01
+Hayagriva Madhava Temple,Assam,Hajo,Temple,0.0,1.0,4.5,0.9
+Ujjayanta Palace,Tripura,Agartala,Palace,10.0,1.5,4.5,0.035
+Dumboor Lake,Tripura,Dumboor,Lake,0.0,1.0,4.5,0.01
+Unakoti Rock Carvings,Tripura,Unakoti,Rock Carvings,20.0,1.5,4.5,0.025
+Chitrakote Falls,Chhattisgarh,Bastar,Waterfall,0.0,1.5,4.6,0.19
+Dzükou Valley,Nagaland,Dzükou Valley,Valley,0.0,3.0,4.7,0.01
+Limestone Caves,Andaman and Nicobar Islands,Baratang Island,Natural Feature,250.0,1.5,4.4,0.015
+Takhat Shri Harimandir Ji Patna Sahib,Bihar,Patna,Gurudwara,0.0,1.0,4.7,0.25
+Living Root Bridge,Meghalaya,Cherrapunji,Natural Feature,0.0,2.0,4.6,0.06

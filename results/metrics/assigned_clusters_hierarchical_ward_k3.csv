@@ -1,0 +1,326 @@
+place_name,state,latitude,longitude,category,entry_fee,visit_duration,avg_rating,review_count,positive_review_pct,negative_review_pct,sentiment_score,match_status,Cluster
+India Gate,Delhi,28.612239,77.232253,War Memorial,0.0,0.5,5.0,2,100.0,0.0,1.0,enriched_google_reviews,2
+Humayun's Tomb,Delhi,28.593267,77.250713,Tomb,30.0,2.0,4.78,9,100.0,0.0,0.7898,enriched_google_reviews,0
+Akshardham Temple,Delhi,28.613822,77.2762,Temple,60.0,5.0,4.63,164,90.24,4.27,0.5142,enriched_google_reviews,0
+Waste to Wonder Park,Delhi,28.6139,77.209,Theme Park,50.0,2.0,4.1,27000,77.0,13.0,0.55,unmatched_preserved,2
+Jantar Mantar,Delhi,28.627271,77.216567,Observatory,15.0,2.0,3.91,74,62.16,4.05,0.3722,enriched_google_reviews,0
+Chandni Chowk,Delhi,28.656456,77.22917,Market,0.0,3.0,4.33,9,77.78,0.0,0.6415,enriched_google_reviews,2
+Lotus Temple,Delhi,28.553492,77.258826,Temple,0.0,1.0,4.48,85,91.76,3.53,0.5646,enriched_google_reviews,2
+Red Fort,Delhi,28.656529,77.241124,Fort,35.0,2.0,4.29,145,81.38,2.76,0.5575,enriched_google_reviews,0
+Agrasen ki Baoli,Delhi,28.626169,77.225011,Stepwell,0.0,1.0,3.56,75,50.67,13.33,0.3187,enriched_google_reviews,0
+Sunder Nursery,Delhi,28.6139,77.209,Park,0.0,2.0,4.6,16000,87.0,3.0,0.8,unmatched_preserved,2
+Garden of Five Senses,Delhi,28.513257,77.198118,Park,35.0,2.0,3.98,45,77.78,8.89,0.4607,enriched_google_reviews,0
+Lodhi Garden,Delhi,28.592759,77.219678,Park,0.0,1.0,4.34,74,85.14,1.35,0.5591,enriched_google_reviews,2
+National Gallery of Modern Art,Delhi,28.609574,77.234192,Museum,20.0,3.0,4.07,14,71.43,0.0,0.5968,enriched_google_reviews,0
+National Zoological Park,Delhi,28.60188,77.2477,Zoo,80.0,3.0,3.57,60,51.67,18.33,0.3431,enriched_google_reviews,0
+Qutub Minar,Delhi,28.524459,77.18529,Monument,35.0,1.0,4.31,124,83.06,2.42,0.5422,enriched_google_reviews,0
+National Science Centre,Delhi,28.612984,77.245724,Science,70.0,5.0,4.0,40,75.0,5.0,0.466,enriched_google_reviews,0
+Marine Drive,Maharashtra,18.947068,72.820862,Promenade,0.0,2.0,5.0,1,100.0,0.0,0.5859,enriched_google_reviews,2
+Gateway of India,Maharashtra,18.921936,72.834573,Monument,0.0,1.0,4.7,46,91.3,0.0,0.706,enriched_google_reviews,2
+Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Maharashtra,18.926732,72.832568,Museum,500.0,1.0,4.83,6,100.0,0.0,0.9067,enriched_google_reviews,0
+Sanjay Gandhi National Park,Maharashtra,19.21738,72.913293,National Park,50.0,3.0,4.0,1,100.0,0.0,0.5,enriched_google_reviews,0
+Siddhivinayak Temple,Maharashtra,19.081556,72.911895,Temple,0.0,2.0,4.71,7,85.71,0.0,0.295,enriched_google_reviews,2
+Mahalaxmi Temple,Maharashtra,18.782268,73.341334,Temple,0.0,1.0,3.0,2,0.0,0.0,0.0,enriched_google_reviews,0
+Haji Ali Dargah,Maharashtra,18.982747,72.808965,Religious Shrine,0.0,2.0,4.51,107,88.79,6.54,0.5196,enriched_google_reviews,2
+Chowpatty Beach,Maharashtra,19.075984,72.877656,Beach,0.0,2.0,3.67,3,66.67,33.33,0.4694,enriched_google_reviews,0
+Essel World,Maharashtra,19.21142,73.162036,Amusement Park,1149.0,5.0,4.0,1,100.0,0.0,0.5,enriched_google_reviews,0
+Elephanta Caves,Maharashtra,18.963378,72.931636,Monument,550.0,4.0,4.25,64,79.69,6.25,0.5318,enriched_google_reviews,0
+Imagicaa,Maharashtra,18.7557,73.4091,Amusement Park,1149.0,5.0,1.4,95000,23.0,67.0,-0.8,unmatched_preserved,1
+Bangalore Palace,Karnataka,12.998678,77.592221,Palace,500.0,2.0,3.44,43,51.16,20.93,0.4071,enriched_google_reviews,0
+Lalbagh Botanical Garden,Karnataka,12.94836,77.58566,Botanical Garden,20.0,1.5,4.02,127,70.87,4.72,0.5113,enriched_google_reviews,0
+Cubbon Park,Karnataka,12.975959,77.592989,Park,0.0,1.0,3.79,38,60.53,7.89,0.3932,enriched_google_reviews,0
+Vidhana Soudha,Karnataka,12.979563,77.59086,Government Building,0.0,0.5,4.32,22,77.27,0.0,0.4635,enriched_google_reviews,0
+ISKCON Temple Bangalore,Karnataka,12.285438,76.634194,Temple,0.0,1.0,4.33,6,83.33,0.0,0.2147,enriched_google_reviews,2
+Charminar,Telangana,17.361564,78.474664,Landmark,25.0,1.0,4.05,220,72.73,7.27,0.4539,enriched_google_reviews,0
+Golconda Fort,Telangana,17.383309,78.401053,Fort,30.0,2.0,4.15,105,76.19,5.71,0.5343,enriched_google_reviews,0
+Hussain Sagar Lake,Telangana,17.378491,78.293037,Lake,0.0,1.0,4.33,3,100.0,0.0,0.2497,enriched_google_reviews,2
+Ramoji Film City,Telangana,17.26147,78.681692,Film Studio,1150.0,4.0,4.34,149,82.55,8.72,0.5222,enriched_google_reviews,0
+Salar Jung Museum,Telangana,17.37135,78.480365,Museum,20.0,2.0,4.58,12,100.0,0.0,0.4845,enriched_google_reviews,0
+Qutb Shahi Tombs,Telangana,17.394366,78.39631,Tombs,25.0,1.0,3.54,13,38.46,7.69,0.2864,enriched_google_reviews,0
+Birla Mandir,Telangana,17.385044,78.486671,Temple,0.0,1.0,3.5,2,50.0,50.0,-0.1072,enriched_google_reviews,0
+Chowmahalla Palace,Telangana,17.357822,78.471671,Palace,80.0,1.5,4.34,64,87.5,1.56,0.5801,enriched_google_reviews,0
+Nehru Zoological Park,Telangana,17.351458,78.447318,Zoo,50.0,3.0,3.93,85,67.06,5.88,0.4251,enriched_google_reviews,0
+Lumbini Park,Telangana,17.409718,78.472572,Park,20.0,1.0,3.55,38,47.37,7.89,0.3266,enriched_google_reviews,0
+Victoria Memorial,West Bengal,22.544546,88.343024,Museum,30.0,1.5,4.43,178,87.08,0.56,0.5963,enriched_google_reviews,0
+Howrah Bridge,West Bengal,22.503349,88.376376,Bridge,0.0,0.5,4.0,15,66.67,13.33,0.4002,enriched_google_reviews,2
+Indian Museum,West Bengal,22.557944,88.350861,Museum,50.0,2.0,4.12,91,76.92,6.59,0.4781,enriched_google_reviews,0
+Dakshineswar Kali Temple,West Bengal,22.654909,88.357531,Temple,0.0,1.0,4.55,66,90.91,4.55,0.5538,enriched_google_reviews,2
+Kalighat Kali Temple,West Bengal,22.513369,88.355089,Temple,0.0,1.0,5.0,2,100.0,0.0,1.0,enriched_google_reviews,2
+Eden Gardens,West Bengal,22.564642,88.343296,Cricket Ground,2500.0,3.0,4.28,87,82.76,2.3,0.5006,enriched_google_reviews,0
+Alipore Zoological Gardens,West Bengal,22.5726,88.3639,Zoo,25.0,2.0,4.3,66000,81.0,9.0,0.65,unmatched_preserved,2
+Science City Kolkata,West Bengal,22.539654,88.396147,Science,60.0,3.0,4.13,166,77.71,3.61,0.5212,enriched_google_reviews,0
+Belur Math,West Bengal,22.632248,88.356498,Site,0.0,1.5,4.71,49,95.92,4.08,0.6537,enriched_google_reviews,2
+Marble Palace,West Bengal,22.582116,88.360054,Palace,0.0,1.0,4.07,15,73.33,0.0,0.5357,enriched_google_reviews,2
+Calangute Beach,Goa,15.541804,73.761172,Beach,0.0,2.0,3.4,5,60.0,20.0,-0.0352,enriched_google_reviews,0
+Basilica of Bom Jesus,Goa,15.500788,73.911599,Church,0.0,1.0,4.38,42,90.48,0.0,0.6561,enriched_google_reviews,2
+Fort Aguada,Goa,15.492383,73.77371,Fort,0.0,1.5,4.53,17,88.24,0.0,0.5989,enriched_google_reviews,2
+Dudhsagar Falls,Goa,15.2993,74.124,Waterfall,500.0,3.0,4.6,30000,87.0,3.0,0.8,unmatched_preserved,2
+Anjuna Beach,Goa,15.587107,73.74089,Beach,0.0,2.0,4.0,6,83.33,16.67,0.2885,enriched_google_reviews,0
+Chapora Fort,Goa,15.606211,73.736385,Fort,0.0,1.0,4.0,25,72.0,0.0,0.3662,enriched_google_reviews,0
+Se Cathedral,Goa,15.503868,73.912192,Church,0.0,1.0,4.13,15,80.0,0.0,0.502,enriched_google_reviews,0
+Baga Beach,Goa,15.556089,73.75628,Beach,0.0,2.0,5.0,7,100.0,0.0,0.7244,enriched_google_reviews,2
+Arambol Beach,Goa,15.683978,73.703284,Beach,0.0,2.0,4.71,17,94.12,0.0,0.4082,enriched_google_reviews,2
+Palolem Beach,Goa,15.011158,74.021459,Beach,0.0,2.0,4.67,3,100.0,0.0,0.4166,enriched_google_reviews,2
+Colva Beach,Goa,15.27603,73.917325,Beach,0.0,2.0,4.0,3,66.67,0.0,0.3333,enriched_google_reviews,0
+Miramar Beach,Goa,15.475372,73.809305,Beach,0.0,1.5,4.67,3,100.0,0.0,0.7602,enriched_google_reviews,2
+Aguada Beach,Goa,15.492383,73.77371,Beach,0.0,2.0,4.53,17,88.24,0.0,0.5989,enriched_google_reviews,2
+Dr. Salim Ali Bird Santuary,Goa,15.515445,73.856609,Bird Sanctuary,10.0,2.0,4.5,8,87.5,0.0,0.5533,enriched_google_reviews,0
+Sabarmati Ashram,Gujarat,23.07939,72.59,Historical,0.0,1.5,1.0,1,0.0,100.0,-0.7146,enriched_google_reviews,1
+Dwarkadhish Temple,Gujarat,27.505255,77.684866,Temple,0.0,2.0,4.55,31,87.1,0.0,0.463,enriched_google_reviews,2
+Gir National Park,Gujarat,21.124365,70.82518,National Park,3500.0,3.0,4.39,123,82.11,4.88,0.5673,enriched_google_reviews,0
+White Desert,Gujarat,23.915468,69.526124,Site,0.0,2.5,4.61,23,91.3,0.0,0.5612,enriched_google_reviews,2
+Laxmi Vilas Palace,Gujarat,22.293778,73.191529,Palace,200.0,2.0,4.76,38,94.74,0.0,0.574,enriched_google_reviews,0
+Somnath Temple,Gujarat,20.794574,70.70035,Temple,0.0,2.0,4.4,10,90.0,0.0,0.3589,enriched_google_reviews,2
+Rann Utsav,Gujarat,23.797381,69.503779,Cultural,7500.0,3.0,4.67,21,95.24,4.76,0.655,enriched_google_reviews,0
+Statue of Unity,Gujarat,21.838,73.7191,Monument,350.0,3.0,4.6,67000,87.0,3.0,0.8,unmatched_preserved,2
+Dandi Kutir,Gujarat,20.886721,72.797534,Museum,0.0,1.5,4.82,11,90.91,0.0,0.6489,enriched_google_reviews,2
+Sabarmati Riverfront,Gujarat,23.053752,72.580003,Urban Development Project,0.0,1.0,4.17,6,66.67,16.67,0.4034,enriched_google_reviews,0
+Manek Chowk,Gujarat,23.023342,72.588518,Market,0.0,2.0,4.44,43,90.7,0.0,0.4571,enriched_google_reviews,2
+Kankaria Lake,Gujarat,23.009796,72.600522,Lake,10.0,3.0,4.35,60,86.67,1.67,0.5682,enriched_google_reviews,0
+Science City,Gujarat,23.0796,72.4948,Science,500.0,7.0,4.28,74,79.73,2.7,0.4921,enriched_google_reviews,0
+Hawa Mahal,Rajasthan,26.923936,75.826744,Palace,50.0,1.0,4.24,105,80.0,6.67,0.4657,enriched_google_reviews,0
+City Palace,Rajasthan,24.576442,73.683511,Palace,300.0,2.0,4.19,27,77.78,7.41,0.4699,enriched_google_reviews,0
+Jaisalmer Fort,Rajasthan,26.9128,70.9132,Fort,50.0,2.5,4.13,15,73.33,0.0,0.4249,enriched_google_reviews,0
+Ranthambore National Park,Rajasthan,26.017327,76.502574,Wildlife Sanctuary,500.0,3.0,4.25,55,81.82,7.27,0.5429,enriched_google_reviews,0
+Pushkar Lake,Rajasthan,26.487726,74.556171,Temple,0.0,1.5,5.0,1,100.0,0.0,0.0,enriched_google_reviews,2
+Ajmer Sharif Dargah,Rajasthan,26.4499,74.6399,Shrine,0.0,1.0,4.6,35000,87.0,3.0,0.8,unmatched_preserved,2
+Mehrangarh Fort,Rajasthan,26.297836,73.018447,Fort,100.0,2.0,4.5,82,90.24,0.0,0.5723,enriched_google_reviews,0
+Chittorgarh Fort,Rajasthan,24.891539,74.644713,Fort,40.0,2.0,4.36,53,81.13,5.66,0.4593,enriched_google_reviews,0
+Dilwara Temples,Rajasthan,24.609393,72.723709,Temple,0.0,1.0,4.21,29,72.41,6.9,0.4753,enriched_google_reviews,0
+Junagarh Fort,Rajasthan,28.022006,73.317718,Fort,50.0,2.0,4.49,53,88.68,1.89,0.6007,enriched_google_reviews,0
+Amber Fort,Rajasthan,26.985833,75.850133,Fort,100.0,2.0,4.82,11,100.0,0.0,0.5617,enriched_google_reviews,0
+Jaigarh Fort,Rajasthan,26.984576,75.845425,Fort,35.0,1.5,4.15,20,70.0,0.0,0.5007,enriched_google_reviews,0
+Lake Pichola,Rajasthan,24.57127,73.691544,Lake,0.0,1.0,4.33,12,75.0,8.33,0.5665,enriched_google_reviews,0
+Golden Temple (Harmandir Sahib),Punjab,31.61998,74.876485,Religious Site,0.0,1.5,4.89,225,98.22,0.0,0.602,enriched_google_reviews,2
+Jallianwala Bagh,Punjab,31.620434,74.881066,Memorial,0.0,1.0,5.0,2,100.0,0.0,1.0,enriched_google_reviews,2
+Wagah Border,Punjab,31.604834,74.57219,Border Crossing,0.0,2.0,4.0,5,80.0,20.0,0.5,enriched_google_reviews,2
+Rock Garden,Punjab,31.951145,75.848861,Sculpture Garden,30.0,2.0,5.0,1,100.0,0.0,0.0,enriched_google_reviews,2
+Alappuzha Beach,Kerala,9.502979,76.341633,Beach,0.0,1.5,1.0,1,0.0,100.0,-1.0,enriched_google_reviews,1
+Munnar Tea Gardens,Kerala,10.086587,77.064968,Scenic Area,0.0,2.0,4.5,2,100.0,0.0,0.7437,enriched_google_reviews,2
+Fort Kochi,Kerala,9.962003,76.240842,Site,0.0,1.0,3.75,16,62.5,12.5,0.4413,enriched_google_reviews,0
+Padmanabhaswamy Temple,Kerala,8.482778,76.943591,Temple,0.0,1.0,4.63,71,90.14,1.41,0.6099,enriched_google_reviews,2
+Kozhikode Beach,Kerala,11.257289,75.768285,Beach,0.0,1.5,4.3,10,80.0,0.0,0.5737,enriched_google_reviews,0
+Wayanad Wildlife Sanctuary,Kerala,11.76452,76.24443,Wildlife Sanctuary,300.0,3.0,3.5,2,50.0,0.0,0.25,enriched_google_reviews,0
+Periyar National Park,Kerala,9.988684,76.684045,National Park,50.0,3.0,4.0,1,100.0,0.0,0.5,enriched_google_reviews,0
+Kumarakom Bird Sanctuary,Kerala,9.629715,76.423768,Bird Sanctuary,50.0,2.0,3.55,11,45.45,9.09,0.3599,enriched_google_reviews,0
+Varkala Beach,Kerala,8.737686,76.724524,Beach,0.0,2.0,3.2,5,40.0,20.0,0.125,enriched_google_reviews,0
+Bekal Fort,Kerala,12.392318,75.032639,Fort,20.0,1.5,4.26,35,82.86,5.71,0.5939,enriched_google_reviews,0
+Kovalam Beach,Kerala,8.395936,76.973037,Beach,0.0,2.0,4.12,8,62.5,12.5,0.3514,enriched_google_reviews,0
+St. Angelo Fort,Kerala,11.85406,75.371459,Fort,20.0,1.0,4.05,19,84.21,10.53,0.4387,enriched_google_reviews,0
+Seethargundu Viewpoint,Kerala,10.054027,77.068692,Viewpoint,0.0,1.0,2.5,2,0.0,50.0,-0.25,enriched_google_reviews,1
+Kerala Folklore Museum,Kerala,9.933039,76.299001,Cultural,100.0,1.5,4.83,6,100.0,0.0,0.6896,enriched_google_reviews,0
+Wonderla Amusement Park,Kerala,10.899138,76.131821,Amusement Park,750.0,5.5,3.69,13,38.46,7.69,0.3334,enriched_google_reviews,0
+Mysore Palace,Karnataka,12.305135,76.655148,Palace,50.0,2.0,4.4,195,85.13,2.05,0.5105,enriched_google_reviews,0
+Hampi Archaeological Ruins,Karnataka,15.335,76.46,Site,0.0,3.0,4.7,5000,89.0,1.0,0.85,unmatched_preserved,2
+Abbey Falls,Karnataka,12.457666,75.716491,Waterfall,0.0,1.0,3.54,54,55.56,20.37,0.3337,enriched_google_reviews,0
+Om Beach,Karnataka,14.5479,74.3188,Beach,0.0,2.0,4.5,9000,85.0,5.0,0.75,unmatched_preserved,2
+Mullayanagiri,Karnataka,13.390976,75.721389,Mountain Peak,0.0,3.0,5.0,2,100.0,0.0,0.5476,enriched_google_reviews,2
+Badami Cave Temples,Karnataka,15.916641,75.691005,Cave,30.0,1.5,4.14,36,83.33,5.56,0.5084,enriched_google_reviews,0
+Jog Falls,Karnataka,14.229439,74.812523,Waterfall,30.0,1.5,4.09,35,68.57,8.57,0.3881,enriched_google_reviews,0
+Panambur Beach,Karnataka,12.937123,74.804781,Beach,0.0,1.5,4.27,15,73.33,0.0,0.5647,enriched_google_reviews,0
+Murudeshwar Temple,Karnataka,14.094238,74.485098,Temple,0.0,1.0,4.67,3,100.0,0.0,0.8135,enriched_google_reviews,2
+Gol Gumbaz,Karnataka,16.830168,75.736103,Mausoleum,20.0,1.5,4.2,51,80.39,5.88,0.4841,enriched_google_reviews,0
+Bandipur National Park,Karnataka,11.667945,76.631913,National Park,300.0,3.0,4.22,32,75.0,3.12,0.4301,enriched_google_reviews,0
+Halebidu Hoysaleswara Temple,Karnataka,13.2167,75.9933,Temple,15.0,1.0,4.7,11000,89.0,1.0,0.85,unmatched_preserved,2
+Shaniwar Wada,Maharashtra,18.519732,73.855344,Fort,50.0,2.0,4.0,20,70.0,5.0,0.3406,enriched_google_reviews,0
+Ajanta Caves,Maharashtra,20.551706,75.703361,Cave,30.0,3.0,4.31,54,85.19,1.85,0.5129,enriched_google_reviews,0
+Sula Vineyards,Maharashtra,20.006854,73.688202,Vineyard,300.0,2.0,4.29,42,80.95,4.76,0.5439,enriched_google_reviews,0
+Sai Baba Temple,Maharashtra,19.200251,72.872496,Temple,0.0,1.5,5.0,2,100.0,0.0,0.7517,enriched_google_reviews,2
+Alibaug Beach,Maharashtra,18.638885,72.871982,Beach,0.0,1.5,3.33,3,33.33,33.33,0.0619,enriched_google_reviews,0
+Ganapatipule Temple,Maharashtra,17.145032,73.268059,Temple,0.0,1.0,4.33,3,100.0,0.0,0.6642,enriched_google_reviews,2
+Deekshabhoomi,Maharashtra,21.1458,79.0882,Monument,0.0,1.0,4.5,11000,85.0,5.0,0.75,unmatched_preserved,2
+Mahalakshmi Temple,Maharashtra,18.977539,72.806357,Temple,0.0,1.0,4.82,44,97.73,2.27,0.6516,enriched_google_reviews,2
+Karla Caves,Maharashtra,18.783249,73.470634,Cave,25.0,1.5,4.19,31,80.65,6.45,0.4814,enriched_google_reviews,0
+Tarkarli Beach,Maharashtra,16.007474,73.491197,Beach,0.0,2.0,4.0,8,75.0,12.5,0.5055,enriched_google_reviews,0
+Kaas Plateau,Maharashtra,16.817582,74.078478,Valley,300.0,2.0,4.25,4,75.0,0.0,0.6231,enriched_google_reviews,0
+Echo Point,Maharashtra,18.986189,73.261128,Viewpoint,0.0,1.5,4.0,1,100.0,0.0,0.5,enriched_google_reviews,2
+Ellora Caves,Maharashtra,20.032333,75.175647,Cave,30.0,3.0,4.4,52,82.69,7.69,0.5364,enriched_google_reviews,0
+Khajuraho Group of Monuments,Madhya Pradesh,24.8318,79.9199,Temples,40.0,2.0,4.7,9000,89.0,1.0,0.85,unmatched_preserved,2
+Sanchi Stupa,Madhya Pradesh,22.725649,75.878245,Monument,30.0,1.5,4.0,1,100.0,0.0,0.5,enriched_google_reviews,0
+Rajwada Palace,Madhya Pradesh,22.718339,75.854738,Palace,10.0,1.0,4.12,24,75.0,4.17,0.1986,enriched_google_reviews,0
+Gwalior Fort,Madhya Pradesh,26.209181,78.168202,Fort,75.0,2.5,3.83,6,66.67,0.0,0.4067,enriched_google_reviews,0
+Mahakaleshwar Jyotirlinga,Madhya Pradesh,23.182716,75.76822,Temple,0.0,1.5,4.6,113,88.5,3.54,0.3975,enriched_google_reviews,2
+Dhuandhar Falls,Madhya Pradesh,24.881452,80.047692,Waterfall,0.0,1.0,3.57,7,42.86,0.0,0.3694,enriched_google_reviews,0
+Bee Falls,Madhya Pradesh,22.474007,78.408598,Waterfall,15.0,1.5,4.5,2,100.0,0.0,0.4215,enriched_google_reviews,0
+Kanha National Park,Madhya Pradesh,22.298671,80.588258,Wildlife Sanctuary,100.0,3.0,4.59,32,93.75,3.12,0.6659,enriched_google_reviews,0
+Bandhavgarh National Park,Madhya Pradesh,23.6149,80.3857,National Park,50.0,3.0,4.0,1,100.0,0.0,0.5,enriched_google_reviews,0
+Orchha Fort,Madhya Pradesh,25.350949,78.640583,Fort,10.0,1.5,4.11,9,77.78,11.11,0.5139,enriched_google_reviews,0
+Jahaz Mahal,Madhya Pradesh,22.355295,75.393269,Site,50.0,1.0,4.33,6,100.0,0.0,0.6293,enriched_google_reviews,0
+Bhimbetka Rock Shelters,Madhya Pradesh,22.937259,77.61254,Prehistoric Site,25.0,2.0,4.67,3,100.0,0.0,0.6143,enriched_google_reviews,0
+Narmada Udgam Temple,Madhya Pradesh,23.256212,77.450387,Temple,0.0,1.0,2.0,1,0.0,100.0,-0.6249,enriched_google_reviews,1
+Chitrakoot Falls,Madhya Pradesh,23.464823,81.300309,Waterfall,0.0,1.5,3.5,4,50.0,25.0,0.2929,enriched_google_reviews,0
+The Ridge,Himachal Pradesh,31.104818,77.174848,Scenic Point,0.0,1.0,4.86,7,100.0,0.0,0.6261,enriched_google_reviews,2
+Solang Valley,Himachal Pradesh,31.963586,77.107678,Valley,0.0,2.0,4.5,2,100.0,0.0,0.75,enriched_google_reviews,2
+Dalai Lama Temple,Himachal Pradesh,32.232987,76.324511,Temple,0.0,1.5,4.5,8,87.5,0.0,0.8358,enriched_google_reviews,2
+Khajjiar Lake,Himachal Pradesh,32.546352,76.057958,Lake,0.0,1.5,5.0,1,100.0,0.0,0.0,enriched_google_reviews,2
+Key Monastery,Himachal Pradesh,32.242242,77.188325,Monastery,0.0,1.0,2.5,2,0.0,50.0,0.2173,enriched_google_reviews,1
+Great Himalayan National Park,Himachal Pradesh,31.802412,77.69942,National Park,50.0,3.0,4.27,15,66.67,6.67,0.4662,enriched_google_reviews,0
+Chamera Lake,Himachal Pradesh,32.5534,76.1258,Lake,0.0,2.0,4.4,1000,83.0,7.0,0.7,unmatched_preserved,2
+Sangla Valley,Himachal Pradesh,30.89083,77.067118,Valley,0.0,2.0,5.0,2,100.0,0.0,0.5,enriched_google_reviews,2
+Kangra Fort,Himachal Pradesh,32.087556,76.254001,Fort,150.0,2.0,5.0,1,100.0,0.0,1.0,enriched_google_reviews,2
+Tea Gardens,Himachal Pradesh,27.38128,95.32119,Tea Plantation,0.0,1.5,5.0,1,100.0,0.0,1.0,enriched_google_reviews,2
+Prashar Lake,Himachal Pradesh,31.754372,77.101107,Lake,0.0,1.5,5.0,5,100.0,0.0,0.4107,enriched_google_reviews,2
+Paragliding Site,Himachal Pradesh,32.0425,76.7196,Adventure Sport,2500.0,2.0,4.8,1000,91.0,0.0,0.9,unmatched_preserved,0
+Triund Trek,Himachal Pradesh,32.240561,76.332145,Trekking,0.0,5.0,3.0,1,0.0,0.0,0.0,enriched_google_reviews,0
+Manikaran Sahib,Himachal Pradesh,32.027102,77.344791,Gurudwara,0.0,1.0,4.24,17,82.35,11.76,0.4706,enriched_google_reviews,2
+Hatu Peak,Himachal Pradesh,31.244027,77.501339,Viewpoint,0.0,2.0,4.7,10,90.0,0.0,0.4534,enriched_google_reviews,2
+Barot Valley,Himachal Pradesh,30.89083,77.067118,Valley,0.0,2.0,5.0,2,100.0,0.0,0.5,enriched_google_reviews,2
+Serolsar Lake,Himachal Pradesh,31.5724,77.367,Lake,0.0,2.5,4.4,90000,83.0,7.0,0.7,unmatched_preserved,2
+Kufri Fun World,Himachal Pradesh,31.094126,77.278049,Ski Resort,1500.0,5.0,3.0,18,33.33,38.89,0.1862,enriched_google_reviews,0
+Naini Lake,Uttarakhand,29.39258,79.451846,Lake,0.0,1.5,5.0,1,100.0,0.0,0.7845,enriched_google_reviews,2
+Laxman Jhula,Uttarakhand,30.123364,78.329121,Suspension Bridge,0.0,1.0,5.0,1,100.0,0.0,1.0,enriched_google_reviews,2
+Har Ki Pauri,Uttarakhand,29.956831,78.171544,Ghat,0.0,1.0,4.76,25,92.0,4.0,0.4408,enriched_google_reviews,2
+Robber's Cave,Uttarakhand,30.376117,78.06035,Cave,25.0,1.5,3.0,4,25.0,50.0,0.37,enriched_google_reviews,1
+Kempty Falls,Uttarakhand,30.488146,78.037015,Waterfall,15.0,1.5,4.05,41,70.73,14.63,0.2752,enriched_google_reviews,0
+Auli Ski Resort,Uttarakhand,30.901304,76.971868,Ski Resort,0.0,3.0,4.4,5,100.0,0.0,0.6713,enriched_google_reviews,2
+Badrinath Temple,Uttarakhand,29.774866,79.427035,Temple,0.0,1.0,4.2,5,80.0,0.0,0.4,enriched_google_reviews,2
+Binsar Wildlife Sanctuary,Uttarakhand,29.5971,79.6591,Wildlife Sanctuary,150.0,2.0,4.3,1000,81.0,9.0,0.65,unmatched_preserved,2
+Chaubatia Gardens,Uttarakhand,29.6434,79.4322,Orchard,50.0,1.0,4.0,2500,75.0,15.0,0.5,unmatched_preserved,2
+Jim Corbett National Park,Uttarakhand,29.53,78.7747,National Park,100.0,3.0,5.0,1,100.0,0.0,0.0,enriched_google_reviews,2
+Gangotri Temple,Uttarakhand,30.99441,78.941464,Temple,0.0,1.0,4.75,4,100.0,0.0,0.5,enriched_google_reviews,2
+Tungnath Temple,Uttarakhand,30.488198,79.216596,Temple,0.0,2.0,4.78,9,88.89,0.0,0.8467,enriched_google_reviews,2
+Valley of Flowers,Uttarakhand,30.72804,79.605303,National Park,150.0,5.0,4.23,13,76.92,7.69,0.5231,enriched_google_reviews,0
+Taj Mahal,Uttar Pradesh,27.175015,78.042155,Mausoleum,50.0,2.0,4.63,663,92.46,1.81,0.5865,enriched_google_reviews,2
+Kashi Vishwanath Temple,Uttar Pradesh,25.310848,83.010691,Temple,0.0,1.0,4.56,124,87.1,1.61,0.446,enriched_google_reviews,2
+Bara Imambara,Uttar Pradesh,26.869683,80.91317,Monument,50.0,1.5,4.25,67,79.1,4.48,0.5126,enriched_google_reviews,0
+Krishna Janmabhoomi,Uttar Pradesh,25.438542,78.582566,Temple,0.0,1.0,2.5,2,0.0,50.0,-0.25,enriched_google_reviews,1
+Ram Janmabhoomi,Uttar Pradesh,26.7922,82.1998,Religious Site,0.0,1.0,4.0,1,100.0,0.0,0.0,enriched_google_reviews,2
+Banke Bihari Temple,Uttar Pradesh,27.525177,77.491728,Temple,0.0,1.0,4.5,4,75.0,0.0,0.75,enriched_google_reviews,2
+Triveni Sangam,Uttar Pradesh,25.42237,81.886623,Confluence,0.0,1.0,4.54,46,82.61,0.0,0.3926,enriched_google_reviews,2
+Jhansi Fort,Uttar Pradesh,25.457876,78.575631,Fort,15.0,1.5,4.35,37,89.19,2.7,0.6341,enriched_google_reviews,0
+Dhamek Stupa,Uttar Pradesh,25.380902,83.024515,Monument,5.0,1.0,4.5,12,91.67,0.0,0.6109,enriched_google_reviews,2
+Buland Darwaza,Uttar Pradesh,26.871267,80.912145,Monument,40.0,2.0,4.11,9,77.78,0.0,0.4257,enriched_google_reviews,0
+Okhla Bird Sanctuary,Uttar Pradesh,28.554942,77.31234,Bird Sanctuary,30.0,1.5,3.2,5,40.0,20.0,0.374,enriched_google_reviews,0
+Aligarh Fort,Uttar Pradesh,27.872694,78.074053,Fort,20.0,1.0,4.5,2,100.0,0.0,0.0,enriched_google_reviews,2
+Augarnath Temple,Uttar Pradesh,28.9845,77.7064,Temple,0.0,1.0,4.8,4500,91.0,0.0,0.9,unmatched_preserved,2
+Allen Forest Zoo,Uttar Pradesh,24.461164,82.99484,Zoo,150.0,2.0,3.0,1,0.0,0.0,0.0,enriched_google_reviews,0
+Dal Lake,Jammu and Kashmir,34.103169,74.866704,Lake,0.0,2.0,5.0,1,100.0,0.0,1.0,enriched_google_reviews,2
+Pangong Tso,Ladakh,34.1526,77.5771,Lake,20.0,2.0,4.9,15000,93.0,0.0,0.95,unmatched_preserved,2
+Betaab Valley,Jammu and Kashmir,34.788532,77.543121,Valley,100.0,2.0,4.0,5,80.0,20.0,0.4172,enriched_google_reviews,0
+Vaishno Devi,Jammu and Kashmir,33.030829,74.949042,Temple,0.0,5.0,4.75,261,93.49,1.15,0.2892,enriched_google_reviews,0
+Patnitop Height,Jammu and Kashmir,33.081761,75.334325,Hill,0.0,2.0,5.0,1,100.0,0.0,0.6249,enriched_google_reviews,2
+Amarnath Cave,Jammu and Kashmir,34.214766,75.505832,Temple,0.0,6.0,4.59,92,86.96,6.52,0.4163,enriched_google_reviews,0
+Thiksey Monastery,Ladakh,33.361718,78.025213,Monastery,20.0,1.5,5.0,1,100.0,0.0,1.0,enriched_google_reviews,2
+Nubra Valley,Ladakh,34.788532,77.543121,Valley,0.0,2.0,4.0,5,80.0,20.0,0.4172,enriched_google_reviews,2
+Kargil War Memorial,Ladakh,34.433232,75.807998,War Memorial,0.0,1.0,5.0,5,100.0,0.0,0.9231,enriched_google_reviews,2
+Diskit Monastery,Ladakh,34.540958,77.560688,Monastery,20.0,1.0,4.67,3,100.0,0.0,0.7499,enriched_google_reviews,2
+Kishtwar National Park,Jammu and Kashmir,33.617853,75.992765,National Park,100.0,3.0,3.6,10,60.0,20.0,0.2561,enriched_google_reviews,0
+Hemis National Park,Ladakh,33.756315,77.283325,National Park,20.0,4.0,4.43,7,71.43,0.0,0.6671,enriched_google_reviews,0
+Dras War Memorial,Ladakh,34.433232,75.807998,War Memorial,0.0,1.0,5.0,5,100.0,0.0,0.9231,enriched_google_reviews,2
+Magnetic Hill,Ladakh,34.1526,77.5771,Gravity Hill,0.0,0.5,3.7,10000,69.0,21.0,0.35,unmatched_preserved,2
+Khardung La Pass,Ladakh,34.1526,77.5771,Hill,0.0,1.0,4.5,5000,85.0,5.0,0.75,unmatched_preserved,2
+Thiksey Monastery,Ladakh,33.361718,78.025213,Monastery,30.0,1.5,5.0,1,100.0,0.0,1.0,enriched_google_reviews,2
+Prem Mandir,Uttar Pradesh,27.572096,77.671816,Temple,0.0,1.5,4.75,36,100.0,0.0,0.6129,enriched_google_reviews,2
+Kirti Mandir,Uttar Pradesh,21.641343,69.600982,Memorial,0.0,1.0,4.14,7,85.71,14.29,0.2905,enriched_google_reviews,0
+Nand Gaon,Uttar Pradesh,26.891933,81.071412,Village,0.0,1.0,3.5,2,50.0,50.0,0.25,enriched_google_reviews,1
+Barsana Mandir,Uttar Pradesh,29.442733,78.434027,Temple,0.0,1.0,4.25,4,75.0,0.0,0.5,enriched_google_reviews,2
+Tiger Hill,West Bengal,26.994822,88.285422,Sunrise Point,0.0,1.0,4.35,43,81.4,4.65,0.503,enriched_google_reviews,2
+Jaldapara National Park,West Bengal,26.583232,89.379584,Wildlife Sanctuary,250.0,3.0,4.19,16,87.5,0.0,0.5063,enriched_google_reviews,0
+Sundarbans National Park,West Bengal,21.945,88.8958,National Park,60.0,4.0,4.5,4,100.0,0.0,0.7481,enriched_google_reviews,0
+Digha Beach,West Bengal,25.651736,85.093344,Beach,0.0,1.5,3.0,1,0.0,0.0,0.7003,enriched_google_reviews,0
+Hazarduari Palace,West Bengal,24.1759,88.2802,Palace,10.0,1.5,4.5,18000,85.0,5.0,0.75,unmatched_preserved,2
+Kankalitala Temple,West Bengal,23.6693,87.6836,Temple,0.0,0.5,4.7,4500,89.0,1.0,0.85,unmatched_preserved,2
+Hangseswari Temple,West Bengal,22.9086,88.3967,Temple,0.0,0.5,4.6,7000,87.0,3.0,0.8,unmatched_preserved,2
+Gorumara National Park,West Bengal,26.756357,88.797479,National Park,100.0,3.0,3.4,15,60.0,33.33,0.3338,enriched_google_reviews,0
+Cooch Behar Palace,West Bengal,26.325003,89.450285,Palace,20.0,1.0,3.17,6,16.67,0.0,-0.1042,enriched_google_reviews,0
+Ayodhya Hills,West Bengal,13.642905,79.418661,Hill,0.0,2.5,2.5,2,0.0,50.0,-0.25,enriched_google_reviews,1
+Jagannath Temple,Odisha,19.953048,86.185931,Temple,0.0,2.0,4.15,13,84.62,7.69,0.6031,enriched_google_reviews,2
+Sun Temple,Odisha,19.887595,86.094536,Temple,40.0,1.5,4.66,68,94.12,1.47,0.5953,enriched_google_reviews,0
+Lingaraj Temple,Odisha,20.23823,85.833784,Temple,0.0,1.0,4.56,52,88.46,1.92,0.5083,enriched_google_reviews,2
+Khandadhar Waterfall,Odisha,21.760551,85.116464,Waterfall,0.0,1.5,4.0,19,63.16,10.53,0.2874,enriched_google_reviews,2
+Barabati Fort,Odisha,20.485192,85.864616,Fort,0.0,1.0,4.08,12,66.67,8.33,0.5774,enriched_google_reviews,2
+Hirakud Dam,Odisha,21.4669,83.9812,Dam,0.0,1.0,4.5,1000,85.0,5.0,0.75,unmatched_preserved,2
+Chilika Lake,Odisha,19.7165,85.3211,Lake,0.0,2.0,3.9,10000,73.0,17.0,0.45,unmatched_preserved,2
+Tara Tarini Temple,Odisha,19.315,84.7941,Temple,0.0,1.0,4.6,1000,87.0,3.0,0.8,unmatched_preserved,2
+Badaghagara Waterfall,Odisha,21.6289,85.5817,Waterfall,0.0,1.0,4.3,1799,81.0,9.0,0.65,unmatched_preserved,2
+Chandipur Beach,Odisha,21.45185,87.040821,Beach,0.0,1.5,3.0,1,0.0,0.0,0.0,enriched_google_reviews,0
+Sanaghagara Waterfall,Odisha,21.6289,85.5817,Waterfall,0.0,1.0,4.4,5500,83.0,7.0,0.7,unmatched_preserved,2
+Marina Beach,Tamil Nadu,13.067271,80.252099,Beach,0.0,1.5,4.75,4,100.0,0.0,0.8487,enriched_google_reviews,2
+Meenakshi Amman Temple,Tamil Nadu,9.920344,78.119229,Temple,0.0,2.0,4.64,107,93.46,1.87,0.5267,enriched_google_reviews,2
+Ramanathaswamy Temple,Tamil Nadu,9.288094,79.317319,Temple,0.0,1.5,4.68,59,88.14,1.69,0.5487,enriched_google_reviews,2
+Vivekananda Rock Memorial,Tamil Nadu,8.07815,77.555323,Memorial,20.0,1.0,4.49,76,88.16,1.32,0.5295,enriched_google_reviews,0
+Ooty Lake,Tamil Nadu,11.403471,76.695299,Lake,10.0,1.0,3.5,2,50.0,50.0,-0.25,enriched_google_reviews,0
+Marudamalai Temple,Tamil Nadu,11.0168,76.9558,Temple,0.0,1.0,4.7,30000,89.0,1.0,0.85,unmatched_preserved,2
+Kodaikanal Lake,Tamil Nadu,10.247103,77.519479,Lake,0.0,2.0,5.0,1,100.0,0.0,0.0,enriched_google_reviews,2
+Brihadeeswarar Temple,Tamil Nadu,10.787,79.1378,Temple,0.0,1.5,4.8,35000,91.0,0.0,0.9,unmatched_preserved,2
+Shore Temple,Tamil Nadu,12.626927,80.192711,Temple,40.0,1.0,4.0,9,66.67,11.11,0.4133,enriched_google_reviews,0
+Yercaud Lake,Tamil Nadu,11.784883,78.208202,Lake,0.0,1.0,2.33,3,0.0,66.67,-0.472,enriched_google_reviews,1
+Nellaiappar Temple,Tamil Nadu,8.728194,77.687612,Temple,0.0,1.0,4.79,14,100.0,0.0,0.5962,enriched_google_reviews,2
+Nataraja Temple,Tamil Nadu,11.102294,77.340145,Temple,0.0,1.0,4.67,3,100.0,0.0,0.0016,enriched_google_reviews,2
+Kanaka Durga Temple,Andhra Pradesh,14.161464,79.233062,Temple,0.0,1.0,3.0,3,0.0,0.0,0.0,enriched_google_reviews,0
+Rishikonda Beach,Andhra Pradesh,17.781709,83.385394,Beach,0.0,1.5,4.0,3,66.67,0.0,0.4392,enriched_google_reviews,2
+Mallikarjuna Swamy Temple,Andhra Pradesh,16.567531,78.269563,Temple,0.0,1.0,5.0,1,100.0,0.0,0.0,enriched_google_reviews,2
+Papikondalu,Andhra Pradesh,17.003871,81.767152,Hill,0.0,2.0,4.84,19,94.74,0.0,0.7206,enriched_google_reviews,2
+Lepakshi,Andhra Pradesh,13.801824,77.609536,Site,0.0,1.5,4.25,8,100.0,0.0,0.6517,enriched_google_reviews,2
+Belum Caves,Andhra Pradesh,15.102346,78.111541,Cave,65.0,1.5,4.41,32,81.25,3.12,0.6258,enriched_google_reviews,0
+Amaravathi Temple,Andhra Pradesh,18.295005,83.896342,Temple,0.0,1.0,3.5,2,50.0,0.0,0.3982,enriched_google_reviews,0
+Uppalapadu Bird Sanctuary,Andhra Pradesh,13.72446,80.124664,Bird Sanctuary,10.0,1.0,4.33,3,66.67,0.0,0.7476,enriched_google_reviews,0
+Gandikota Fort,Andhra Pradesh,14.817562,78.283207,Fort,0.0,1.5,3.86,7,71.43,0.0,0.2031,enriched_google_reviews,0
+Prasanthi Nilayam,Andhra Pradesh,14.165574,77.807421,Spiritual Center,0.0,1.0,4.87,15,93.33,0.0,0.4592,enriched_google_reviews,2
+Simhachalam Temple,Andhra Pradesh,17.766639,83.248593,Temple,0.0,1.0,4.12,17,76.47,0.0,0.459,enriched_google_reviews,2
+Kailasagiri,Andhra Pradesh,17.749218,83.342199,Hill,0.0,2.0,4.33,9,88.89,0.0,0.7229,enriched_google_reviews,2
+Submarine Museum,Andhra Pradesh,17.6868,83.2185,Museum,40.0,1.0,4.6,49000,87.0,3.0,0.8,unmatched_preserved,2
+Borra Caves,Andhra Pradesh,18.280703,83.039464,Cave,60.0,2.0,4.61,18,83.33,0.0,0.6485,enriched_google_reviews,0
+War Memorial,Andhra Pradesh,22.552986,88.328686,War Memorial,0.0,1.0,5.0,1,100.0,0.0,-0.5106,enriched_google_reviews,2
+Indira Gandhi Zoological Park,Andhra Pradesh,17.764885,83.348215,Zoo,20.0,2.0,3.92,24,70.83,4.17,0.4877,enriched_google_reviews,0
+Matsyadarshini Aquarium,Andhra Pradesh,17.464704,78.365457,Aquarium,20.0,1.0,4.2,5,80.0,0.0,0.6496,enriched_google_reviews,0
+Visakha Museum,Andhra Pradesh,17.720861,83.333933,Museum,10.0,1.0,3.53,19,52.63,21.05,0.2358,enriched_google_reviews,0
+Nathula Pass,Sikkim,27.3389,88.6065,Hill,20.0,2.0,4.3,15000,81.0,9.0,0.65,unmatched_preserved,2
+Pemayangtse Monastery,Sikkim,27.304572,88.251763,Monastery,20.0,1.0,5.0,3,100.0,0.0,1.0,enriched_google_reviews,2
+Char Dham,Sikkim,27.152839,88.341086,Religious Complex,50.0,2.0,4.81,16,100.0,0.0,0.5916,enriched_google_reviews,0
+Rumtek Monastery,Sikkim,27.288671,88.561518,Monastery,10.0,1.0,4.4,10,90.0,0.0,0.3795,enriched_google_reviews,2
+Buddha Park,Sikkim,27.716168,85.284119,Park,50.0,1.0,4.5,6,100.0,0.0,0.7401,enriched_google_reviews,2
+Baba Harbhajan Singh Temple,Sikkim,27.31472,88.8384,Temple,0.0,1.0,4.5,4,100.0,0.0,0.5349,enriched_google_reviews,2
+Tsomgo Lake,Sikkim,27.3389,88.6065,Lake,0.0,2.0,4.5,15000,85.0,5.0,0.75,unmatched_preserved,2
+Kamakhya Temple,Assam,26.166469,91.705194,Temple,0.0,2.0,4.22,50,82.0,10.0,0.4846,enriched_google_reviews,2
+Kaziranga National Park,Assam,26.577531,93.171122,National Park,650.0,3.0,4.36,44,90.91,0.0,0.5642,enriched_google_reviews,0
+Umananda Island,Assam,26.196768,91.744831,Island,0.0,1.0,4.25,8,87.5,12.5,0.3822,enriched_google_reviews,2
+Sivasagar Sivadol,Assam,26.991756,94.6293,Temple,0.0,1.0,3.0,1,0.0,0.0,0.7351,enriched_google_reviews,0
+Majuli Island,Assam,26.9535,94.2211,River Island,0.0,2.0,4.7,1000,89.0,1.0,0.85,unmatched_preserved,2
+Manas National Park,Assam,26.746224,91.020355,National Park,500.0,3.0,3.56,27,48.15,7.41,0.3521,enriched_google_reviews,0
+Hayagriva Madhava Temple,Assam,26.2483,91.5233,Temple,0.0,1.0,4.5,90000,85.0,5.0,0.75,unmatched_preserved,2
+Pobitora Wildlife Sanctuary,Assam,26.23062,92.054266,Wildlife Sanctuary,500.0,2.0,4.0,5,60.0,20.0,0.225,enriched_google_reviews,0
+Tawang Monastery,Arunachal Pradesh,27.585457,91.85704,Monastery,0.0,2.0,3.67,3,66.67,33.33,0.4215,enriched_google_reviews,2
+Ujjayanta Palace,Tripura,23.8315,91.2868,Palace,10.0,1.5,4.5,3500,85.0,5.0,0.75,unmatched_preserved,2
+Dumboor Lake,Tripura,23.5186,91.8239,Lake,0.0,1.0,4.5,1000,85.0,5.0,0.75,unmatched_preserved,2
+Unakoti Rock Carvings,Tripura,24.3216,92.0526,Rock Carvings,20.0,1.5,4.5,2500,85.0,5.0,0.75,unmatched_preserved,2
+Chitrakote Falls,Chhattisgarh,19.0734,82.0298,Waterfall,0.0,1.5,4.6,19000,87.0,3.0,0.8,unmatched_preserved,2
+Dzükou Valley,Nagaland,20.5937,78.9629,Valley,0.0,3.0,4.7,1000,89.0,1.0,0.85,unmatched_preserved,2
+Promenade Beach,Puducherry,11.933377,79.835803,Beach,0.0,1.0,3.69,29,58.62,13.79,0.3904,enriched_google_reviews,0
+Auroville,Puducherry,11.991374,79.822407,Township,0.0,2.0,4.5,2,100.0,0.0,0.9221,enriched_google_reviews,2
+Paradise Beach,Puducherry,11.874974,79.821682,Beach,200.0,1.0,4.48,29,89.66,0.0,0.573,enriched_google_reviews,0
+Cellular Jail,Andaman and Nicobar Islands,11.674192,92.747807,Landmark,30.0,1.5,4.73,15,93.33,0.0,0.446,enriched_google_reviews,0
+Radhanagar Beach,Andaman and Nicobar Islands,23.225222,88.55879,Beach,0.0,1.0,4.0,1,100.0,0.0,0.0,enriched_google_reviews,2
+Bharatpur Beach,Andaman and Nicobar Islands,28.030133,82.481367,Beach,0.0,1.0,5.0,1,100.0,0.0,1.0,enriched_google_reviews,2
+Limestone Caves,Andaman and Nicobar Islands,12.1128,92.7533,Natural Feature,250.0,1.5,4.4,1500,83.0,7.0,0.7,unmatched_preserved,0
+Naida Caves,Daman and Diu,20.710472,70.981057,Cave,0.0,1.0,4.17,6,83.33,16.67,0.4979,enriched_google_reviews,0
+Diu Fort,Daman and Diu,20.715026,70.995916,Fort,0.0,1.5,4.61,33,93.94,0.0,0.6259,enriched_google_reviews,2
+Baba Baidyanath Temple,Jharkhand,24.492734,86.700053,Temple,0.0,1.0,4.52,52,80.77,3.85,0.3538,enriched_google_reviews,2
+Pahari Mandir,Jharkhand,23.375291,85.310962,Temple,0.0,1.0,4.14,14,78.57,0.0,0.2108,enriched_google_reviews,2
+Mahabodhi Temple,Bihar,24.695922,84.991419,Temple,0.0,1.5,4.64,42,88.1,2.38,0.6061,enriched_google_reviews,2
+Sanjay Gandhi Biological Park,Bihar,25.597352,85.100299,Zoo,30.0,2.5,3.87,62,66.13,9.68,0.3972,enriched_google_reviews,0
+Takhat Shri Harimandir Ji Patna Sahib,Bihar,25.5941,85.1376,Gurudwara,0.0,1.0,4.7,25000,89.0,1.0,0.85,unmatched_preserved,2
+Budhha Smriti Park,Bihar,25.606221,85.135944,Park,10.0,1.0,4.57,21,90.48,0.0,0.5287,enriched_google_reviews,2
+Kingdom of Dreams,Haryana,28.468003,77.069156,Entertainment,1100.0,3.0,4.66,128,91.41,2.34,0.5615,enriched_google_reviews,0
+Ambience Mall,Haryana,28.503545,77.097324,Mall,0.0,2.0,4.5,78,92.31,1.28,0.5459,enriched_google_reviews,2
+DLF CyberHub,Haryana,28.467298,77.083248,Commercial Complex,0.0,2.0,4.2,5,80.0,0.0,0.4362,enriched_google_reviews,2
+Gurudwara Bangla Sahib,Delhi,28.626377,77.209051,Gurudwara,0.0,1.0,4.75,125,94.4,0.8,0.6799,enriched_google_reviews,2
+Kedarnath,Uttarakhand,30.456987,77.3422,Temple,0.0,1.5,5.0,1,100.0,0.0,0.0,enriched_google_reviews,2
+DLF Mall of India,Uttar Pradesh,28.567573,77.321115,Mall,0.0,2.0,4.71,7,100.0,0.0,0.6801,enriched_google_reviews,2
+The Grand Venice Mall,Uttar Pradesh,22.278403,70.780684,Mall,0.0,2.0,4.52,21,90.48,0.0,0.7226,enriched_google_reviews,2
+Wonderla Amusement Park,Karnataka,12.835093,77.40164,Amusement Park,890.0,4.0,4.46,217,87.56,1.84,0.5923,enriched_google_reviews,0
+Nandankanan Zoological Park,Odisha,20.39717,85.820465,Zoo,50.0,3.0,4.21,24,79.17,0.0,0.4442,enriched_google_reviews,0
+Orion Mall,Karnataka,13.010853,77.555135,Mall,0.0,2.0,4.59,159,93.08,0.63,0.6742,enriched_google_reviews,2
+Inorbit Mall Cyberabad,Telangana,17.434399,78.386738,Mall,0.0,2.0,4.25,245,82.45,1.22,0.5588,enriched_google_reviews,2
+Jama Masjid,Delhi,28.689218,77.147622,Mosque,0.0,1.0,5.0,1,100.0,0.0,1.0,enriched_google_reviews,2
+Ramanathaswamy Temple,Tamil Nadu,9.288094,79.317319,Temple,0.0,1.5,4.68,59,88.14,1.69,0.5487,enriched_google_reviews,2
+Buddh International Circuit,Uttar Pradesh,28.350289,77.534713,Race Track,1500.0,2.0,4.63,62,91.94,4.84,0.6753,enriched_google_reviews,0
+Phoenix Palassio,Uttar Pradesh,26.798753,80.89684,Mall,0.0,2.0,4.17,18,77.78,5.56,0.6469,enriched_google_reviews,2
+LuLu International Shopping Mall,Kerala,10.027948,76.307642,Mall,0.0,3.0,4.55,234,92.31,1.71,0.591,enriched_google_reviews,2
+Rail Museum,Delhi,22.578375,88.340175,Museum,50.0,2.0,4.25,4,75.0,0.0,0.618,enriched_google_reviews,0
+Living Root Bridge,Meghalaya,25.2986,91.5822,Natural Feature,0.0,2.0,4.6,6000,87.0,3.0,0.8,unmatched_preserved,2
+Akshardham,Gujarat,23.229304,72.673976,Temple,0.0,3.0,4.67,113,92.04,0.88,0.5739,enriched_google_reviews,2
+Agra Fort,Uttar Pradesh,27.179533,78.021112,Fort,40.0,2.0,4.38,91,83.52,3.3,0.533,enriched_google_reviews,0
+Madhya Pradesh Tribal Museum,Madhya Pradesh,22.716345,75.873385,Museum,10.0,2.0,5.0,1,100.0,0.0,1.0,enriched_google_reviews,0
+City Palace,Rajasthan,24.576442,73.683511,Palace,200.0,2.0,4.19,27,77.78,7.41,0.4699,enriched_google_reviews,0
+Albert Hall Museum,Rajasthan,26.911551,75.819492,Museum,200.0,2.0,4.1,40,80.0,0.0,0.4625,enriched_google_reviews,0

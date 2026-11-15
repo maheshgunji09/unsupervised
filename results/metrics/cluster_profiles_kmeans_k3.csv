@@ -1,0 +1,4 @@
+Cluster,Place_Count,Percentage,Avg_Entry_Fee_INR,Median_Entry_Fee_INR,Avg_Visit_Duration_Hours,Avg_Rating,Avg_Review_Count,Avg_Positive_Review_Pct,Avg_Negative_Review_Pct,Avg_Sentiment_Score,Top_Categories,Top_States
+0,200,61.5,5.9,0.0,1.43,4.49,2645,87.7,2.8,0.573,"Temple, Beach, Lake","Uttar Pradesh, Karnataka, Andhra Pradesh"
+1,32,9.8,91.2,0.0,1.7,2.91,2974,23.5,34.6,0.006,"Beach, Temple, Waterfall","Maharashtra, Uttar Pradesh, Kerala"
+2,93,28.6,360.6,60.0,2.65,4.27,2577,80.5,4.8,0.522,"National Park, Fort, Palace","Rajasthan, Delhi, Maharashtra"

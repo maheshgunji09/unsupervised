@@ -1,0 +1,354 @@
+[
+  {
+    "place_idx": 3,
+    "tourism_name": "Waste to Wonder Park",
+    "state": "Delhi",
+    "city": "Delhi",
+    "best_candidate": "Wonder World Travels",
+    "best_score": 0.5389999999999999
+  },
+  {
+    "place_idx": 9,
+    "tourism_name": "Sunder Nursery",
+    "state": "Delhi",
+    "city": "Delhi",
+    "best_candidate": "MOTHER INDIA NURSERY",
+    "best_score": 0.6444117647058824
+  },
+  {
+    "place_idx": 26,
+    "tourism_name": "Imagicaa",
+    "state": "Maharastra",
+    "city": "Lonavala",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 48,
+    "tourism_name": "Alipore Zoological Gardens",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "best_candidate": "Alipore Central Jail",
+    "best_score": 0.6315217391304347
+  },
+  {
+    "place_idx": 55,
+    "tourism_name": "Dudhsagar Falls",
+    "state": "Goa",
+    "city": "Goa",
+    "best_candidate": "Dudhsagar Dairy",
+    "best_score": 0.5433333333333333
+  },
+  {
+    "place_idx": 73,
+    "tourism_name": "Statue of Unity",
+    "state": "Gujarat",
+    "city": "Kevadia",
+    "best_candidate": "Unity School",
+    "best_score": 0.5574074074074074
+  },
+  {
+    "place_idx": 84,
+    "tourism_name": "Ajmer Sharif Dargah",
+    "state": "Rajasthan",
+    "city": "Ajmer",
+    "best_candidate": "Dargah Sharif",
+    "best_score": 0.625
+  },
+  {
+    "place_idx": 112,
+    "tourism_name": "Hampi Archaeological Ruins",
+    "state": "Karnataka",
+    "city": "Hampi",
+    "best_candidate": "Hampi International",
+    "best_score": 0.4938888888888888
+  },
+  {
+    "place_idx": 114,
+    "tourism_name": "Om Beach",
+    "state": "Karnataka",
+    "city": "Gokarna",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 122,
+    "tourism_name": "Halebidu Hoysaleswara Temple",
+    "state": "Karnataka",
+    "city": "Halebidu",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 129,
+    "tourism_name": "Deekshabhoomi",
+    "state": "Maharastra",
+    "city": "Nagpur",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 136,
+    "tourism_name": "Khajuraho Group of Monuments",
+    "state": "Madhya Pradesh",
+    "city": "Khajuraho",
+    "best_candidate": "Khajuraho Temple",
+    "best_score": 0.5854545454545453
+  },
+  {
+    "place_idx": 156,
+    "tourism_name": "Chamera Lake",
+    "state": "Himachal Pradesh",
+    "city": "Chamba",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 161,
+    "tourism_name": "Paragliding Site",
+    "state": "Himachal Pradesh",
+    "city": "Bir Billing",
+    "best_candidate": "Paragliding Naukuchiatal",
+    "best_score": 0.5299999999999999
+  },
+  {
+    "place_idx": 166,
+    "tourism_name": "Serolsar Lake",
+    "state": "Himachal Pradesh",
+    "city": "Shoja",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 175,
+    "tourism_name": "Binsar Wildlife Sanctuary",
+    "state": "Uttarakhand",
+    "city": "Almora",
+    "best_candidate": "Club Mahindra Valley Resort Binsar",
+    "best_score": 0.6178983050847457
+  },
+  {
+    "place_idx": 176,
+    "tourism_name": "Chaubatia Gardens",
+    "state": "Uttarakhand",
+    "city": "Ranikhet",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 193,
+    "tourism_name": "Augarnath Temple",
+    "state": "Uttar Pradesh",
+    "city": "Meerut",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 196,
+    "tourism_name": "Pangong Tso",
+    "state": "Ladakh",
+    "city": "Leh",
+    "best_candidate": "Hotel Tso-Kar",
+    "best_score": 0.5483333333333333
+  },
+  {
+    "place_idx": 208,
+    "tourism_name": "Magnetic Hill",
+    "state": "Ladakh",
+    "city": "Leh",
+    "best_candidate": "Alibag Magnetic Observatory",
+    "best_score": 0.29000000000000004
+  },
+  {
+    "place_idx": 209,
+    "tourism_name": "Khardung La Pass",
+    "state": "Ladakh",
+    "city": "Leh",
+    "best_candidate": "Khunjerab Pass",
+    "best_score": 0.5166666666666666
+  },
+  {
+    "place_idx": 219,
+    "tourism_name": "Hazarduari Palace",
+    "state": "West Bengal",
+    "city": "Murshidabad",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 220,
+    "tourism_name": "Kankalitala Temple",
+    "state": "West Bengal",
+    "city": "Bolpur",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 221,
+    "tourism_name": "Hangseswari Temple",
+    "state": "West Bengal",
+    "city": "Hooghly",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 230,
+    "tourism_name": "Hirakud Dam",
+    "state": "Odisha",
+    "city": "Sambalpur",
+    "best_candidate": "Ratkinda Dam",
+    "best_score": 0.5282608695652173
+  },
+  {
+    "place_idx": 231,
+    "tourism_name": "Chilika Lake",
+    "state": "Odisha",
+    "city": "Chilika",
+    "best_candidate": "Chilika Sea Mouth",
+    "best_score": 0.6482758620689655
+  },
+  {
+    "place_idx": 232,
+    "tourism_name": "Tara Tarini Temple",
+    "state": "Odisha",
+    "city": "Berhampur",
+    "best_candidate": "Sri Tara Tarini Sthana Peeth Adishakti Temple",
+    "best_score": 0.6285714285714286
+  },
+  {
+    "place_idx": 233,
+    "tourism_name": "Badaghagara Waterfall",
+    "state": "Odisha",
+    "city": "Keonjhar",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 235,
+    "tourism_name": "Sanaghagara Waterfall",
+    "state": "Odisha",
+    "city": "Kendujhar",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 241,
+    "tourism_name": "Marudamalai Temple",
+    "state": "Tamil Nadu",
+    "city": "Coimbatore",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 243,
+    "tourism_name": "Brihadeeswarar Temple",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 260,
+    "tourism_name": "Submarine Museum",
+    "state": "Andhra Pradesh",
+    "city": "Visakhapatnam",
+    "best_candidate": "Bangladesh Submarine Cable Company",
+    "best_score": 0.5509999999999999
+  },
+  {
+    "place_idx": 266,
+    "tourism_name": "Nathula Pass",
+    "state": "Sikkim",
+    "city": "Gangtok",
+    "best_candidate": "Diphu Pass",
+    "best_score": 0.5045454545454545
+  },
+  {
+    "place_idx": 272,
+    "tourism_name": "Tsomgo Lake",
+    "state": "Sikkim",
+    "city": "Gangtok",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 277,
+    "tourism_name": "Majuli Island",
+    "state": "Assam",
+    "city": "Majuli",
+    "best_candidate": "CA-island",
+    "best_score": 0.5909090909090909
+  },
+  {
+    "place_idx": 279,
+    "tourism_name": "Hayagriva Madhava Temple",
+    "state": "Assam",
+    "city": "Hajo",
+    "best_candidate": "Hayagriva Design & Print Factory",
+    "best_score": 0.3877777777777778
+  },
+  {
+    "place_idx": 282,
+    "tourism_name": "Ujjayanta Palace",
+    "state": "Tripura",
+    "city": "Agartala",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 283,
+    "tourism_name": "Dumboor Lake",
+    "state": "Tripura",
+    "city": "Dumboor",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 284,
+    "tourism_name": "Unakoti Rock Carvings",
+    "state": "Tripura",
+    "city": "Unakoti",
+    "best_candidate": "Unakoti",
+    "best_score": 0.5599999999999999
+  },
+  {
+    "place_idx": 285,
+    "tourism_name": "Chitrakote Falls",
+    "state": "Chhattisgarh",
+    "city": "Bastar",
+    "best_candidate": "Sita Falls",
+    "best_score": 0.5269230769230769
+  },
+  {
+    "place_idx": 286,
+    "tourism_name": "Dz\u00fckou Valley",
+    "state": "Nagaland",
+    "city": "Dz\u00fckou Valley",
+    "best_candidate": "Dzuko Valley",
+    "best_score": 0.602
+  },
+  {
+    "place_idx": 293,
+    "tourism_name": "Limestone Caves",
+    "state": "Andaman and Nicobar Islands",
+    "city": "Baratang Island",
+    "best_candidate": null,
+    "best_score": 0.0
+  },
+  {
+    "place_idx": 300,
+    "tourism_name": "Takhat Shri Harimandir Ji Patna Sahib",
+    "state": "Bihar",
+    "city": "Patna",
+    "best_candidate": "Gurudwara Patna Sahib",
+    "best_score": 0.6169655172413793
+  },
+  {
+    "place_idx": 319,
+    "tourism_name": "Living Root Bridge",
+    "state": "Meghalaya",
+    "city": "Cherrapunji",
+    "best_candidate": "The Bridge",
+    "best_score": 0.42857142857142855
+  }
+]

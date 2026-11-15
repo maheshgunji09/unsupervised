@@ -1,0 +1,4 @@
+Cluster,Place_Count,Percentage,Avg_Entry_Fee_INR,Median_Entry_Fee_INR,Avg_Visit_Duration_Hours,Avg_Rating,Avg_Review_Count,Avg_Positive_Review_Pct,Avg_Negative_Review_Pct,Avg_Sentiment_Score,Top_Categories,Top_States
+0,149,45.8,232.5,30.0,2.13,4.08,55,72.2,6.5,0.454,"Fort, Beach, National Park","Maharashtra, Rajasthan, Karnataka"
+1,11,3.4,106.7,0.0,1.64,2.2,8638,8.9,66.7,-0.32,"Temple, Amusement Park, Historical","Kerala, Uttar Pradesh, Maharashtra"
+2,165,50.8,11.0,0.0,1.53,4.58,4610,90.4,2.5,0.601,"Temple, Lake, Beach","Himachal Pradesh, Uttar Pradesh, Uttarakhand"

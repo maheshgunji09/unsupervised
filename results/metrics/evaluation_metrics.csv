@@ -1,0 +1,8 @@
+Model,K,Metric_Type,Linkage,WCSS_Inertia,Silhouette_Score,Davies_Bouldin_Index,Calinski_Harabasz_Index
+KMeans_K2,2,euclidean,N/A,2269.33,0.3728,1.3646,93.32
+KMeans_K3,3,euclidean,N/A,1964.69,0.1774,1.6988,78.69
+KMeans_K4,4,euclidean,N/A,1729.23,0.1861,1.5722,73.99
+Hierarchical_Euclidean_Ward,3,euclidean,ward,N/A,0.1369,1.8938,64.61
+Hierarchical_Euclidean_Average,3,euclidean,average,N/A,0.6101,0.3507,25.55
+Hierarchical_Manhattan_Average,3,manhattan,average,N/A,0.4761,1.1363,42.64
+Hierarchical_Manhattan_Complete,3,manhattan,complete,N/A,0.3099,1.4141,64.0

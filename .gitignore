@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Raw Datasets (as per project rules)
+data/raw/*.gz
+data/raw/google_places_india.json
+data/raw/places.clean.json.gz
+data/raw/reviews.clean.json.gz
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

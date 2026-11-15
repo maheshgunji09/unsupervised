@@ -1,0 +1,3930 @@
+[
+  {
+    "place_idx": 0,
+    "tourism_name": "India Gate",
+    "matched_google_name": "India Gate Lawns",
+    "score": 1.1307692307692307,
+    "gPlusPlaceId": "118377820118628555288",
+    "address": "C - Hexagon, India Gate New Delhi, DL 110001 India",
+    "gps": [
+      28.612239,
+      77.232253
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 1,
+    "tourism_name": "Humayun's Tomb",
+    "matched_google_name": "Humayun's Tomb",
+    "score": 2.0,
+    "gPlusPlaceId": "102833805025674520162",
+    "address": "Bharat Scouts and Guides Marg, Nizamuddin, Humayun's Tomb, Nizamuddin East New Delhi, DL 110022 India",
+    "gps": [
+      28.593267,
+      77.250713
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 2,
+    "tourism_name": "Akshardham Temple",
+    "matched_google_name": "Akshardham Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "106201052845003164008",
+    "address": "Near Noida Mor National Highway 24 New Delhi, DL 110092, India",
+    "gps": [
+      28.613822,
+      77.2762
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 4,
+    "tourism_name": "Jantar Mantar",
+    "matched_google_name": "Jantar Mantar",
+    "score": 2.0,
+    "gPlusPlaceId": "103620415555868442315",
+    "address": "Sansad Marg, Connaught Place New Delhi, DL 110001 India",
+    "gps": [
+      28.627271,
+      77.216567
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 5,
+    "tourism_name": "Chandni Chowk",
+    "matched_google_name": "Chandni Chowk",
+    "score": 2.0,
+    "gPlusPlaceId": "111335003491940875963",
+    "address": "Old Delhi, Delhi 110006 India",
+    "gps": [
+      28.656456,
+      77.22917
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 6,
+    "tourism_name": "Lotus Temple",
+    "matched_google_name": "Lotus Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "107470033988588788928",
+    "address": "Lotus Temple Rd, Shambhu Dayal Bagh, Bahapur New Delhi, DL 110019 India",
+    "gps": [
+      28.553492,
+      77.258826
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 7,
+    "tourism_name": "Red Fort",
+    "matched_google_name": "Red Fort",
+    "score": 2.0,
+    "gPlusPlaceId": "116454532660117045207",
+    "address": "Netaji Subhash Marg, Chandni Chowk New Delhi, DL 110006 India",
+    "gps": [
+      28.656529,
+      77.241124
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 8,
+    "tourism_name": "Agrasen ki Baoli",
+    "matched_google_name": "Ugrasen Ki Baoli",
+    "score": 0.875,
+    "gPlusPlaceId": "111830066496018390869",
+    "address": "Hailey Rd, Valik Lane, Mandi House New Delhi, DL 110001 India",
+    "gps": [
+      28.626169,
+      77.225011
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 10,
+    "tourism_name": "Garden of Five Senses",
+    "matched_google_name": "The Garden of Five Senses",
+    "score": 1.3513043478260869,
+    "gPlusPlaceId": "111801711339761606900",
+    "address": "Near Saket Metro Station, Mehrauli-Badarpur Road, Saiyad ul Ajaib, Freedom Fighter Vihar, Sainik Farm New Delhi, DL 110044, India",
+    "gps": [
+      28.513257,
+      77.198118
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 11,
+    "tourism_name": "Lodhi Garden",
+    "matched_google_name": "Lodhi Garden",
+    "score": 2.0,
+    "gPlusPlaceId": "115585855700777005872",
+    "address": "Near Khan Market, Lodi Estate Lodhi Rd New Delhi, DL 110003, India",
+    "gps": [
+      28.592759,
+      77.219678
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 12,
+    "tourism_name": "National Gallery of Modern Art",
+    "matched_google_name": "National Gallery Of Modern Art",
+    "score": 2.0,
+    "gPlusPlaceId": "117637311046312802647",
+    "address": "Jaipur House Dr Zakir Hussain Marg, Connaught Place, India Gate New Delhi, Delhi 110001, India",
+    "gps": [
+      28.609574,
+      77.234192
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 13,
+    "tourism_name": "National Zoological Park ",
+    "matched_google_name": "National Zoological Park",
+    "score": 2.0,
+    "gPlusPlaceId": "109802117000263918217",
+    "address": "Mathura Rd New Delhi, DL 110003 India",
+    "gps": [
+      28.60188,
+      77.2477
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 14,
+    "tourism_name": "Qutub Minar",
+    "matched_google_name": "Qutub Minar",
+    "score": 1.0,
+    "gPlusPlaceId": "104760680754043240367",
+    "address": "\u092e\u0939\u0930\u094c\u0932\u0940 \u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940, \u0926\u093f\u0932\u094d\u0932\u0940 110030 India",
+    "gps": [
+      28.524459,
+      77.18529
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 15,
+    "tourism_name": "National Science Centre",
+    "matched_google_name": "National Science Centre Museum",
+    "score": 1.3260377358490565,
+    "gPlusPlaceId": "107649888416793544848",
+    "address": "Gate-1, Bhairon Road, Pragati Maidan, Pragati Maidan, New Delhi, Delhi 110001 Pragati Maidan New Delhi, DL 110002, India",
+    "gps": [
+      28.612984,
+      77.245724
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 16,
+    "tourism_name": "Marine Drive",
+    "matched_google_name": "Marine Drive Chopathi",
+    "score": 1.1072727272727274,
+    "gPlusPlaceId": "100176157557055606825",
+    "address": "Marine Drive S.N Rd, Chowpatty, Marine Lines Mumbai, Maharashtra 400002, India",
+    "gps": [
+      18.947068,
+      72.820862
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 17,
+    "tourism_name": "Gateway of India",
+    "matched_google_name": "Gateway of India",
+    "score": 2.0,
+    "gPlusPlaceId": "115925859961230482867",
+    "address": "Apollo Bunder Shivaji Marg Mumbai, Maharashtra 400001, India",
+    "gps": [
+      18.921936,
+      72.834573
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 18,
+    "tourism_name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+    "matched_google_name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+    "score": 2.0,
+    "gPlusPlaceId": "107726891632676445772",
+    "address": "159-161, Mahatma Gandhi Rd, Kala Ghoda, Fort Mumbai, Maharashtra 400023 India",
+    "gps": [
+      18.926732,
+      72.832568
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 19,
+    "tourism_name": "Sanjay Gandhi National Park",
+    "matched_google_name": "Sanjay Gandhi National Park",
+    "score": 2.0,
+    "gPlusPlaceId": "110995716856277671958",
+    "address": "PPO Rd, Film City Complex, NITIE Admin Block, Ghodbander Mumbai, Maharashtra 400101 India",
+    "gps": [
+      19.21738,
+      72.913293
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 20,
+    "tourism_name": "Siddhivinayak Temple",
+    "matched_google_name": "Siddhivinayak Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "101792455655474357049",
+    "address": "Near Hanuman Mandir, Vidyavihar East Barrister Nath Pai Rd, Saibaba Nagar, Pant Nagar, Ghatkopar East Mumbai, Maharashtra 400077, India",
+    "gps": [
+      19.081556,
+      72.911895
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 21,
+    "tourism_name": "Mahalaxmi Temple",
+    "matched_google_name": "Mahalaxmi Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "113017385360682413926",
+    "address": "Sri Swami Samarth Nagar Khopoli, Maharashtra 410203 India",
+    "gps": [
+      18.782268,
+      73.341334
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 22,
+    "tourism_name": "Haji Ali Dargah",
+    "matched_google_name": "Haji Ali Dargah",
+    "score": 2.0,
+    "gPlusPlaceId": "113724098641200960491",
+    "address": "Dargah Rd, Haji Ali Mumbai, Maharashtra India",
+    "gps": [
+      18.982747,
+      72.808965
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 23,
+    "tourism_name": "Chowpatty Beach",
+    "matched_google_name": "Marine Drive & Chowpatty Beach",
+    "score": 0.9506976744186045,
+    "gPlusPlaceId": "103956849089567197879",
+    "address": "CST Rd, Friends Colony, Hallow Pul, Kurla West Mumbai, Maharashtra 400070 India",
+    "gps": [
+      19.075984,
+      72.877656
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 24,
+    "tourism_name": "Essel World",
+    "matched_google_name": "Fitness World",
+    "score": 0.77,
+    "gPlusPlaceId": "115489078695655373327",
+    "address": "Panch Pandev Colony, Kailash Colony Ulhasnagar, Maharashtra 421004 India",
+    "gps": [
+      19.21142,
+      73.162036
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 25,
+    "tourism_name": "Elephanta Caves",
+    "matched_google_name": "Elephanta Caves",
+    "score": 2.0,
+    "gPlusPlaceId": "112162922607063796084",
+    "address": "Gharapuri, Maharashtra 400094 India",
+    "gps": [
+      18.963378,
+      72.931636
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 27,
+    "tourism_name": "Bangalore Palace",
+    "matched_google_name": "Bangalore Palace",
+    "score": 2.0,
+    "gPlusPlaceId": "107704394772744568788",
+    "address": "Near Mount Carmel Institute of Management, Palace Road, Vasant Nagar Bangalore, Karnataka 560052 India",
+    "gps": [
+      12.998678,
+      77.592221
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 28,
+    "tourism_name": "Lalbagh Botanical Garden",
+    "matched_google_name": "Lalbagh Botanical Garden",
+    "score": 2.0,
+    "gPlusPlaceId": "116437020676605187940",
+    "address": "Lalbagh Lal Bagh Rd, Mavalli Bangalore, Karnataka 560004, India",
+    "gps": [
+      12.94836,
+      77.58566
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 29,
+    "tourism_name": "Cubbon Park",
+    "matched_google_name": "Cubbon Park",
+    "score": 2.0,
+    "gPlusPlaceId": "101320088170774593005",
+    "address": "Bangalore, Karnataka India",
+    "gps": [
+      12.975959,
+      77.592989
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 30,
+    "tourism_name": "Vidhana Soudha",
+    "matched_google_name": "Vidhana Soudha",
+    "score": 2.0,
+    "gPlusPlaceId": "112270983292265914758",
+    "address": "Bangalore, Karnataka 560001 India",
+    "gps": [
+      12.979563,
+      77.59086
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 31,
+    "tourism_name": "ISKCON Temple Bangalore",
+    "matched_google_name": "ISKCON Temple",
+    "score": 0.8244444444444444,
+    "gPlusPlaceId": "115305906861302714590",
+    "address": "Udayaravi Rd, Kuvempu Nagar 2nd Stage, Kuvempunagar Mysore, Karnataka 570008 India",
+    "gps": [
+      12.285438,
+      76.634194
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 32,
+    "tourism_name": "Charminar",
+    "matched_google_name": "Charminar",
+    "score": 1.0,
+    "gPlusPlaceId": "114214932291143519108",
+    "address": "\u091a\u093e\u0930\u092e\u0940\u0928\u093e\u0930 \u0939\u0948\u0926\u0930\u093e\u092c\u093e\u0926, \u0906\u0902\u0927\u094d\u0930 \u092a\u094d\u0930\u0926\u0947\u0936 India",
+    "gps": [
+      17.361564,
+      78.474664
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 33,
+    "tourism_name": "Golconda Fort",
+    "matched_google_name": "Golconda Fort",
+    "score": 1.0,
+    "gPlusPlaceId": "111299289317027807773",
+    "address": "\u092c\u0921\u093c\u093e \u092c\u093e\u091c\u093e\u0930, \u0907\u092c\u094d\u0930\u093e\u0939\u093f\u092e \u092c\u093e\u0917 \u092e\u0915\u094d\u0915\u0940 \u0926\u0930\u0935\u093e\u091c\u093e \u0930\u094b\u0921 \u0939\u0948\u0926\u0930\u093e\u092c\u093e\u0926, \u0906\u0902\u0927\u094d\u0930 \u092a\u094d\u0930\u0926\u0947\u0936 500008, India",
+    "gps": [
+      17.383309,
+      78.401053
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 34,
+    "tourism_name": "Hussain Sagar Lake",
+    "matched_google_name": "Osman Sagar Lake",
+    "score": 0.8111764705882352,
+    "gPlusPlaceId": "104657258630728994554",
+    "address": "Near Pbel City, Hyderabad, Andhra Pradesh Hyderabad, Andhra Pradesh 500075 India",
+    "gps": [
+      17.378491,
+      78.293037
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 35,
+    "tourism_name": "Ramoji Film City",
+    "matched_google_name": "Ramoji Film City",
+    "score": 2.0,
+    "gPlusPlaceId": "113189772111368960326",
+    "address": "Anajpur Ramoji Film City Main Rd Hyderabad, Andhra Pradesh 501512, India",
+    "gps": [
+      17.26147,
+      78.681692
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 36,
+    "tourism_name": "Salar Jung Museum",
+    "matched_google_name": "Salar Jung Museum",
+    "score": 2.0,
+    "gPlusPlaceId": "100212218858297773853",
+    "address": "Darulshifa Hyderabad, Andhra Pradesh 500024 India",
+    "gps": [
+      17.37135,
+      78.480365
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 37,
+    "tourism_name": "Qutb Shahi Tombs",
+    "matched_google_name": "Qutub Shahi Tombs",
+    "score": 1.033030303030303,
+    "gPlusPlaceId": "117698117149840536719",
+    "address": "Fort Rd, Qutub Shahi Tombs Hyderabad, Andhra Pradesh 500008 India",
+    "gps": [
+      17.394366,
+      78.39631
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 38,
+    "tourism_name": "Birla Mandir",
+    "matched_google_name": "Birla Mandir",
+    "score": 2.0,
+    "gPlusPlaceId": "104415517696519708309",
+    "address": "Adarsh Nagar Colony, Naubath Pahad, Post Office Shafabad Hyderabad, Andhra Pradesh India",
+    "gps": [
+      17.385044,
+      78.486671
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 39,
+    "tourism_name": "Chowmahalla Palace",
+    "matched_google_name": "Chowmahalla Palace",
+    "score": 2.0,
+    "gPlusPlaceId": "101181382124296028513",
+    "address": "Moti Gali, Khilwath Rd, Charminar Hyderabad, Andhra Pradesh 500002 India",
+    "gps": [
+      17.357822,
+      78.471671
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 40,
+    "tourism_name": "Nehru Zoological Park",
+    "matched_google_name": "Nehru Zoological Park",
+    "score": 2.0,
+    "gPlusPlaceId": "115725717151057265636",
+    "address": "Bahadurpura West Hyderabad, Andhra Pradesh 500264 India",
+    "gps": [
+      17.351458,
+      78.447318
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 41,
+    "tourism_name": "Lumbini Park",
+    "matched_google_name": "Lumbini Park",
+    "score": 2.0,
+    "gPlusPlaceId": "112284497929822231396",
+    "address": "Hussain Sagar, Khairatabad Hyderabad, Andhra Pradesh 500022 India",
+    "gps": [
+      17.409718,
+      78.472572
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 42,
+    "tourism_name": "Victoria Memorial",
+    "matched_google_name": "Victoria Memorial Hall",
+    "score": 1.1182051282051282,
+    "gPlusPlaceId": "108610581646945803535",
+    "address": "1, Queens Way Kolkata, West Bengal 700071 India",
+    "gps": [
+      22.544546,
+      88.343024
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 43,
+    "tourism_name": "Howrah Bridge",
+    "matched_google_name": "The Howrah Bridge",
+    "score": 1.3253333333333335,
+    "gPlusPlaceId": "113243610144496368273",
+    "address": "20/2B, KP Roy Lane, Sahid Nagar, Dhakuria Kolkata, West Bengal 700031 India",
+    "gps": [
+      22.503349,
+      88.376376
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 44,
+    "tourism_name": "Indian Museum",
+    "matched_google_name": "Indian Museum",
+    "score": 2.0,
+    "gPlusPlaceId": "101078964622718428365",
+    "address": "27, Jawaharlal Nehru Road, Park Street Area Kolkata, West Bengal 700016 India",
+    "gps": [
+      22.557944,
+      88.350861
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 45,
+    "tourism_name": "Dakshineswar Kali Temple",
+    "matched_google_name": "Dakshineswar Kali Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "103048703381700022859",
+    "address": "\u0926\u0915\u094d\u0937\u093f\u0923\u0947\u0936\u094d\u0935\u0930, Belgharia Kolkata, West Bengal 700076 India",
+    "gps": [
+      22.654909,
+      88.357531
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 46,
+    "tourism_name": "Kalighat Kali Temple",
+    "matched_google_name": "Lake Kali Temple",
+    "score": 0.8244444444444444,
+    "gPlusPlaceId": "103106812725585037286",
+    "address": "Southern Ave, lake Terrace, Ballygunge Kolkata, West Bengal 700029 India",
+    "gps": [
+      22.513369,
+      88.355089
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 47,
+    "tourism_name": "Eden Gardens",
+    "matched_google_name": "Eden Gardens",
+    "score": 2.0,
+    "gPlusPlaceId": "103448216654436981495",
+    "address": "Eden Garden Rd Kolkata, West Bengal 700021 India",
+    "gps": [
+      22.564642,
+      88.343296
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 49,
+    "tourism_name": "Science City Kolkata",
+    "matched_google_name": "Science City",
+    "score": 0.9799999999999999,
+    "gPlusPlaceId": "107115642407525297661",
+    "address": "Park Circus Connector Rd Kolkata, West Bengal 700046 India",
+    "gps": [
+      22.539654,
+      88.396147
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 50,
+    "tourism_name": "Belur Math",
+    "matched_google_name": "Belur Math",
+    "score": 2.0,
+    "gPlusPlaceId": "117821781084845083086",
+    "address": "Belur Math, Belur Howrah, West Bengal 711202 India",
+    "gps": [
+      22.632248,
+      88.356498
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 51,
+    "tourism_name": "Marble Palace",
+    "matched_google_name": "Marble Palace",
+    "score": 2.0,
+    "gPlusPlaceId": "113596843092800211417",
+    "address": "46, Muktaram Babu Street, Jorasanko, Kolkata, West Bengal 700007 Jorasanko Kolkata, West Bengal 700007, India",
+    "gps": [
+      22.582116,
+      88.360054
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 52,
+    "tourism_name": "Calangute Beach",
+    "matched_google_name": "Calangute Grande",
+    "score": 1.0274193548387096,
+    "gPlusPlaceId": "106764286485308629283",
+    "address": "Maddo Vaddo, Calangute, Bardez, Goa Arpora Calangute, GA 403516, India",
+    "gps": [
+      15.541804,
+      73.761172
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 53,
+    "tourism_name": "Basilica of Bom Jesus",
+    "matched_google_name": "Basilica of Bom Jesus",
+    "score": 2.0,
+    "gPlusPlaceId": "114779324211534925397",
+    "address": "Near Gandhi Circle Old Goa Rd Velha Goa, GA 403402, India",
+    "gps": [
+      15.500788,
+      73.911599
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 54,
+    "tourism_name": "Fort Aguada",
+    "matched_google_name": "Fort Aguada",
+    "score": 1.0,
+    "gPlusPlaceId": "103753705708242761973",
+    "address": "Aguada Fort Area Candolim, GA 403515 India",
+    "gps": [
+      15.492383,
+      73.77371
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 56,
+    "tourism_name": "Anjuna Beach",
+    "matched_google_name": "Anjuna Beach Resorts",
+    "score": 1.0499999999999998,
+    "gPlusPlaceId": "100153928106585146327",
+    "address": "DeMello Vaddo, Anjuna, Bardez, Goa 403509 Dmello Vaddo Anjuna, GA 403509, India",
+    "gps": [
+      15.587107,
+      73.74089
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 57,
+    "tourism_name": "Chapora Fort",
+    "matched_google_name": "Chapora Fort",
+    "score": 1.0,
+    "gPlusPlaceId": "112129444078008308314",
+    "address": "Vagator, GA 403509 India",
+    "gps": [
+      15.606211,
+      73.736385
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 58,
+    "tourism_name": "Se Cathedral",
+    "matched_google_name": "S\u00e9 Cathedral",
+    "score": 1.3756521739130436,
+    "gPlusPlaceId": "104580110782491505339",
+    "address": "Velha Goa, GA 403110 India",
+    "gps": [
+      15.503868,
+      73.912192
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 59,
+    "tourism_name": "Baga Beach",
+    "matched_google_name": "The Baga Marina",
+    "score": 0.8987999999999998,
+    "gPlusPlaceId": "114389043924767632248",
+    "address": "Saunta--Khobra Wado, Calangute Bardez , Baga, Goa-403516 Calangute-Baga Rd Baga, GA 403516, India",
+    "gps": [
+      15.556089,
+      73.75628
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 60,
+    "tourism_name": "Arambol Beach",
+    "matched_google_name": "Arambol Beach",
+    "score": 1.0,
+    "gPlusPlaceId": "109928287592984920161",
+    "address": "Arambol, GA 403524 India",
+    "gps": [
+      15.683978,
+      73.703284
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 61,
+    "tourism_name": "Palolem Beach",
+    "matched_google_name": "Palolem Beach",
+    "score": 1.0,
+    "gPlusPlaceId": "108920830543800700761",
+    "address": "Palolem Canacona, GA 403702 India",
+    "gps": [
+      15.011158,
+      74.021459
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 62,
+    "tourism_name": "Colva Beach",
+    "matched_google_name": "Colva Beach Resort",
+    "score": 1.0548275862068963,
+    "gPlusPlaceId": "101942189229675253892",
+    "address": "Colva, 4t Ward, Margao, Colva Goa, GA 403601 India",
+    "gps": [
+      15.27603,
+      73.917325
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 63,
+    "tourism_name": "Miramar Beach",
+    "matched_google_name": "Hotel Miramar",
+    "score": 0.9315384615384615,
+    "gPlusPlaceId": "100682843891968935748",
+    "address": "Plot-20/21, Bandodkar Samadhi Marg, Panaji, Goa 403001 Tonca, Kamat Kinara, Caranzalem Panjim, GA 403002, India",
+    "gps": [
+      15.475372,
+      73.809305
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 64,
+    "tourism_name": "Aguada Beach",
+    "matched_google_name": "Fort Aguada",
+    "score": 0.808695652173913,
+    "gPlusPlaceId": "103753705708242761973",
+    "address": "Aguada Fort Area Candolim, GA 403515 India",
+    "gps": [
+      15.492383,
+      73.77371
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 65,
+    "tourism_name": "Dr. Salim Ali Bird Santuary",
+    "matched_google_name": "Dr. Salim Ali Bird Sanctuary",
+    "score": 0.8424528301886792,
+    "gPlusPlaceId": "102032927998410882263",
+    "address": "Chorao, GA 403102 India",
+    "gps": [
+      15.515445,
+      73.856609
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 66,
+    "tourism_name": "Sabarmati Ashram",
+    "matched_google_name": "Sabarmati",
+    "score": 0.8231999999999999,
+    "gPlusPlaceId": "110005092539736872391",
+    "address": "Bulakhidas Rd, Krishna Nagar, Sabarmati Amdavad, Gujarat 380005 India",
+    "gps": [
+      23.07939,
+      72.59
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 67,
+    "tourism_name": "Dwarkadhish Temple",
+    "matched_google_name": "Dwarkadhish Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "116863693016857926299",
+    "address": "Naya Bazaar Mathura-281001, India Dwarkadhish Ki Bjaria, Choubey Para Mathura, Uttar Pradesh 281001, India",
+    "gps": [
+      27.505255,
+      77.684866
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 68,
+    "tourism_name": "Gir National Park",
+    "matched_google_name": "Gir National Park",
+    "score": 1.0,
+    "gPlusPlaceId": "100641483986531081210",
+    "address": "\u0917\u0941\u091c\u0930\u093e\u0924 India",
+    "gps": [
+      21.124365,
+      70.82518
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 69,
+    "tourism_name": "White Desert",
+    "matched_google_name": "White Desert",
+    "score": 2.0,
+    "gPlusPlaceId": "110608509120385210089",
+    "address": "Kutch Gujarat 370510 India",
+    "gps": [
+      23.915468,
+      69.526124
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 70,
+    "tourism_name": "Laxmi Vilas Palace",
+    "matched_google_name": "Laxmi Vilas Palace",
+    "score": 2.0,
+    "gPlusPlaceId": "112686837408805320728",
+    "address": "Moti Baug JN Marg Vadodara, Gujarat 390001, India",
+    "gps": [
+      22.293778,
+      73.191529
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 71,
+    "tourism_name": "Somnath Temple",
+    "matched_google_name": "Somnath Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "108791677753388909681",
+    "address": "Kodinar, Gujarat Brahmpuri Kodinar, Gujarat 362720, India",
+    "gps": [
+      20.794574,
+      70.70035
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 72,
+    "tourism_name": "Rann Utsav",
+    "matched_google_name": "Rann Utsav",
+    "score": 2.0,
+    "gPlusPlaceId": "109019871176959204722",
+    "address": "Gujarat India",
+    "gps": [
+      23.797381,
+      69.503779
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 74,
+    "tourism_name": "Dandi Kutir",
+    "matched_google_name": "Dandi Beach",
+    "score": 0.7254545454545455,
+    "gPlusPlaceId": "109130624791177165588",
+    "address": "Dandi Rd Dandi, Gujarat 396412 India",
+    "gps": [
+      20.886721,
+      72.797534
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 75,
+    "tourism_name": "Sabarmati Riverfront",
+    "matched_google_name": "Sabarmati Riverfront",
+    "score": 2.0,
+    "gPlusPlaceId": "112451176707282925113",
+    "address": "Kazipur Dariyapur Amdavad, Gujarat 380004 India",
+    "gps": [
+      23.053752,
+      72.580003
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 76,
+    "tourism_name": "Manek Chowk",
+    "matched_google_name": "Manek Chowk",
+    "score": 2.0,
+    "gPlusPlaceId": "103966244178717802099",
+    "address": "Manek chowk Manek Chowk Rd, Manek Chowk, Danapidth, Khadia Amdavad, Gujarat 380001, India",
+    "gps": [
+      23.023342,
+      72.588518
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 77,
+    "tourism_name": "Kankaria Lake",
+    "matched_google_name": "Kankaria Zoo",
+    "score": 1.2431999999999999,
+    "gPlusPlaceId": "104773687567322871492",
+    "address": "Kankaria Amdavad, Gujarat 380002 India",
+    "gps": [
+      23.009796,
+      72.600522
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 78,
+    "tourism_name": "Science City",
+    "matched_google_name": "Gujarat Science City",
+    "score": 1.1199999999999999,
+    "gPlusPlaceId": "114081956639257413340",
+    "address": "Science City Road, off Sarkhej Gandhinagar Highway, Ahmedabad Thaltej Amdavad, Gujarat 380060, India",
+    "gps": [
+      23.0796,
+      72.4948
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 79,
+    "tourism_name": "Hawa Mahal",
+    "matched_google_name": "Hawa Mahal",
+    "score": 2.0,
+    "gPlusPlaceId": "113220869033725224120",
+    "address": "Johari Bazar Rd Jaipur, Rajasthan 302002 India",
+    "gps": [
+      26.923936,
+      75.826744
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 80,
+    "tourism_name": "City Palace",
+    "matched_google_name": "City Palace",
+    "score": 2.0,
+    "gPlusPlaceId": "107756282915950152184",
+    "address": "Udaipur, Rajasthan 313001 India",
+    "gps": [
+      24.576442,
+      73.683511
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 81,
+    "tourism_name": "Jaisalmer Fort",
+    "matched_google_name": "Jaisalmer Quilla",
+    "score": 1.0033333333333332,
+    "gPlusPlaceId": "108088629986875998026",
+    "address": "Fort Rd, Khejer Para, Manak Chowk, Amar Sagar Pol Jaisalmer, Rajasthan 345001 India",
+    "gps": [
+      26.9128,
+      70.9132
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 82,
+    "tourism_name": "Ranthambore National Park",
+    "matched_google_name": "Ranthambore National Park",
+    "score": 2.0,
+    "gPlusPlaceId": "101563556339535361642",
+    "address": "Sawai Madhopur, Rajasthan India",
+    "gps": [
+      26.017327,
+      76.502574
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 83,
+    "tourism_name": "Pushkar Lake",
+    "matched_google_name": "Pushkar Palace",
+    "score": 1.3138461538461537,
+    "gPlusPlaceId": "114415455603202841016",
+    "address": "Choti Basti,Pushkar,Rajasthan 305022 Choti Basti Pushkar, Rajasthan 305022, India",
+    "gps": [
+      26.487726,
+      74.556171
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 85,
+    "tourism_name": "Mehrangarh Fort",
+    "matched_google_name": "Mehrangarh Fort",
+    "score": 2.0,
+    "gPlusPlaceId": "111906073823260625803",
+    "address": "The Fort Fort Rd Jodhpur, Rajasthan 342006, India",
+    "gps": [
+      26.297836,
+      73.018447
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 86,
+    "tourism_name": "Chittorgarh Fort",
+    "matched_google_name": "Chittorgarh Fort",
+    "score": 2.0,
+    "gPlusPlaceId": "108582792985242021657",
+    "address": "Chittorgarh Fort Village Chittorgarh, Rajasthan 312001 India",
+    "gps": [
+      24.891539,
+      74.644713
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 87,
+    "tourism_name": "Dilwara Temples",
+    "matched_google_name": "Dilwara Temple",
+    "score": 0.9606896551724138,
+    "gPlusPlaceId": "113234175340183852730",
+    "address": "Dilwara Rd, Delwara Mt Abu, Rajasthan 307501 India",
+    "gps": [
+      24.609393,
+      72.723709
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 88,
+    "tourism_name": "Junagarh Fort",
+    "matched_google_name": "Junagarh Fort",
+    "score": 2.0,
+    "gPlusPlaceId": "112245623957449582652",
+    "address": "Junagarh Fort Road, Bikaner, Rajasthan, 334001 India",
+    "gps": [
+      28.022006,
+      73.317718
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 89,
+    "tourism_name": "Amber Fort",
+    "matched_google_name": "Amber Fort",
+    "score": 2.0,
+    "gPlusPlaceId": "109308475102823765372",
+    "address": "Near NH -11 Amber Rd Jaipur, Rajasthan 302001, India",
+    "gps": [
+      26.985833,
+      75.850133
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 90,
+    "tourism_name": "Jaigarh Fort",
+    "matched_google_name": "Jaigarh Fort",
+    "score": 1.0,
+    "gPlusPlaceId": "106009195809810533799",
+    "address": "Jaigarh Rd, Devisinghpura \u091c\u092f\u092a\u0941\u0930, RJ 302028 India",
+    "gps": [
+      26.984576,
+      75.845425
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 91,
+    "tourism_name": "Lake Pichola",
+    "matched_google_name": "Lake Pichola",
+    "score": 2.0,
+    "gPlusPlaceId": "107543396014183009149",
+    "address": "Udaipur Rajasthan 313001 India",
+    "gps": [
+      24.57127,
+      73.691544
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 92,
+    "tourism_name": "Golden Temple (Harmandir Sahib)",
+    "matched_google_name": "Harmandir Sahib",
+    "score": 0.9418181818181816,
+    "gPlusPlaceId": "116317447634204903369",
+    "address": "Golden Temple Rd Amritsar, Punjab 143006 India",
+    "gps": [
+      31.61998,
+      74.876485
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 93,
+    "tourism_name": "Jallianwala Bagh",
+    "matched_google_name": "Bullet Marks [jallianwala bagh]",
+    "score": 1.0282222222222221,
+    "gPlusPlaceId": "100283750168788528766",
+    "address": "Jallan Wala Bagh, Katra Ahluwalia Amritsar, Punjab 143001 India",
+    "gps": [
+      31.620434,
+      74.881066
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 94,
+    "tourism_name": "Wagah Border",
+    "matched_google_name": "Wagah Border Park",
+    "score": 0.9310344827586208,
+    "gPlusPlaceId": "106618473824759374950",
+    "address": "G. T. Rd Pakistan",
+    "gps": [
+      31.604834,
+      74.57219
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 95,
+    "tourism_name": "Rock Garden",
+    "matched_google_name": "Rock Garden",
+    "score": 2.0,
+    "gPlusPlaceId": "116786859554141664628",
+    "address": "SH 25 Talwara Township, Punjab India",
+    "gps": [
+      31.951145,
+      75.848861
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 96,
+    "tourism_name": "Alappuzha Beach",
+    "matched_google_name": "Alappuzha District Court",
+    "score": 0.8758974358974358,
+    "gPlusPlaceId": "111536226528556908613",
+    "address": "Alappuzha - Madurai Rd, Kidangamparamp, Thathampally Alappuzha, Kerala 688013 India",
+    "gps": [
+      9.502979,
+      76.341633
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 97,
+    "tourism_name": "Munnar Tea Gardens",
+    "matched_google_name": "KTDC Tea County Munnar",
+    "score": 0.798,
+    "gPlusPlaceId": "116120234064813886182",
+    "address": "Ikka Nagar Munnar, Kerala 681652 India",
+    "gps": [
+      10.086587,
+      77.064968
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 98,
+    "tourism_name": "Fort Kochi",
+    "matched_google_name": "Fort Kochi",
+    "score": 2.0,
+    "gPlusPlaceId": "116304741221728098577",
+    "address": "Bishop Kureethara Rd, Fort Kochi Kochi, Kerala 682001 India",
+    "gps": [
+      9.962003,
+      76.240842
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 99,
+    "tourism_name": "Padmanabhaswamy Temple",
+    "matched_google_name": "Sree Padmanabhaswamy Temple",
+    "score": 1.1328571428571428,
+    "gPlusPlaceId": "108736089118709050736",
+    "address": "West Nada East Fort, Kerala 695023 India",
+    "gps": [
+      8.482778,
+      76.943591
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 100,
+    "tourism_name": "Kozhikode Beach",
+    "matched_google_name": "Kozhikode Beach",
+    "score": 2.0,
+    "gPlusPlaceId": "100098011516709863926",
+    "address": "Customs Rd Kerala 673032 India",
+    "gps": [
+      11.257289,
+      75.768285
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 101,
+    "tourism_name": "Wayanad Wildlife Sanctuary",
+    "matched_google_name": "Wayanad Wildlife Sanctuary",
+    "score": 2.0,
+    "gPlusPlaceId": "108187533514232349866",
+    "address": "Sulthan Bathery, Wayanad, Marakkadavu, Kerala 673592 India",
+    "gps": [
+      11.76452,
+      76.24443
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 102,
+    "tourism_name": "Periyar National Park",
+    "matched_google_name": "Periyar Latex",
+    "score": 0.9594117647058823,
+    "gPlusPlaceId": "104592421635924860562",
+    "address": "Ernakulam Kerala 686668 India",
+    "gps": [
+      9.988684,
+      76.684045
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 103,
+    "tourism_name": "Kumarakom Bird Sanctuary",
+    "matched_google_name": "Kumarakom Bird Sanctuary",
+    "score": 2.0,
+    "gPlusPlaceId": "110579428019314901957",
+    "address": "Kavanattinkara Saktheeswaram Temple Rd, Kavanattinkara Kumarakom, Kerala 686563 India",
+    "gps": [
+      9.629715,
+      76.423768
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 104,
+    "tourism_name": "Varkala Beach",
+    "matched_google_name": "Varkala Park",
+    "score": 1.2431999999999999,
+    "gPlusPlaceId": "105124054708182114885",
+    "address": "Varkala Railway station Rd Varkala, Kerala 695141 India",
+    "gps": [
+      8.737686,
+      76.724524
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 105,
+    "tourism_name": "Bekal Fort",
+    "matched_google_name": "Bekal Fort",
+    "score": 2.0,
+    "gPlusPlaceId": "117592762313128508184",
+    "address": "Kasargod Bekal Fort Rd, Pallikkara Kerala 671318, India",
+    "gps": [
+      12.392318,
+      75.032639
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 106,
+    "tourism_name": "Kovalam Beach",
+    "matched_google_name": "Kovalam Beach",
+    "score": 2.0,
+    "gPlusPlaceId": "101480063277438224276",
+    "address": "Beach Rd, Kovalam Thiruvananthapuram, Kerala 695527 India",
+    "gps": [
+      8.395936,
+      76.973037
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 107,
+    "tourism_name": "St. Angelo Fort",
+    "matched_google_name": "St. Angelo Fort",
+    "score": 2.0,
+    "gPlusPlaceId": "108310996653287622559",
+    "address": "Burnacherry Kannur, Kerala 670013 India",
+    "gps": [
+      11.85406,
+      75.371459
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 108,
+    "tourism_name": "Seethargundu Viewpoint",
+    "matched_google_name": "Pothamedu Viewpoint",
+    "score": 0.7597560975609755,
+    "gPlusPlaceId": "102374486349690361246",
+    "address": "Bisonvally Rd Kerala 685565 India",
+    "gps": [
+      10.054027,
+      77.068692
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 109,
+    "tourism_name": "Kerala Folklore Museum",
+    "matched_google_name": "Kerala Folklore Theatre & Museum",
+    "score": 1.1738461538461535,
+    "gPlusPlaceId": "116259224702422540587",
+    "address": "Folklore Jn, Pandit Karuppan Rd, Thevara Ernakulam, Kerala 682013, India",
+    "gps": [
+      9.933039,
+      76.299001
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 110,
+    "tourism_name": "Wonderla Amusement Park",
+    "matched_google_name": "Flora Amusement park",
+    "score": 0.8188372093023255,
+    "gPlusPlaceId": "105452446757994145005",
+    "address": "Vengad--Chemmalassery (Ist) Rd Moorkkanad, Kerala 679338 India",
+    "gps": [
+      10.899138,
+      76.131821
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 111,
+    "tourism_name": "Mysore Palace",
+    "matched_google_name": "Mysore Palace",
+    "score": 2.0,
+    "gPlusPlaceId": "105874018558716130827",
+    "address": "Sayyaji Rao Rd Mysore, Karnataka 570001 India",
+    "gps": [
+      12.305135,
+      76.655148
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 113,
+    "tourism_name": "Abbey Falls",
+    "matched_google_name": "Abbi Falls",
+    "score": 0.83,
+    "gPlusPlaceId": "105138622958147852623",
+    "address": "Madikeri Hebbettageri, Karnataka 571201 India",
+    "gps": [
+      12.457666,
+      75.716491
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 115,
+    "tourism_name": "Mullayanagiri",
+    "matched_google_name": "Mullayanagiri Shiva Temple",
+    "score": 1.0033333333333332,
+    "gPlusPlaceId": "108459413126691162262",
+    "address": "Mullayanagiri Rd Pandaravalli, Karnataka 577130 India",
+    "gps": [
+      13.390976,
+      75.721389
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 116,
+    "tourism_name": "Badami Cave Temples",
+    "matched_google_name": "Badami Caves",
+    "score": 0.8535483870967743,
+    "gPlusPlaceId": "103837015534112968976",
+    "address": "Badami, Karnataka 587201 India",
+    "gps": [
+      15.916641,
+      75.691005
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 117,
+    "tourism_name": "Jog Falls",
+    "matched_google_name": "Jog Falls",
+    "score": 2.0,
+    "gPlusPlaceId": "107547283312818092203",
+    "address": "Uttara Kannada, Karnataka India",
+    "gps": [
+      14.229439,
+      74.812523
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 118,
+    "tourism_name": "Panambur Beach",
+    "matched_google_name": "Panambur Beach",
+    "score": 2.0,
+    "gPlusPlaceId": "103730407381017559664",
+    "address": "Near New Mangalore Port Trust, Beach Road Indian Oil Tank Farm, Kasba Bengre Mangalore, Karnataka 575010, India",
+    "gps": [
+      12.937123,
+      74.804781
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 119,
+    "tourism_name": "Murudeshwar Temple",
+    "matched_google_name": "Murudeshwar Temple Raja Gopura",
+    "score": 0.9799999999999999,
+    "gPlusPlaceId": "101663819342509920571",
+    "address": "Murudeshwar Temple Main Road Murudeshwara, Karnataka 581350 India",
+    "gps": [
+      14.094238,
+      74.485098
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 120,
+    "tourism_name": "Gol Gumbaz",
+    "matched_google_name": "Gol Gumbaz",
+    "score": 2.0,
+    "gPlusPlaceId": "107886015690671369865",
+    "address": "Jadar Galli Bijapur, Karnataka 586104 India",
+    "gps": [
+      16.830168,
+      75.736103
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 121,
+    "tourism_name": "Bandipur National Park",
+    "matched_google_name": "Bandipur National Park",
+    "score": 2.0,
+    "gPlusPlaceId": "102425880884821585636",
+    "address": "Bandipur Ooty Road Karnataka 571121, India",
+    "gps": [
+      11.667945,
+      76.631913
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 123,
+    "tourism_name": "Shaniwar Wada",
+    "matched_google_name": "Shaniwar Wada",
+    "score": 2.0,
+    "gPlusPlaceId": "110205878668670474285",
+    "address": "Shaniwar Peth Pune, Maharashtra 411030 India",
+    "gps": [
+      18.519732,
+      73.855344
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 124,
+    "tourism_name": "Ajanta Caves",
+    "matched_google_name": "Ajanta Caves",
+    "score": 2.0,
+    "gPlusPlaceId": "112178596373329330837",
+    "address": "Maharashtra 431117 India",
+    "gps": [
+      20.551706,
+      75.703361
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 125,
+    "tourism_name": "Sula Vineyards",
+    "matched_google_name": "Sula Vineyards",
+    "score": 2.0,
+    "gPlusPlaceId": "103483909076497694705",
+    "address": "Survey 36/2, Sula Rd Sawargaon, Maharashtra 422222 India",
+    "gps": [
+      20.006854,
+      73.688202
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 126,
+    "tourism_name": "Sai Baba Temple",
+    "matched_google_name": "Sai Baba Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "111480262430135554623",
+    "address": "Akurli Rd, Lokhandwala Complex, Alika Nagar, Kandivali East Mumbai, Maharashtra 400101 India",
+    "gps": [
+      19.200251,
+      72.872496
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 127,
+    "tourism_name": "Alibaug Beach",
+    "matched_google_name": "Alibaug Beach",
+    "score": 1.0,
+    "gPlusPlaceId": "113426438015739153773",
+    "address": "Alibag, 402201 India",
+    "gps": [
+      18.638885,
+      72.871982
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 128,
+    "tourism_name": "Ganapatipule Temple",
+    "matched_google_name": "Ganapatipule.in",
+    "score": 1.2682352941176471,
+    "gPlusPlaceId": "112929786070599097900",
+    "address": "Opp Mahabank, Ganapatipule Ganpati Pule, Maharashtra 411045 India",
+    "gps": [
+      17.145032,
+      73.268059
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 130,
+    "tourism_name": "Mahalakshmi Temple",
+    "matched_google_name": "Mahalakshmi Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "109723658835832752835",
+    "address": "Bhulabhai Desai Marg, Breach Candy, Cumballa Hill Mumbai, Maharashtra 400026 India",
+    "gps": [
+      18.977539,
+      72.806357
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 131,
+    "tourism_name": "Karla Caves",
+    "matched_google_name": "Karla Caves",
+    "score": 2.0,
+    "gPlusPlaceId": "109930974104686469013",
+    "address": "Pune Maharashtra 410405 India",
+    "gps": [
+      18.783249,
+      73.470634
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 132,
+    "tourism_name": "Tarkarli Beach",
+    "matched_google_name": "Tarkarli Resort",
+    "score": 1.0162068965517241,
+    "gPlusPlaceId": "116933557322343303629",
+    "address": "Near Tarkarli Beach,Tal. Malvan Maharashtra 416606 India",
+    "gps": [
+      16.007474,
+      73.491197
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 133,
+    "tourism_name": "Kaas Plateau",
+    "matched_google_name": "Masai Plateau",
+    "score": 0.798,
+    "gPlusPlaceId": "113203439852680113842",
+    "address": "Injole, Maharashtra 416230 India",
+    "gps": [
+      16.817582,
+      74.078478
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 134,
+    "tourism_name": "Echo Point",
+    "matched_google_name": "Echo Point",
+    "score": 2.0,
+    "gPlusPlaceId": "107178208870448679092",
+    "address": "Charlotte Lake Rd Matheran, Maharashtra 410102 India",
+    "gps": [
+      18.986189,
+      73.261128
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 135,
+    "tourism_name": "Ellora Caves",
+    "matched_google_name": "Ellora Caves",
+    "score": 2.0,
+    "gPlusPlaceId": "102299410140567227544",
+    "address": "Ellora cave Rd Verul, Maharashtra 431102 India",
+    "gps": [
+      20.032333,
+      75.175647
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 137,
+    "tourism_name": "Sanchi Stupa",
+    "matched_google_name": "Sanchi Point",
+    "score": 0.7933333333333332,
+    "gPlusPlaceId": "114424098867263598890",
+    "address": "Opposite to Universal Informatics Race Course Rd, Palasia Indore, Madhya Pradesh 452001, India",
+    "gps": [
+      22.725649,
+      75.878245
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 138,
+    "tourism_name": "Rajwada Palace",
+    "matched_google_name": "Rajwada",
+    "score": 1.2133333333333334,
+    "gPlusPlaceId": "108782244672211960479",
+    "address": "Mahatma Gandhi Rd Indore, Madhya Pradesh 452002 India",
+    "gps": [
+      22.718339,
+      75.854738
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 139,
+    "tourism_name": "Gwalior Fort",
+    "matched_google_name": "Gwalior Zoo",
+    "score": 1.2782608695652173,
+    "gPlusPlaceId": "105416567523756545733",
+    "address": "Maharani Laxmibai Marg, Lashkar Gwalior, Madhya Pradesh 474007 India",
+    "gps": [
+      26.209181,
+      78.168202
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 140,
+    "tourism_name": "Mahakaleshwar Jyotirlinga",
+    "matched_google_name": "Mahakaleshwar Temple",
+    "score": 0.8182222222222222,
+    "gPlusPlaceId": "114232147086112588550",
+    "address": "Harsiddhi Marg Ujjain, Madhya Pradesh 456001 India",
+    "gps": [
+      23.182716,
+      75.76822
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 141,
+    "tourism_name": "Dhuandhar Falls",
+    "matched_google_name": "Raneh Falls",
+    "score": 0.7376923076923076,
+    "gPlusPlaceId": "106129936556695589442",
+    "address": "Raneh Falls Rd Dhoguwan, Madhya Pradesh 471606 India",
+    "gps": [
+      24.881452,
+      80.047692
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 142,
+    "tourism_name": "Bee Falls",
+    "matched_google_name": "Bee Fall",
+    "score": 0.8770588235294117,
+    "gPlusPlaceId": "112451000458397835150",
+    "address": "Bee Fall Rd Madhya Pradesh 461881 India",
+    "gps": [
+      22.474007,
+      78.408598
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 143,
+    "tourism_name": "Kanha National Park",
+    "matched_google_name": "Kanha National Park",
+    "score": 2.0,
+    "gPlusPlaceId": "118288108251171662774",
+    "address": "Mangitola-Mukki Gate, Mukki SH 11 Gunegaon, Madhya Pradesh 481111, India",
+    "gps": [
+      22.298671,
+      80.588258
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 144,
+    "tourism_name": "Bandhavgarh National Park",
+    "matched_google_name": "Bandhavgarh national park",
+    "score": 2.0,
+    "gPlusPlaceId": "118161390368385723890",
+    "address": "Katni, Bandhavgarh national park Bandhavgarh, Madhya Pradesh 460551 India",
+    "gps": [
+      23.6149,
+      80.3857
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 145,
+    "tourism_name": "Orchha Fort",
+    "matched_google_name": "Orchha",
+    "score": 0.8823529411764706,
+    "gPlusPlaceId": "117808067566013131309",
+    "address": "Orachha, Uttar Pradesh 472246 India",
+    "gps": [
+      25.350949,
+      78.640583
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 146,
+    "tourism_name": "Jahaz Mahal",
+    "matched_google_name": "Jahaj Mahal",
+    "score": 0.859090909090909,
+    "gPlusPlaceId": "106111598765065919526",
+    "address": "Jahaj Mahal internal Rd Sulibardi, Madhya Pradesh 454010 India",
+    "gps": [
+      22.355295,
+      75.393269
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 147,
+    "tourism_name": "Bhimbetka Rock Shelters",
+    "matched_google_name": "Bhimbetka Rock Shelters",
+    "score": 2.0,
+    "gPlusPlaceId": "116067438283234087318",
+    "address": "Bhopal, Madhya Pradesh 464990 India",
+    "gps": [
+      22.937259,
+      77.61254
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 148,
+    "tourism_name": "Narmada Udgam Temple",
+    "matched_google_name": "Narmada Hyundai",
+    "score": 0.702,
+    "gPlusPlaceId": "105956027302146233582",
+    "address": "B-1, Koh-e-fiza, Lal Ghati Road, Jahangirabad, Jahangirabad Govindpura Industrial Area Bhopal, Madhya Pradesh 462023, India",
+    "gps": [
+      23.256212,
+      77.450387
+    ],
+    "price": null,
+    "closed": true
+  },
+  {
+    "place_idx": 149,
+    "tourism_name": "Chitrakoot Falls",
+    "matched_google_name": "Juhila Falls",
+    "score": 0.71,
+    "gPlusPlaceId": "106407593703520287566",
+    "address": "Tikuri, Madhya Pradesh 484551 India",
+    "gps": [
+      23.464823,
+      81.300309
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 150,
+    "tourism_name": "The Ridge",
+    "matched_google_name": "Ridge",
+    "score": 1.2399999999999998,
+    "gPlusPlaceId": "118039550840020658564",
+    "address": "Ridge, The Mall Shimla, Himachal Pradesh 171001 India",
+    "gps": [
+      31.104818,
+      77.174848
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 151,
+    "tourism_name": "Solang Valley",
+    "matched_google_name": "Solang Valley Resort",
+    "score": 1.1412121212121211,
+    "gPlusPlaceId": "117391961074265501015",
+    "address": "VPO Palchan, Lower Dhalpur Rd, Sultanpur Kullu, Himachal Pradesh 175101, India",
+    "gps": [
+      31.963586,
+      77.107678
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 152,
+    "tourism_name": "Dalai Lama Temple",
+    "matched_google_name": "Dalai Lama temple",
+    "score": 2.0,
+    "gPlusPlaceId": "102681110784393379275",
+    "address": "Temple Rd Dharamsala, Himachal Pradesh 176219 India",
+    "gps": [
+      32.232987,
+      76.324511
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 153,
+    "tourism_name": "Khajjiar Lake",
+    "matched_google_name": "Khajjiar Lake",
+    "score": 2.0,
+    "gPlusPlaceId": "101551249082830387610",
+    "address": "Khajjiar, Himachal Pradesh 176314 India",
+    "gps": [
+      32.546352,
+      76.057958
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 154,
+    "tourism_name": "Key Monastery",
+    "matched_google_name": "Tibetan Monastery",
+    "score": 0.7606666666666666,
+    "gPlusPlaceId": "112415544148992407932",
+    "address": "National Highway 21, Siyal Manali, Himachal Pradesh 175131 India",
+    "gps": [
+      32.242242,
+      77.188325
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 155,
+    "tourism_name": "Great Himalayan National Park",
+    "matched_google_name": "Great Himalayan National Park",
+    "score": 2.0,
+    "gPlusPlaceId": "118088330230493067005",
+    "address": "Shamshi,Kullu Sosan, Himachal Pradesh 175126 India",
+    "gps": [
+      31.802412,
+      77.69942
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 157,
+    "tourism_name": "Sangla Valley",
+    "matched_google_name": "Barog Valley",
+    "score": 0.7531999999999999,
+    "gPlusPlaceId": "103411015283203800470",
+    "address": "Barog valley Himachal Pradesh 173229 India",
+    "gps": [
+      30.89083,
+      77.067118
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 158,
+    "tourism_name": "Kangra Fort",
+    "matched_google_name": "Museum at Kangra Fort",
+    "score": 1.2249999999999999,
+    "gPlusPlaceId": "111642565184039912391",
+    "address": "Old Kangra Kangra, Himachal Pradesh 176001 India",
+    "gps": [
+      32.087556,
+      76.254001
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 159,
+    "tourism_name": "Tea Gardens",
+    "matched_google_name": "Tea Garden",
+    "score": 0.980952380952381,
+    "gPlusPlaceId": "111310426519181135238",
+    "address": "Duliajan, Assam India",
+    "gps": [
+      27.38128,
+      95.32119
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 160,
+    "tourism_name": "Prashar Lake",
+    "matched_google_name": "Prashar Lake",
+    "score": 1.0,
+    "gPlusPlaceId": "104834845386869142620",
+    "address": "D.P.F. Parashar Dhar, \u0939\u093f\u092e\u093e\u091a\u0932 \u092a\u094d\u0930\u0926\u0947\u0936 175005 India",
+    "gps": [
+      31.754372,
+      77.101107
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 162,
+    "tourism_name": "Triund Trek",
+    "matched_google_name": "Triund View Cafe",
+    "score": 0.6818518518518518,
+    "gPlusPlaceId": "108787453897898405838",
+    "address": "Bhagsunag Rd Dharamsala, Himachal Pradesh 176219 India",
+    "gps": [
+      32.240561,
+      76.332145
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 163,
+    "tourism_name": "Manikaran Sahib",
+    "matched_google_name": "Manikaran Sahib",
+    "score": 2.0,
+    "gPlusPlaceId": "108799855629526152743",
+    "address": "Manikaran Rd Manikaran, Himachal Pradesh 175105 India",
+    "gps": [
+      32.027102,
+      77.344791
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 164,
+    "tourism_name": "Hatu Peak",
+    "matched_google_name": "Hattu Peak",
+    "score": 0.8805263157894736,
+    "gPlusPlaceId": "101378620149230547344",
+    "address": "Hatu Rd Himachal Pradesh 171225 India",
+    "gps": [
+      31.244027,
+      77.501339
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 165,
+    "tourism_name": "Barot Valley",
+    "matched_google_name": "Barog Valley",
+    "score": 0.8633333333333333,
+    "gPlusPlaceId": "103411015283203800470",
+    "address": "Barog valley Himachal Pradesh 173229 India",
+    "gps": [
+      30.89083,
+      77.067118
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 167,
+    "tourism_name": "Kufri Fun World",
+    "matched_google_name": "Kufri Fun World",
+    "score": 2.0,
+    "gPlusPlaceId": "111385503907335499767",
+    "address": "Apple Point Rd Kufri, Himachal Pradesh 171209 India",
+    "gps": [
+      31.094126,
+      77.278049
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 168,
+    "tourism_name": "Naini Lake",
+    "matched_google_name": "Naini Sweets",
+    "score": 0.9863636363636363,
+    "gPlusPlaceId": "116677817031973550643",
+    "address": "Bara Bazar, Mallital Bada Bazzar Rd, Mallital Nainital, Uttarakhand 263001, India",
+    "gps": [
+      29.39258,
+      79.451846
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 169,
+    "tourism_name": "Laxman Jhula",
+    "matched_google_name": "Laxman Jhula Police Station",
+    "score": 0.9746153846153846,
+    "gPlusPlaceId": "104972556841925110811",
+    "address": "LAXMAN JHULA, Laxman Jhula Rishikesh, Uttarakhand 249302 India",
+    "gps": [
+      30123364.0,
+      78329121.0
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 170,
+    "tourism_name": "Har Ki Pauri",
+    "matched_google_name": "Har Ki Pidi",
+    "score": 0.7882608695652173,
+    "gPlusPlaceId": "100796282259561541343",
+    "address": "HAR KI PAURII Haridwar, Uttarakhand 249401 India",
+    "gps": [
+      29.956831,
+      78.171544
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 171,
+    "tourism_name": "Robber's Cave",
+    "matched_google_name": "Robber's Cave",
+    "score": 2.0,
+    "gPlusPlaceId": "106825279052279159079",
+    "address": "Guchupani Malsi Dehradun, Uttarakhand 248003, India",
+    "gps": [
+      30.376117,
+      78.06035
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 172,
+    "tourism_name": "Kempty Falls",
+    "matched_google_name": "Kempty Falls",
+    "score": 2.0,
+    "gPlusPlaceId": "108950454713614547370",
+    "address": "Mussoorie, Dehradun, \u0909\u0924\u094d\u0924\u0930\u093e\u0901\u091a\u0932 Lakhwad, Kempty Ram Gaon, Uttarakhand 248179, India",
+    "gps": [
+      30.488146,
+      78.037015
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 173,
+    "tourism_name": "Auli Ski Resort",
+    "matched_google_name": "Kasauli Resort",
+    "score": 0.6698275862068965,
+    "gPlusPlaceId": "102341632410041877707",
+    "address": "MDR 6 Kasauli, Himachal Pradesh 173204 India",
+    "gps": [
+      30.901304,
+      76.971868
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 174,
+    "tourism_name": "Badrinath Temple",
+    "matched_google_name": "Badrinath Mandir",
+    "score": 1.0150000000000001,
+    "gPlusPlaceId": "115372327166948453629",
+    "address": "Mathpal Khola,Hat National Highway 87 Dwarahat, Uttarakhand 263653, India",
+    "gps": [
+      29.774866,
+      79.427035
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 177,
+    "tourism_name": "Jim Corbett National Park",
+    "matched_google_name": "Jim Corbett National Park",
+    "score": 2.0,
+    "gPlusPlaceId": "118328232136420410978",
+    "address": "Koshi Road, Near Balaji Temple, Corbett City Ramnagar Nainital, Uttarakhand 244715 India",
+    "gps": null,
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 178,
+    "tourism_name": "Gangotri Temple",
+    "matched_google_name": "Gangotri Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "105958841331347462976",
+    "address": "Gangotri - Gaumukh Pedestrian Way Gangotri, Uttarakhand 249135 India",
+    "gps": [
+      30.99441,
+      78.941464
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 179,
+    "tourism_name": "Tungnath Temple",
+    "matched_google_name": "Tungnath",
+    "score": 1.2295652173913043,
+    "gPlusPlaceId": "111994813366422020907",
+    "address": "Chopta Pokhari road, Kyuri, Uttarakhand 246442 India",
+    "gps": [
+      30.488198,
+      79.216596
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 180,
+    "tourism_name": "Valley of Flowers",
+    "matched_google_name": "Valley of Flowers National Park",
+    "score": 1.2366666666666666,
+    "gPlusPlaceId": "104942978082302815647",
+    "address": "Chamoli, Uttarakhand 246443 India",
+    "gps": [
+      30.72804,
+      79.605303
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 181,
+    "tourism_name": "Taj Mahal",
+    "matched_google_name": "Taj Mahal",
+    "score": 2.0,
+    "gPlusPlaceId": "114299893842663642400",
+    "address": "Agra, Uttar Pradesh 282001 India",
+    "gps": [
+      27.175015,
+      78.042155
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 182,
+    "tourism_name": "Kashi Vishwanath Temple",
+    "matched_google_name": "Shri Kashi Vishwanath Temple",
+    "score": 1.2050980392156863,
+    "gPlusPlaceId": "117277281013112524953",
+    "address": "Varanasi, Uttar Pradesh 221001 India",
+    "gps": [
+      25.310848,
+      83.010691
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 183,
+    "tourism_name": "Bara Imambara",
+    "matched_google_name": "Bara Imambara",
+    "score": 2.0,
+    "gPlusPlaceId": "102685054112504434822",
+    "address": "Lucknow, Uttar Pradesh 226003 India",
+    "gps": [
+      26.869683,
+      80.91317
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 184,
+    "tourism_name": "Krishna Janmabhoomi",
+    "matched_google_name": "Krishna Cinema",
+    "score": 0.7233333333333332,
+    "gPlusPlaceId": "103254100027377998472",
+    "address": "Sadar Bazar, Cantt Jhansi, Uttar Pradesh 284001 India",
+    "gps": [
+      25.438542,
+      78.582566
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 185,
+    "tourism_name": "Ram Janmabhoomi",
+    "matched_google_name": "Ram Mandir",
+    "score": 0.6636,
+    "gPlusPlaceId": "118426730889157448372",
+    "address": "Ayodhya nagari, Dombivli East Dombivli, Maharashtra 421201 India",
+    "gps": null,
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 186,
+    "tourism_name": "Banke Bihari Temple",
+    "matched_google_name": "Banke Bihari Mandir",
+    "score": 1.1126315789473684,
+    "gPlusPlaceId": "105643102694102080319",
+    "address": "Radha Kund, Uttar Pradesh 281504 India",
+    "gps": [
+      27.525177,
+      77.491728
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 187,
+    "tourism_name": "Triveni Sangam",
+    "matched_google_name": "Triveni Sangam",
+    "score": 2.0,
+    "gPlusPlaceId": "117209446612936840925",
+    "address": "Baand Marg, Kumbh Mela Area I Allahabad, Uttar Pradesh 211005 India",
+    "gps": [
+      25.42237,
+      81.886623
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 188,
+    "tourism_name": "Jhansi Fort",
+    "matched_google_name": "Jhansi Fort",
+    "score": 2.0,
+    "gPlusPlaceId": "103617499580463365719",
+    "address": "Jhokan Bagh Jhansi, Uttar Pradesh 284002 India",
+    "gps": [
+      25.457876,
+      78.575631
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 189,
+    "tourism_name": "Dhamek Stupa",
+    "matched_google_name": "Dhamek Stupa",
+    "score": 2.0,
+    "gPlusPlaceId": "103634399351772235052",
+    "address": "Dharmpal Rd, Sarnath Varanasi, Uttar Pradesh 221007 India",
+    "gps": [
+      25.380902,
+      83.024515
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 190,
+    "tourism_name": "Buland Darwaza",
+    "matched_google_name": "Rumi Darwaza",
+    "score": 0.7376923076923076,
+    "gPlusPlaceId": "106847589325521810001",
+    "address": "Husainabad Trust Rd, Machchhi Bhavan Lucknow, Uttar Pradesh 226003 India",
+    "gps": [
+      26.871267,
+      80.912145
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 191,
+    "tourism_name": "Okhla Bird Sanctuary",
+    "matched_google_name": "Okhla Bird Sanctuary",
+    "score": 2.0,
+    "gPlusPlaceId": "101316033890288424703",
+    "address": "Delhi Noida Direct Flyway, Okhla Bird Sanctury, Okhla Noida, DL 201301 India",
+    "gps": [
+      28.554942,
+      77.31234
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 192,
+    "tourism_name": "Aligarh Fort",
+    "matched_google_name": "ALIGARH",
+    "score": 1.252631578947368,
+    "gPlusPlaceId": "101162505159127452441",
+    "address": "Agra Rd, Krishna Nagar, City Aligarh, Uttar Pradesh 202001 India",
+    "gps": [
+      27.872694,
+      78.074053
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 194,
+    "tourism_name": "Allen Forest Zoo",
+    "matched_google_name": "Obra Forest",
+    "score": 0.6818518518518518,
+    "gPlusPlaceId": "104611851244764070732",
+    "address": "Gas Godam Rd Obra, Uttar Pradesh 231219 India",
+    "gps": [
+      24.461164,
+      82.99484
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 195,
+    "tourism_name": "Dal Lake",
+    "matched_google_name": "Char Chinar Dal lake",
+    "score": 0.8799999999999999,
+    "gPlusPlaceId": "110656860822512358456",
+    "address": "Rainawari Srinagar, Jammu and Kashmir 190001 India",
+    "gps": [
+      34.103169,
+      74.866704
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 197,
+    "tourism_name": "Betaab Valley",
+    "matched_google_name": "Nubra Valley",
+    "score": 0.7531999999999999,
+    "gPlusPlaceId": "105142882401284931769",
+    "address": "Leh, Jammu and Kashmir 194401 India",
+    "gps": [
+      34.788532,
+      77.543121
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 198,
+    "tourism_name": "Vaishno Devi",
+    "matched_google_name": "Vaishno Devi",
+    "score": 2.0,
+    "gPlusPlaceId": "114361994870104735902",
+    "address": "Katra, Jammu & Kashmir 182301 India",
+    "gps": [
+      33.030829,
+      74.949042
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 199,
+    "tourism_name": "Patnitop Height",
+    "matched_google_name": "Patnitop Guest House",
+    "score": 0.6669999999999999,
+    "gPlusPlaceId": "118367977806547314522",
+    "address": "National Highway 1A Patnitop, Jammu and Kashmir 182141 India",
+    "gps": [
+      33.081761,
+      75.334325
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 200,
+    "tourism_name": "Amarnath Cave",
+    "matched_google_name": "Amarnath",
+    "score": 1.2666666666666668,
+    "gPlusPlaceId": "117267210420259696034",
+    "address": "Baltal Amarnath Trek, Forest Block, Anantnag Pahalgam, Jammu & Kashmir 192230 India",
+    "gps": [
+      34.214766,
+      75.505832
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 201,
+    "tourism_name": "Thiksey Monastery",
+    "matched_google_name": "Thukje Monastery",
+    "score": 0.8251515151515151,
+    "gPlusPlaceId": "112682696022667901282",
+    "address": "Leh Jammu and Kashmir 194201 India",
+    "gps": [
+      33.361718,
+      78.025213
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 202,
+    "tourism_name": "Nubra Valley",
+    "matched_google_name": "Nubra Valley",
+    "score": 1.0,
+    "gPlusPlaceId": "105142882401284931769",
+    "address": "Leh, Jammu and Kashmir 194401 India",
+    "gps": [
+      34.788532,
+      77.543121
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 203,
+    "tourism_name": "Kargil War Memorial",
+    "matched_google_name": "Kargil War Memorial",
+    "score": 2.0,
+    "gPlusPlaceId": "107991824560413536526",
+    "address": "Drass Srinagar - Ladakh Hwy Jammu and Kashmir 194102, India",
+    "gps": [
+      34.433232,
+      75.807998
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 204,
+    "tourism_name": "Diskit Monastery",
+    "matched_google_name": "Diskit Gompa",
+    "score": 0.71,
+    "gPlusPlaceId": "107935710717709700811",
+    "address": "Diskit, Jammu and Kashmir 194401 India",
+    "gps": [
+      34.540958,
+      77.560688
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 205,
+    "tourism_name": "Kishtwar National Park",
+    "matched_google_name": "Kishtwar National Park",
+    "score": 2.0,
+    "gPlusPlaceId": "109116482734890265079",
+    "address": "Forest Block, Jammu and Kashmir 182204 India",
+    "gps": [
+      33.617853,
+      75.992765
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 206,
+    "tourism_name": "Hemis National Park",
+    "matched_google_name": "Hemis National Park",
+    "score": 1.0,
+    "gPlusPlaceId": "117640996168464020377",
+    "address": "Jammu and Kashmir India",
+    "gps": [
+      33.756315,
+      77.283325
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 207,
+    "tourism_name": "Dras War Memorial",
+    "matched_google_name": "Kargil War Memorial",
+    "score": 0.7855555555555556,
+    "gPlusPlaceId": "107991824560413536526",
+    "address": "Drass Srinagar - Ladakh Hwy Jammu and Kashmir 194102, India",
+    "gps": [
+      34.433232,
+      75.807998
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 210,
+    "tourism_name": "Thiksey Monastery",
+    "matched_google_name": "Thukje Monastery",
+    "score": 0.8251515151515151,
+    "gPlusPlaceId": "112682696022667901282",
+    "address": "Leh Jammu and Kashmir 194201 India",
+    "gps": [
+      33.361718,
+      78.025213
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 211,
+    "tourism_name": "Prem Mandir",
+    "matched_google_name": "Prem Mandir",
+    "score": 2.0,
+    "gPlusPlaceId": "116775568600451526149",
+    "address": "Vrindavan, Uttar Pradesh India",
+    "gps": [
+      27.572096,
+      77.671816
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 212,
+    "tourism_name": "Kirti Mandir",
+    "matched_google_name": "Kirti Mandir",
+    "score": 2.0,
+    "gPlusPlaceId": "117810557781545273059",
+    "address": "Kasturba Rd, Bhatia Bazar Old Porbandar, Gujarat 360575 India",
+    "gps": [
+      21.641343,
+      69.600982
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 213,
+    "tourism_name": "Nand Gaon",
+    "matched_google_name": "Nand Gaon",
+    "score": 2.0,
+    "gPlusPlaceId": "113730970815592644211",
+    "address": "Uattardhona, Uttar Pradesh 226010 India",
+    "gps": [
+      26.891933,
+      81.071412
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 214,
+    "tourism_name": "Barsana Mandir",
+    "matched_google_name": "Bara Mandir",
+    "score": 0.8427999999999999,
+    "gPlusPlaceId": "117184056414295695201",
+    "address": "Nagina, Uttar Pradesh 246762 India",
+    "gps": [
+      29.442733,
+      78.434027
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 215,
+    "tourism_name": "Tiger Hill",
+    "matched_google_name": "Tiger Hill",
+    "score": 2.0,
+    "gPlusPlaceId": "108564154595643934345",
+    "address": "Senchal Forest Senchal Rd Darjeeling, West Bengal 734123, India",
+    "gps": [
+      26.994822,
+      88.285422
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 216,
+    "tourism_name": "Jaldapara National Park",
+    "matched_google_name": "Jaldapara National Park",
+    "score": 2.0,
+    "gPlusPlaceId": "113054239032444585316",
+    "address": "Jalpaiguri, West Bengal India",
+    "gps": [
+      26.583232,
+      89.379584
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 217,
+    "tourism_name": "Sundarbans National Park",
+    "matched_google_name": "Sundarbans National Park",
+    "score": 2.0,
+    "gPlusPlaceId": "106901023258072051230",
+    "address": "Santi Gachi, West Bengal 743370 India",
+    "gps": [
+      21.945,
+      88.8958
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 218,
+    "tourism_name": "Digha Beach",
+    "matched_google_name": "Digha Bird Watch",
+    "score": 0.9748148148148146,
+    "gPlusPlaceId": "102203612348187797039",
+    "address": "Digha Patna, Bihar India",
+    "gps": [
+      25.651736,
+      85.093344
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 222,
+    "tourism_name": "Gorumara National Park",
+    "matched_google_name": "Gorumara National Park",
+    "score": 2.0,
+    "gPlusPlaceId": "115314337587535976844",
+    "address": "Nimna Tandu Forest Post Jalpaiguri, West Bengal 735230 India",
+    "gps": [
+      26.756357,
+      88.797479
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 223,
+    "tourism_name": "Cooch Behar Palace",
+    "matched_google_name": "Cooch Behar Park",
+    "score": 1.3011764705882352,
+    "gPlusPlaceId": "109201393975025596225",
+    "address": "Cooch Behar, West Bengal 736101 India",
+    "gps": [
+      26.325003,
+      89.450285
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 224,
+    "tourism_name": "Ayodhya Hills",
+    "matched_google_name": "Ayodhya Hotel",
+    "score": 0.7576923076923077,
+    "gPlusPlaceId": "110884059903836444607",
+    "address": "Varadaraj Nagar Tirupati, Andhra Pradesh 517501 India",
+    "gps": [
+      13.642905,
+      79.418661
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 225,
+    "tourism_name": "Jagannath Temple",
+    "matched_google_name": "Jagannath Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "108305716350063576375",
+    "address": "Anand Bazar, Konark-Kakatpur Rd, Odisha Konark-Kakatpur Rd Anand Bazar, OD 752118, India",
+    "gps": [
+      19.953048,
+      86.185931
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 226,
+    "tourism_name": "Sun Temple",
+    "matched_google_name": "Konark Sun Temple",
+    "score": 1.0448148148148146,
+    "gPlusPlaceId": "107008162067301312303",
+    "address": "Konark, \u0913\u0921\u093f\u0936\u093e 752111 India",
+    "gps": [
+      19.887595,
+      86.094536
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 227,
+    "tourism_name": "Lingaraj Temple",
+    "matched_google_name": "Lingaraj Temple",
+    "score": 1.0,
+    "gPlusPlaceId": "108174616053590552664",
+    "address": "Opposite Old Town Police Station, Old Town Bhubaneshwar, OD 751001 India",
+    "gps": [
+      20.23823,
+      85.833784
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 228,
+    "tourism_name": "Khandadhar Waterfall",
+    "matched_google_name": "Khandadhar Waterfall",
+    "score": 1.0,
+    "gPlusPlaceId": "114009574515448304537",
+    "address": "Sundargarh OD 770041 India",
+    "gps": [
+      21.760551,
+      85.116464
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 229,
+    "tourism_name": "Barabati Fort",
+    "matched_google_name": "Barabati Fort",
+    "score": 1.0,
+    "gPlusPlaceId": "104162515772276861322",
+    "address": "Biju Patnaik Colony Kataka, OD 753008 India",
+    "gps": [
+      20.485192,
+      85.864616
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 234,
+    "tourism_name": "Chandipur Beach",
+    "matched_google_name": "Chandipur Beach",
+    "score": 2.0,
+    "gPlusPlaceId": "103319734680360577616",
+    "address": "Balasore OD 756025 India",
+    "gps": [
+      21.45185,
+      87.040821
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 236,
+    "tourism_name": "Marina Beach",
+    "matched_google_name": "The Marina",
+    "score": 1.1454545454545453,
+    "gPlusPlaceId": "115130827522798197885",
+    "address": "39, College Rd, Thousand Lights West, Thousand Lights Chennai, Tamil Nadu 600006 India",
+    "gps": [
+      13.067271,
+      80.252099
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 237,
+    "tourism_name": "Meenakshi Amman Temple",
+    "matched_google_name": "Meenakshi Amman Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "113826952658325134539",
+    "address": "Madurai, Tamil Nadu 625001 India",
+    "gps": [
+      9.920344,
+      78.119229
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 238,
+    "tourism_name": "Ramanathaswamy Temple",
+    "matched_google_name": "Ramanathaswamy Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "107897206214454173311",
+    "address": "Rameshwaram, Tamil Nadu India",
+    "gps": [
+      9.288094,
+      79.317319
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 239,
+    "tourism_name": "Vivekananda Rock Memorial",
+    "matched_google_name": "Vivekananda Rock Memorial",
+    "score": 2.0,
+    "gPlusPlaceId": "109540950123783705915",
+    "address": "Jetty Kanyakumari, Tamil Nadu 629702 India",
+    "gps": [
+      8.07815,
+      77.555323
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 240,
+    "tourism_name": "Ooty Lake",
+    "matched_google_name": "Ooty",
+    "score": 1.1846153846153846,
+    "gPlusPlaceId": "109464788391648134225",
+    "address": "Kathadimattam Ooty, Tamil Nadu 643001 India",
+    "gps": [
+      11.403471,
+      76.695299
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 242,
+    "tourism_name": "Kodaikanal Lake",
+    "matched_google_name": "kodaikanal",
+    "score": 1.288,
+    "gPlusPlaceId": "110374374845658540638",
+    "address": "Hotel Swaminarayan,Ugarte Nager, Wood Ghat ,[], Laws Ghat Road, Kodaikanal Ghat Rd, Shenbaganur Kodaikanal, Tamil Nadu 624101, India",
+    "gps": [
+      10.247103,
+      77.519479
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 244,
+    "tourism_name": "Shore Temple",
+    "matched_google_name": "Shore Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "109724757891502062672",
+    "address": "State Highway 49B Mahabalipuram, Tamil Nadu 603104 India",
+    "gps": [
+      12.626927,
+      80.192711
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 245,
+    "tourism_name": "Yercaud Lake",
+    "matched_google_name": "Yercaud Lake Boat House",
+    "score": 0.944,
+    "gPlusPlaceId": "101953540092296933104",
+    "address": "Lady's seat Rd Yercaud, Tamil Nadu 636601 India",
+    "gps": [
+      11.784883,
+      78.208202
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 246,
+    "tourism_name": "Nellaiappar Temple",
+    "matched_google_name": "nellaiappar Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "101583875231688981411",
+    "address": "Thirunagar, Tirunelveli Junction Tirunelveli, Tamil Nadu 627006 India",
+    "gps": [
+      8.728194,
+      77.687612
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 247,
+    "tourism_name": "Nataraja Temple",
+    "matched_google_name": "Nataraja Theater",
+    "score": 1.0635483870967741,
+    "gPlusPlaceId": "117578428834925666815",
+    "address": "Nataraj Theatre Rd, Karuvampalayam Tiruppur, Tamil Nadu 641687 India",
+    "gps": [
+      11.102294,
+      77.340145
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 248,
+    "tourism_name": "Kanaka Durga Temple",
+    "matched_google_name": "Kanaka durga temple",
+    "score": 2.0,
+    "gPlusPlaceId": "115827839076917592387",
+    "address": "Kadapa Andhra Pradesh 516107 India",
+    "gps": [
+      14.161464,
+      79.233062
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 249,
+    "tourism_name": "Rishikonda Beach",
+    "matched_google_name": "Rishikonda Beach",
+    "score": 2.0,
+    "gPlusPlaceId": "117699462439159245672",
+    "address": "Rushikonda Visakhapatnam, Andhra Pradesh 530045 India",
+    "gps": [
+      17.781709,
+      83.385394
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 250,
+    "tourism_name": "Mallikarjuna Swamy Temple",
+    "matched_google_name": "Lord Mallikarjuna Swamy Temple",
+    "score": 1.2090909090909088,
+    "gPlusPlaceId": "109623762728841966183",
+    "address": "Lord Mallikarjuna Swamy Temple Rd Kummera, Andhra Pradesh 509215 India",
+    "gps": [
+      16.567531,
+      78.269563
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 251,
+    "tourism_name": "Papikondalu",
+    "matched_google_name": "Papikondalu",
+    "score": 2.0,
+    "gPlusPlaceId": "112586143213149984777",
+    "address": "9-3-1/1, GODAVARI BUND,GOUTHAMI JEEVAKARUNYA SANGAM Mangalavaripeta Rajahmundry, Andhra Pradesh 533101, India",
+    "gps": [
+      17.003871,
+      81.767152
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 252,
+    "tourism_name": "Lepakshi",
+    "matched_google_name": "Lepakshi",
+    "score": 2.0,
+    "gPlusPlaceId": "106775665598284851632",
+    "address": "Lepakshi, Andhra Pradesh 515331 India",
+    "gps": [
+      13.801824,
+      77.609536
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 253,
+    "tourism_name": "Belum Caves",
+    "matched_google_name": "Belum Caves",
+    "score": 2.0,
+    "gPlusPlaceId": "106591361673585098255",
+    "address": "Kurnool Andhra Pradesh 518123 India",
+    "gps": [
+      15.102346,
+      78.111541
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 254,
+    "tourism_name": "Amaravathi Temple",
+    "matched_google_name": "Amaravathi",
+    "score": 1.2548148148148148,
+    "gPlusPlaceId": "110775244710519069448",
+    "address": "GT Rd, New Colony Srikakulam, Andhra Pradesh 532001 India",
+    "gps": [
+      18.295005,
+      83.896342
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 255,
+    "tourism_name": "Uppalapadu Bird Sanctuary",
+    "matched_google_name": "Pulicat Bird Sanctuary",
+    "score": 0.7551063829787233,
+    "gPlusPlaceId": "117246136360039029401",
+    "address": "Nellore Andhra Pradesh 524121 India",
+    "gps": [
+      13.72446,
+      80.124664
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 256,
+    "tourism_name": "Gandikota Fort",
+    "matched_google_name": "Gandikota",
+    "score": 1.2782608695652173,
+    "gPlusPlaceId": "101307697705039488039",
+    "address": "Gandikota, Andhra Pradesh 516444 India",
+    "gps": [
+      14.817562,
+      78.283207
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 257,
+    "tourism_name": "Prasanthi Nilayam",
+    "matched_google_name": "Prashanthi Nilayam",
+    "score": 0.8939999999999999,
+    "gPlusPlaceId": "111001515307824312961",
+    "address": "Puttaparthi Main Road, Puttaparthi, Andhra Pradesh 515134 Puttaparthi, Andhra Pradesh 515134 India",
+    "gps": [
+      14.165574,
+      77.807421
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 258,
+    "tourism_name": "Simhachalam Temple",
+    "matched_google_name": "Simhachalam",
+    "score": 1.2648275862068965,
+    "gPlusPlaceId": "112279163345229538129",
+    "address": "Visakhapatnam, Andhra Pradesh 530028 India",
+    "gps": [
+      17.766639,
+      83.248593
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 259,
+    "tourism_name": "Kailasagiri",
+    "matched_google_name": "Kailasagiri",
+    "score": 2.0,
+    "gPlusPlaceId": "103101655570615715987",
+    "address": "Visakhapatnam, Andhra Pradesh India",
+    "gps": [
+      17.749218,
+      83.342199
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 261,
+    "tourism_name": "Borra Caves",
+    "matched_google_name": "Borra Caves",
+    "score": 2.0,
+    "gPlusPlaceId": "109063783701236153919",
+    "address": "Vishakhapatnam Andhra Pradesh 531149 India",
+    "gps": [
+      18.280703,
+      83.039464
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 262,
+    "tourism_name": "War Memorial",
+    "matched_google_name": "Lascar War Memorial",
+    "score": 0.7596774193548388,
+    "gPlusPlaceId": "110635051250688966824",
+    "address": "Napier Rd, Hastings Kolkata, West Bengal 700022 India",
+    "gps": [
+      22.552986,
+      88.328686
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 263,
+    "tourism_name": "Indira Gandhi Zoological Park",
+    "matched_google_name": "Indira Gandhi Zoological Park",
+    "score": 2.0,
+    "gPlusPlaceId": "105841368285497669794",
+    "address": "Visakhapatnam, Andhra Pradesh India",
+    "gps": [
+      17.764885,
+      83.348215
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 264,
+    "tourism_name": "Matsyadarshini Aquarium",
+    "matched_google_name": "The Beach Aquarium",
+    "score": 0.7204878048780488,
+    "gPlusPlaceId": "102689991174170508536",
+    "address": "2-41-16/2, Police Campus 8th Battalion Road, Kondapur Hyderabad, Andhra Pradesh 500084 India",
+    "gps": [
+      17.464704,
+      78.365457
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 265,
+    "tourism_name": "Visakha Museum",
+    "matched_google_name": "Visakha Museum",
+    "score": 2.0,
+    "gPlusPlaceId": "108963802137979152372",
+    "address": "Beach Road, Visakhapatnam, Andhra Pradesh 530017 India",
+    "gps": [
+      17.720861,
+      83.333933
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 267,
+    "tourism_name": "Pemayangtse Monastery",
+    "matched_google_name": "Pemyangtse Monastery",
+    "score": 0.896341463414634,
+    "gPlusPlaceId": "114838061489849267746",
+    "address": "West Sikkim Sikkim 737111 India",
+    "gps": [
+      27.304572,
+      88.251763
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 268,
+    "tourism_name": "Char Dham",
+    "matched_google_name": "Char Dham",
+    "score": 2.0,
+    "gPlusPlaceId": "118225264915397500549",
+    "address": "Solophok, Namchi Sikkim 737121 India",
+    "gps": [
+      27.152839,
+      88.341086
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 269,
+    "tourism_name": "Rumtek Monastery",
+    "matched_google_name": "Rumtek Monastery",
+    "score": 2.0,
+    "gPlusPlaceId": "112637598780604116862",
+    "address": "Rumtek Sikkim 737135 India",
+    "gps": [
+      27.288671,
+      88.561518
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 270,
+    "tourism_name": "Buddha Park",
+    "matched_google_name": "Buddha Park",
+    "score": 1.0,
+    "gPlusPlaceId": "102073749940642714168",
+    "address": "Swayambhu Kathmandu 44600 Nepal",
+    "gps": [
+      27.716168,
+      85.284119
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 271,
+    "tourism_name": "Baba Harbhajan Singh Temple",
+    "matched_google_name": "Harbhajan Baba Mandir",
+    "score": 0.7466666666666666,
+    "gPlusPlaceId": "104571175951963482303",
+    "address": "East Sikkim Sikkim 737131 India",
+    "gps": [
+      27.31472,
+      88.8384
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 273,
+    "tourism_name": "Kamakhya Temple",
+    "matched_google_name": "Kamakhya Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "104989749927847055937",
+    "address": "Kamakhya Mandir Road, Kamakhya Guwahati, Assam 781010 India",
+    "gps": [
+      26.166469,
+      91.705194
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 274,
+    "tourism_name": "Kaziranga National Park",
+    "matched_google_name": "Kaziranga National Park",
+    "score": 1.0,
+    "gPlusPlaceId": "101385313942121237681",
+    "address": "\u0985\u09b8\u09ae India",
+    "gps": [
+      26.577531,
+      93.171122
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 275,
+    "tourism_name": "Umananda Island",
+    "matched_google_name": "Umananda Temple",
+    "score": 0.7933333333333332,
+    "gPlusPlaceId": "111557084479506301387",
+    "address": "Baruah Souk, North Guwahati Guwahati, Assam 781030 India",
+    "gps": [
+      26.196768,
+      91.744831
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 276,
+    "tourism_name": "Sivasagar Sivadol",
+    "matched_google_name": "Sivasagar Tennis Court",
+    "score": 0.6596153846153846,
+    "gPlusPlaceId": "112105513320574388795",
+    "address": "Sivasagar, Assam 785640 India",
+    "gps": [
+      26.991756,
+      94.6293
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 278,
+    "tourism_name": "Manas National Park",
+    "matched_google_name": "Manas National Park",
+    "score": 2.0,
+    "gPlusPlaceId": "102735398404341684192",
+    "address": "Barpeta-Manas Road Barpeta, Assam 781315 India",
+    "gps": [
+      26.746224,
+      91.020355
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 280,
+    "tourism_name": "Pobitora Wildlife Sanctuary",
+    "matched_google_name": "Pobitora Wildlife Sanctuary",
+    "score": 2.0,
+    "gPlusPlaceId": "117408427415114363652",
+    "address": "Guwahati, Assam Pabitara, Assam 782411 India",
+    "gps": [
+      26.23062,
+      92.054266
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 281,
+    "tourism_name": "Tawang Monastery",
+    "matched_google_name": "Tawang Monastery",
+    "score": 2.0,
+    "gPlusPlaceId": "104482033044890482666",
+    "address": "Tawang, Arunachal Pradesh 790104",
+    "gps": [
+      27.585457,
+      91.85704
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 287,
+    "tourism_name": "Promenade Beach",
+    "matched_google_name": "The Promenade",
+    "score": 1.2,
+    "gPlusPlaceId": "105345985197161814309",
+    "address": "23 Goubert Avenue, White Town, Puducherry, Puducherry UT 605001 White Town Puducherry, 605001, India",
+    "gps": [
+      11.933377,
+      79.835803
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 288,
+    "tourism_name": "Auroville",
+    "matched_google_name": "Olive Auroville",
+    "score": 1.0499999999999998,
+    "gPlusPlaceId": "105404995528821195110",
+    "address": "Auroville Main Rd, Kuyilapalayam, Auroville Auroville Main Rd, Auroville Bommayapalayam, Tamil Nadu 605101, India",
+    "gps": [
+      11.991374,
+      79.822407
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 289,
+    "tourism_name": "Paradise Beach",
+    "matched_google_name": "Paradise Beach",
+    "score": 2.0,
+    "gPlusPlaceId": "113454880993113463222",
+    "address": "Pudukuppam, Pondicherry, Pondicherry UT, 605007 India",
+    "gps": [
+      11.874974,
+      79.821682
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 290,
+    "tourism_name": "Cellular Jail",
+    "matched_google_name": "Andaman Cellular Jail",
+    "score": 1.128235294117647,
+    "gPlusPlaceId": "110271737079256724570",
+    "address": "Atlanta Point Port Blair, Andaman and Nicobar Islands 744104 India",
+    "gps": [
+      11.674192,
+      92.747807
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 291,
+    "tourism_name": "Radhanagar Beach",
+    "matched_google_name": "Radhanagar High School",
+    "score": 0.6736842105263158,
+    "gPlusPlaceId": "115496397833888126198",
+    "address": "State Highway 11 Birnagar, West Bengal 741254 India",
+    "gps": [
+      23.225222,
+      88.55879
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 292,
+    "tourism_name": "Bharatpur Beach",
+    "matched_google_name": "Bharatpur Field",
+    "score": 0.7433333333333334,
+    "gPlusPlaceId": "112409382378068065935",
+    "address": "Sts Rd Ghorahi 22400 Nepal",
+    "gps": [
+      28.030133,
+      82.481367
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 294,
+    "tourism_name": "Naida Caves",
+    "matched_google_name": "Naida Caves",
+    "score": 2.0,
+    "gPlusPlaceId": "106596344688045168581",
+    "address": "Diu Daman and Diu 362520 India",
+    "gps": [
+      20.710472,
+      70.981057
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 295,
+    "tourism_name": "Diu Fort",
+    "matched_google_name": "Diu Fort",
+    "score": 2.0,
+    "gPlusPlaceId": "105272844800049267966",
+    "address": "Diu, Daman and Diu 362520 India",
+    "gps": [
+      20.715026,
+      70.995916
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 296,
+    "tourism_name": "Baba Baidyanath Temple",
+    "matched_google_name": "Baba Baidyanath Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "112119248520125682416",
+    "address": "Deoghar Market Deoghar College Rd Deoghar, Jharkhand 220401, India",
+    "gps": [
+      24.492734,
+      86.700053
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 297,
+    "tourism_name": "Pahari Mandir",
+    "matched_google_name": "Pahari Mandir",
+    "score": 2.0,
+    "gPlusPlaceId": "110361295110897106361",
+    "address": "Pahari Madir Ln, Kumhartoli Ranchi, Jharkhand 834001 India",
+    "gps": [
+      23.375291,
+      85.310962
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 298,
+    "tourism_name": "Mahabodhi Temple",
+    "matched_google_name": "Mahabodhi Temple",
+    "score": 1.0,
+    "gPlusPlaceId": "103879843240061632633",
+    "address": "\u092c\u094b\u0927\u0917\u092f\u093e, \u0917\u092f\u093e, \u092c\u093f\u0939\u093e\u0930 824231 India",
+    "gps": [
+      24.695922,
+      84.991419
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 299,
+    "tourism_name": "Sanjay Gandhi Biological Park",
+    "matched_google_name": "Sanjay Gandhi Biological Park",
+    "score": 2.0,
+    "gPlusPlaceId": "117633179153131658098",
+    "address": "Jawahar Lal Nehru Marg, Rajbanshi Nagar Patna, Bihar 800014 India",
+    "gps": [
+      25.597352,
+      85.100299
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 301,
+    "tourism_name": "Budhha Smriti Park",
+    "matched_google_name": "Buddha Smriti Udyaan",
+    "score": 0.7276315789473684,
+    "gPlusPlaceId": "100498703718611191626",
+    "address": "Fraser Rd Patna, Bihar 800001 India",
+    "gps": [
+      25.606221,
+      85.135944
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 302,
+    "tourism_name": "Kingdom of Dreams",
+    "matched_google_name": "Kingdom of Dreams",
+    "score": 2.0,
+    "gPlusPlaceId": "113015343696882755358",
+    "address": "Auditorium Complex, Sector 29 Gurgaon, Haryana 122001 India",
+    "gps": [
+      28.468003,
+      77.069156
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 303,
+    "tourism_name": "Ambience Mall",
+    "matched_google_name": "Ambience Mall",
+    "score": 2.0,
+    "gPlusPlaceId": "108987168323940521274",
+    "address": "Ambience Island, Sector 24 Gurgaon, Haryana 122010 India",
+    "gps": [
+      28.503545,
+      77.097324
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 304,
+    "tourism_name": "DLF CyberHub",
+    "matched_google_name": "DLF City Club",
+    "score": 0.6733999999999999,
+    "gPlusPlaceId": "116424450520768328331",
+    "address": "DLF City Club,Opposite Galleria Market, DLF City Phase IV DLF City Phase IV Gurgaon, Haryana 122002, India",
+    "gps": [
+      28.467298,
+      77.083248
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 305,
+    "tourism_name": "Gurudwara Bangla Sahib",
+    "matched_google_name": "Gurudwara Bangla Sahib",
+    "score": 2.0,
+    "gPlusPlaceId": "114387970930270322649",
+    "address": "Ashoka Road, Hanuman Road Area, Connaught Place New Delhi, Delhi 110001 India",
+    "gps": [
+      28.626377,
+      77.209051
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 306,
+    "tourism_name": "Kedarnath",
+    "matched_google_name": "Kedarnath Mandir",
+    "score": 0.738,
+    "gPlusPlaceId": "116898445752359551078",
+    "address": "Kathgarh, Haryana 135102 India",
+    "gps": [
+      30.456987,
+      77.3422
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 307,
+    "tourism_name": "DLF Mall of India",
+    "matched_google_name": "DLF Mall Of India",
+    "score": 2.0,
+    "gPlusPlaceId": "113124734807049282558",
+    "address": "Sector 18 Noida, Uttar Pradesh India",
+    "gps": [
+      28.567573,
+      77.321115
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 308,
+    "tourism_name": "The Grand Venice Mall",
+    "matched_google_name": "The Grand Central Mall",
+    "score": 0.6662790697674418,
+    "gPlusPlaceId": "118147919716368306478",
+    "address": "150 Feet Ring Road, Opposite Imperial Heights Nana Mauva Rd, Karan Park Rajkot, Gujarat 360005, India",
+    "gps": [
+      22.278403,
+      70.780684
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 309,
+    "tourism_name": "Wonderla Amusement Park",
+    "matched_google_name": "Wonderla Amusement Park",
+    "score": 2.0,
+    "gPlusPlaceId": "109180473177846667535",
+    "address": "28th Km, Hejjala Mysore Road Bangalore, Karnataka 562109, India",
+    "gps": [
+      12.835093,
+      77.40164
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 310,
+    "tourism_name": "Nandankanan Zoological Park",
+    "matched_google_name": "Nandankanan Zoological Park",
+    "score": 1.0,
+    "gPlusPlaceId": "112468782322190356559",
+    "address": "Khordha Nandan Kanan Rd Barang, OD 754005, India",
+    "gps": [
+      20.39717,
+      85.820465
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 311,
+    "tourism_name": "Orion Mall",
+    "matched_google_name": "Just Bake Orion Mall",
+    "score": 1.0033333333333332,
+    "gPlusPlaceId": "109186083114022002375",
+    "address": "Orion Mall, Brigade Gateway, K02, Food Court 26/1, Dr. Raj Kumar Road, Malleswaram Bangalore, 560055 India",
+    "gps": [
+      13.010853,
+      77.555135
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 312,
+    "tourism_name": "Inorbit Mall Cyberabad",
+    "matched_google_name": "Inorbit Mall",
+    "score": 0.9552941176470587,
+    "gPlusPlaceId": "106387171190634464309",
+    "address": "APIIC Software Layout, Mindspace Madhapur Hyderabad, Andhra Pradesh 500058, India",
+    "gps": [
+      17.434399,
+      78.386738
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 313,
+    "tourism_name": "Jama Masjid",
+    "matched_google_name": "Madina Jama Masjid",
+    "score": 1.1248275862068964,
+    "gPlusPlaceId": "103086416747815970031",
+    "address": "H - Block Madina Jama Masjid Block H, Shakurpur Colony, Shakurpur New Delhi, DL 110034, India",
+    "gps": [
+      28.689218,
+      77.147622
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 314,
+    "tourism_name": "Ramanathaswamy Temple",
+    "matched_google_name": "Ramanathaswamy Temple",
+    "score": 2.0,
+    "gPlusPlaceId": "107897206214454173311",
+    "address": "Rameshwaram, Tamil Nadu India",
+    "gps": [
+      9.288094,
+      79.317319
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 315,
+    "tourism_name": "Buddh International Circuit",
+    "matched_google_name": "Buddh International Circuit",
+    "score": 2.0,
+    "gPlusPlaceId": "107736222840395006102",
+    "address": "YEIDA, Jaypee Sports City, Sector 25, Gautam Buddha Nagar Along Yamuna Expressway Greater Noida, Uttar Pradesh 201303, India",
+    "gps": [
+      28.350289,
+      77.534713
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 316,
+    "tourism_name": "Phoenix Palassio",
+    "matched_google_name": "Phoenix Mall",
+    "score": 0.7499999999999999,
+    "gPlusPlaceId": "105859145674654852284",
+    "address": "Bargawan, Alambagh Lucknow, Uttar Pradesh 226005 India",
+    "gps": [
+      26.798753,
+      80.89684
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 317,
+    "tourism_name": "LuLu International Shopping Mall",
+    "matched_google_name": "Lulu Shopping Mall",
+    "score": 1.0331999999999997,
+    "gPlusPlaceId": "100515652515321866651",
+    "address": "Edappally, Ernakulam 34/1000, Salem - Kochi - Kanyakumari Hwy Kochi, Kerala 682024, India",
+    "gps": [
+      10.027948,
+      76.307642
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 318,
+    "tourism_name": "Rail Museum",
+    "matched_google_name": "Rail Museum",
+    "score": 1.0,
+    "gPlusPlaceId": "100590938393547395128",
+    "address": "N Mukherji Rd, Howrah Railway Station Howrah, West Bengal 711101 India",
+    "gps": [
+      22.578375,
+      88.340175
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 320,
+    "tourism_name": "Akshardham",
+    "matched_google_name": "Akshardham Mandir",
+    "score": 1.0448148148148146,
+    "gPlusPlaceId": "103687842133286233440",
+    "address": "J Road, Sector 20 Gandhinagar, Gujarat 382020 India",
+    "gps": [
+      23.229304,
+      72.673976
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 321,
+    "tourism_name": "Agra Fort",
+    "matched_google_name": "Agra Fort",
+    "score": 2.0,
+    "gPlusPlaceId": "102368518484692689189",
+    "address": "Rakabganj Agra, Uttar Pradesh 282001 India",
+    "gps": [
+      27.179533,
+      78.021112
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 322,
+    "tourism_name": "Madhya Pradesh Tribal Museum",
+    "matched_google_name": "Madhya Pradesh Tourism",
+    "score": 0.9156,
+    "gPlusPlaceId": "117069281919830500973",
+    "address": "Shop No 10 & 11, Jhabua Tower, Ground Floor, Rabindranath Tagore Road, Rabindranath Tagore Road Indore, Madhya Pradesh 452001 India",
+    "gps": [
+      22.716345,
+      75.873385
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 323,
+    "tourism_name": "City Palace",
+    "matched_google_name": "City Palace",
+    "score": 2.0,
+    "gPlusPlaceId": "107756282915950152184",
+    "address": "Udaipur, Rajasthan 313001 India",
+    "gps": [
+      24.576442,
+      73.683511
+    ],
+    "price": null,
+    "closed": false
+  },
+  {
+    "place_idx": 324,
+    "tourism_name": "Albert Hall Museum",
+    "matched_google_name": "Albert Hall Museum",
+    "score": 2.0,
+    "gPlusPlaceId": "116469185177525032381",
+    "address": "Adarsh Nagar Jaipur, Rajasthan India",
+    "gps": [
+      26.911551,
+      75.819492
+    ],
+    "price": null,
+    "closed": false
+  }
+]
