@@ -261,8 +261,8 @@ AI-Powered-Local-Tourism-Recommender/
 ### 1. Environment Setup
 Clone the repository and install dependencies in a virtual environment:
 ```bash
-git clone https://github.com/vishal-0122/AI-Powered-Local-Tourism-Recommender.git
-cd AI-Powered-Local-Tourism-Recommender
+git clone https://github.com/maheshgunji09/unsupervised.git
+cd unsupervised
 
 python -m venv .venv
 # On Windows:
@@ -321,7 +321,7 @@ The application features:
 
 ## Authors & Acknowledgments
 
-* **Original Authors:** Vishal Dangiwala & Deepali Malik
+* **Author:** Mahesh Gunji (maheshgunji09)
 * **Extended Dataset Integration & Machine Learning Pipeline:** Developed with rigorous adherence to reproducible empirical standards.
 * **Data Sources:**
   - *Travel Dataset: Guide to India's Must See Places* (Kaggle)
