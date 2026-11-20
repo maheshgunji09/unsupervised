@@ -67,19 +67,8 @@ PALETTE_FUNCTIONAL = ['#0A84FF', '#30D158', '#FF9F0A', '#BF5AF2', '#64D2FF', '#F
 # 3. APPLE TRANSLUCENT FLOATING SIDEBAR (NO EMOJIS, MONOCHROME LUCIDE ICONS)
 # -----------------------------------------------------------------------------
 with st.sidebar:
-    # macOS Window Controls & Subtle Branding
     st.markdown(f"""
-    <div class="macos-header">
-        <div class="macos-traffic-lights">
-            <span class="traffic-light light-red"></span>
-            <span class="traffic-light light-yellow"></span>
-            <span class="traffic-light light-green"></span>
-        </div>
-        <div style="font-size: 0.70rem; color: var(--text-tertiary); font-weight: 600; letter-spacing: 0.6px;">
-            MACOS TAHOE &bull; LIQUID GLASS
-        </div>
-    </div>
-    <div style="padding: 0 0 16px 2px;">
+    <div style="padding: 6px 0 16px 2px;">
         <div style="display: flex; align-items: center; gap: 9px; margin-bottom: 3px;">
             <div style="width: 24px; height: 24px; border-radius: 6px; background: rgba(255,255,255,0.08); display: flex; align-items: center; justify-content: center;">
                 {get_lucide_icon('compass', size=14, color='var(--text-primary)')}
